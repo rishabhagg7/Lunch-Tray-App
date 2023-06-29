@@ -1,0 +1,698 @@
+06-30 03:59:49.577  3339  3563 I TestRunner: started: order_snackbar(com.example.lunchtray.OrderFunctionalityTests)
+06-30 03:59:49.582  2353  2824 I Finsky  : [104] ose.run(31): Wrote row to frosting DB: 1096
+06-30 03:59:49.618   699   986 I bluetooth: system/bt/stack/gatt/gatt_api.cc:1019 GATT_Register: Allocated name:GattClient uuid:42dc244e-4e35-b58e-007c-6ff80f102b96 gatt_if:6 eatt_support:0
+06-30 03:59:49.620  1104  1391 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=6 mScannerId=0
+06-30 03:59:49.624  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2d9a10e in: DESTROYED
+06-30 03:59:49.624  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:49.624  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:49.624  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:49.637   527  1885 W InputManager-JNI: Input channel object 'b600b92 com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+06-30 03:59:49.701   699   986 E bt_btm  : system/bt/main/bte_logmsg.cc:191 LogMsg: BTM_BleObserve Observe Already Active
+06-30 03:59:49.702   699   986 W bt_btif : system/bt/main/bte_logmsg.cc:194 LogMsg:  bta_dm_ble_observe BTM_BleObserve  failed. status 6
+06-30 03:59:49.809  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413dc890: maj 3 min 0 rcv 3
+06-30 03:59:49.820  1104  3112 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:49.895  3868  3868 I ndroid.calenda: Waiting for a blocking GC ClassLinker
+06-30 03:59:49.899  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 03:59:49.954  2746  3052 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:50.036  3868  3868 I ndroid.calenda: WaitForGcToComplete blocked ClassLinker on Background for 140.501ms
+06-30 03:59:50.326   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 03:59:50.419  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2054233 in: PRE_ON_CREATE
+06-30 03:59:50.420  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.420  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:50.420  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:50.420  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 03:59:50.494  2353  2367 W SQLiteConnectionPool: A SQLiteConnection object for database '/data/user/0/com.android.vending/databases/resource_data.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.
+06-30 03:59:50.494  2353  2367 W System  : A resource failed to call close.
+06-30 03:59:50.496  2353  2367 W System  : A resource failed to call close.
+06-30 03:59:50.520   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 03:59:50.525   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f8000000 0x1f8968000]
+06-30 03:59:50.526   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f8968000 0x1f92d0000]
+06-30 03:59:50.542  2353  2527 I Finsky  : [58] xzs.accept(38): SCH: Scheduling phonesky job Id: 2-48879, CT: 1688077789555, Constraints: [{ L: 0, D: 86400000, C: 2, I: 2, N: 2 }]
+06-30 03:59:50.605  2353  2537 I Finsky  : [62] ybr.apply(42): SCH: Scheduling 0 system job(s)
+06-30 03:59:50.610  1273  1288 I PermissionControllerServiceImpl: Updating user sensitive for user 0
+06-30 03:59:50.647  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2054233 in: CREATED
+06-30 03:59:50.649  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.649  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.650  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.650  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.720  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-1, CT: 1688077789879, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.722  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-4, CT: 1688077789879, Constraints: [{ L: 1200000, D: 86400000, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.722  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-11, CT: 1688077789880, Constraints: [{ L: 600000, D: 86400000, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.739  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-12, CT: 1688077789880, Constraints: [{ L: 0, D: 43200000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.762  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-33, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.763  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-47, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.764  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-26, CT: 1688077789880, Constraints: [{ L: 600000, D: 86400000, C: 1, I: 1, N: 1 }]
+06-30 03:59:50.764  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-3, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.764  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-14, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.770  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-20, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.770  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-98, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.770  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-9, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.770  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-113, CT: 1688077789880, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.771  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-82, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.771  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-46, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.771  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-53, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.773  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-41, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.774  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-73, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.775  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-76, CT: 1688077789881, Constraints: [{ L: 0, D: 604800000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.783  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-78, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 2, N: 0 }]
+06-30 03:59:50.784  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-79, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 2, N: 0 }]
+06-30 03:59:50.792  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-87, CT: 1688077789881, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 03:59:50.822  2353  2527 I Finsky  : [58] ybr.apply(42): SCH: Scheduling 0 system job(s)
+06-30 03:59:50.829  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2054233 in: STARTED
+06-30 03:59:50.829  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.830  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.830  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.830  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.832  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2054233 in: RESUMED
+06-30 03:59:50.833  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.833  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.833  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.833  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:50.854  2353  2353 I Finsky  : [2] pqc.b(2): Hygiene tasks scheduled
+06-30 03:59:50.993  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 1-1337. TimeElapsed: 27873ms.
+06-30 03:59:51.007   939  1024 W AutoDndManagerImpl: Auto DND support connectionless gcore call timed out
+06-30 03:59:51.007   939  1024 W AutoDndManagerImpl: mnl: Timed out (timeout delayed by 44 ms after scheduled time): mjy@45fb228[status=PENDING, setFuture=[mjz@7f73b41[status=PENDING, info=[inputFuture=[mnh@d9838e6[status=PENDING]], function=[propagating=[Functions.constant(true)]]]]]]
+06-30 03:59:51.049   939  1024 W AutoDndSupportHelper: Last successful support value was over 1 day old (2023-06-27T17:47:13.868Z)
+06-30 03:59:51.065  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-101 starting
+06-30 03:59:51.070   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fdc38000 0x1fe5a0000]
+06-30 03:59:51.088   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fe5a0000 0x1fef08000]
+06-30 03:59:51.090   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fef08000 0x1ff870000]
+06-30 03:59:51.100  2353  2353 I Finsky  : [2] jjp.a(1): AIM: AppInfoManager-Perf > Creating AppInfoManager ...
+06-30 03:59:51.310   700   930 D EGL_emulation: app_time_stats: avg=2564.76ms min=2564.76ms max=2564.76ms count=1
+06-30 03:59:51.310  1037  1502 D EGL_emulation: app_time_stats: avg=137.54ms min=5.60ms max=1935.03ms count=18
+06-30 03:59:51.410   700   930 D EGL_emulation: app_time_stats: avg=1323.76ms min=9.42ms max=6547.20ms count=5
+06-30 03:59:51.592  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 03:59:51.609  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:51.674  2353  2353 I Finsky  : [2] jjo.i(1): AIM: AppInfoManager-Perf > getLocalApps > called: USE_CACHE
+06-30 03:59:51.707   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +1s259ms
+06-30 03:59:51.869   527  2597 W InputManager-JNI: Input channel object '2e456e7 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 03:59:51.912  2353  2502 I Finsky  : [50] jjm.a(4): AIM: AppInfoManager-Perf > getInstalledAppsFromPackageStateRepository > packageNames ready: Installed: 201 + Unowned: 0
+06-30 03:59:51.952  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 03:59:51.954  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 03:59:51.955  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 03:59:51.960  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 03:59:52.005  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:52.021  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:52.039  2353  2527 I Finsky  : [58] xzs.accept(38): SCH: Scheduling phonesky job Id: 1-1337, CT: 1688077791027, Constraints: [{ L: 41882548, D: 85082548, C: 1, I: 1, N: 1 }]
+06-30 03:59:52.102  2353  2527 I Finsky  : [58] ybr.apply(42): SCH: Scheduling 0 system job(s)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1585 Failed to get the input connection call's result.
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 37 milliseconds, 279916 nanoseconds delay) for njh@e217cbf[status=PENDING, info=[task=[running=[RUNNING ON ICWrapper-1], hyd@2fe7f8c]]]
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at ngi.get(PG:41)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at icc.h(PG:1)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at icc.g(PG:2)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at icc.t(PG:5)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at ieo.a(PG:3)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at dnh.m(PG:27)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at cal.m(PG:1)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at dnh.onStartInput(PG:35)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:2450)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.startInput(InputMethodService.java:697)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInputWithToken(InputMethodService.java:727)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:199)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:288)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+06-30 03:59:52.126  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+06-30 03:59:52.126  1312  1312 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1506 IPC IC_REQUEST_CURSOR_UPDATES took 159 ms
+06-30 03:59:52.461   700   930 D EGL_emulation: app_time_stats: avg=350.48ms min=234.09ms max=481.77ms count=3
+06-30 03:59:52.463  2353  2506 I Finsky  : [52] jjl.a(5): AIM: AppInfoManager-Perf > getLocalApps > packageNames ready: Installed: 201 + Install Queue: 15, Queue only: 1 sample: [com.google.android.trichromelibrary]
+06-30 03:59:52.475  2353  2506 I Finsky  : [52] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 202 apps
+06-30 03:59:52.484  3339  3581 D EGL_emulation: app_time_stats: avg=35.98ms min=3.91ms max=163.96ms count=32
+06-30 03:59:52.632   700   930 D EGL_emulation: app_time_stats: avg=330.45ms min=36.62ms max=468.37ms count=4
+06-30 03:59:52.714  3339  3339 I Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+06-30 03:59:52.723  1273  1281 I ssioncontrolle: Background young concurrent copying GC freed 3655(373KB) AllocSpace objects, 0(0B) LOS objects, 30% free, 2920KB/4186KB, paused 272us,162us total 1.361s
+06-30 03:59:52.758   527   557 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 3375 in 0ms
+06-30 03:59:52.867   312   312 I Zygote  : Process 3375 exited due to signal 9 (Killed)
+06-30 03:59:52.957  2353  2527 I Finsky  : [58] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=202. Missed  in cache (limit 10) : [com.example.listviewproject, com.google.android.apps.wellbeing, com.android.storagemanager, com.android.printspooler, com.example.listview, com.android.emulator.multidisplay, android.auto_generated_rro_vendor__, com.example.button, com.android.pacprocessor, com.example.whatsappopener]
+06-30 03:59:52.972  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START pkg=com.google.android.gms }
+06-30 03:59:53.001  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 03:59:53.128  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 03:59:53.198  1104  3112 W ctxmgr  : [WorkManager] Long workInfo: pkg=com.google.android.apps.wellbeing, lbl=UpdateFenceRegistration, start=2023-06-30 03:59:51.565+0530, stop=2023-06-30 03:59:53.194+0530, durtn=1629ms [CONTEXT service_id=47 ]
+06-30 03:59:53.238   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(4)
+06-30 03:59:53.257  1104  3112 W SystemServiceRegistry: No service published for: contexthub
+06-30 03:59:53.289  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=202, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.android.contacts, com.example.affirmations, com.google.android.wifi.resources, com.android.location.fused, com.google.android.webview, com.android.systemui.emulation.pixel_3_xl, com.android.wallpaperbackup, com.android.localtransport, com.breel.wallpapers18, com.android.bips]
+06-30 03:59:53.299  1104  3112 W ctxmgr  : [UpdateFenceRegistrationOperation] Gesture nano app is not available. [CONTEXT service_id=47 ]
+06-30 03:59:53.311  2353  2527 I Finsky  : [58] rnd.b(4): Created new item store.
+06-30 03:59:53.311  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 202 apps cacheOptions = USE_CACHE
+06-30 03:59:53.342  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(202), auth()
+06-30 03:59:53.482  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.location.fused
+06-30 03:59:53.482  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.wifi.resources
+06-30 03:59:53.482  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.contacts
+06-30 03:59:53.483  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.affirmations
+06-30 03:59:53.483  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_3_xl
+06-30 03:59:53.483  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.wallpaperbackup
+06-30 03:59:53.488  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.storagemanager.auto_generated_rro_product__
+06-30 03:59:53.489  3339  3581 D EGL_emulation: app_time_stats: avg=26.81ms min=4.29ms max=197.30ms count=33
+06-30 03:59:53.489  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.localtransport
+06-30 03:59:53.491  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.bips
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.emulator.multidisplay
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.stk
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_4a
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.vending
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_4a
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.partnerbookmarks
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.example.lemonade
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.wallpaper.livepicker
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.google.android.syncadapters.contacts
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.google.android.connectivity.resources
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.example.dogglers.test
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.traceur
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.companiondevicemanager
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.nfc
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.settings.auto_generated_rro_product__
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.google.android.configupdater
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.gestural
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.example.scrollview
+06-30 03:59:53.492  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.systemui.auto_generated_rro_product__
+06-30 03:59:53.493  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.breel.wallpapers18
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: android
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.google.android.feedback
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.tall
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.printspooler
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.simappdialog
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.dialer
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_3_xl
+06-30 03:59:53.494  2353  2537 I Finsky  : [62] rmu.apply(20): ItemStore: Missing some fields: com.google.android.webview, 10
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.ext.shared
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.android.unscramble
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.packageinstaller
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.markup
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.gestural_narrow_back
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: android.auto_generated_rro_product__
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.onetimeinitializer
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.dreams.basic
+06-30 03:59:53.496  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.providers.media.module
+06-30 03:59:53.498  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.todoapp
+06-30 03:59:53.498  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.double
+06-30 03:59:53.498  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.statementservice
+06-30 03:59:53.498  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.overlay.permissioncontroller
+06-30 03:59:53.498  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.carrierdefaultapp
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.providers.contacts.auto_generated_rro_product__
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.calendar, 10
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.messaging, 10
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.button
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.maps, 10
+06-30 03:59:53.499  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.overlay.emulatorconfig
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.pixel.exo
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.gm, 10
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.sharedpreferences
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.layoutviews
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.providers.contacts
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.gms, 10
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.viewbinding
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.proxyhandler
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.providers.downloads
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.cellbroadcastreceiver
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.settings.intelligence, 10
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.diceroller
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.onehanded.gestural
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.whatsappopener
+06-30 03:59:53.500  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.bookmarkprovider
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.storagemanager
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.cupcake
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.firstproject
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.corner
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_2_xl
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.threebutton
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.musicfx
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.lunchtray
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.android.sports
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.networkstack.tethering.emulator
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.restore, 10
+06-30 03:59:53.501  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.mms.service
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.setupwizard
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.providers.userdictionary
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.listview
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.sdksetup
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.nexuslauncher, 10
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.lunchtray.test
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_2_xl
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.htmlviewer
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_3
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.nfc.auto_generated_rro_product__
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.providers.calendar
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_4_xl
+06-30 03:59:53.502  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.tts, 10
+06-30 03:59:53.503  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.lemonade.test
+06-30 03:59:53.503  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.phone.auto_generated_rro_vendor__
+06-30 03:59:53.503  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.hotspot2.osulogin
+06-30 03:59:53.503  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.overlay.googleconfig
+06-30 03:59:53.506  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.externalstorage
+06-30 03:59:53.507  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.gestural_extra_wide_back
+06-30 03:59:53.507  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.cellbroadcastreceiver
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.googlequicksearchbox, 10
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.server.telecom.auto_generated_rro_product__
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.intents
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.android.dessertclicker
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.ons
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.certinstaller
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.managedprovisioning.auto_generated_rro_product__
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.twobutton
+06-30 03:59:53.508  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.overlay.pixelconfigcommon
+06-30 03:59:53.509  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.soundpicker, 10
+06-30 03:59:53.509  2353  2506 I Finsky  : [52] rmu.apply(20): ItemStore: Missing some fields: com.android.chrome, 10
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.google.android.tag
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(20): ItemStore: Missing some fields: com.google.android.youtube, 10
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.example.listviewproject
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.google.android.networkstack.tethering
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.blockednumber
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.settings
+06-30 03:59:53.510  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.example.androidwidgets
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.downloads.ui
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.telephony.auto_generated_rro_product__
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.se
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.traceur.auto_generated_rro_product__
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.providers.telephony
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.carrierconfig.auto_generated_rro_vendor__
+06-30 03:59:53.511  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.sharedstoragebackup
+06-30 03:59:53.511  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.egg
+06-30 03:59:53.511  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.phone
+06-30 03:59:53.511  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.bluetoothmidiservice
+06-30 03:59:53.511  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.example.happybirthdaycard
+06-30 03:59:53.511  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.google.android.apps.wallpaper.nexus
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.keychain
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.internal.systemui.navbar.gestural_wide_back
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(20): ItemStore: Missing some fields: com.google.android.inputmethod.latin, 10
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.settings
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.youtube.music, 10
+06-30 03:59:53.512  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_4
+06-30 03:59:53.513  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.example.recyclerview
+06-30 03:59:53.513  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.auto_generated_rro_vendor__
+06-30 03:59:53.513  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_4_xl
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.docs, 10
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.mtp
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.printservice.recommendation
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.partnersetup, 11
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.bluetooth
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.backupconfirm
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.camera2
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.pacprocessor
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.soundpicker
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.emulator.radio.config
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.dynsystem
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.emergency
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_3a_xl
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.cts.ctsshim
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.apps.nexuslauncher.auto_generated_rro_vendor__
+06-30 03:59:53.513  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.calllogbackup
+06-30 03:59:53.514  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.server.telecom
+06-30 03:59:53.514  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.emergency.auto_generated_rro_product__
+06-30 03:59:53.514  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_4
+06-30 03:59:53.514  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.wallpaper, 10
+06-30 03:59:53.514  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.bips.auto_generated_rro_product__
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.deskclock, 10
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.dogglers
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.imsserviceentitlement
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.simappdialog.auto_generated_rro_product__
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.tipcalculator
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.google.android.overlay.googlewebview
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.photos, 10
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.example.myapplication
+06-30 03:59:53.515  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.hole
+06-30 03:59:53.515  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_5
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(20): ItemStore: Missing some fields: com.google.android.apps.wellbeing, 10
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.example.referencelayout
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.carrierconfig
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.theme.font.notoserifsource
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.inputdevices
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.example.staticbroadcastrecievers
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.example.wordsapp
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.cts.priv.ctsshim
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.providers.settings.auto_generated_rro_vendor__
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.systemui.plugin.globalactions.wallet
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.systemui
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: android.auto_generated_rro_vendor__
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.example.filerw
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.cameraextensions
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.providers.media
+06-30 03:59:53.516  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.shell
+06-30 03:59:53.517  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.google.android.gsf
+06-30 03:59:53.517  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.google.android.cellbroadcastservice
+06-30 03:59:53.517  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.google.android.trichromelibrary
+06-30 03:59:53.517  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.waterfall
+06-30 03:59:53.517  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.systemui.emulation.pixel_3a
+06-30 03:59:53.517  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.phone.auto_generated_rro_product__
+06-30 03:59:53.518  2353  2506 I Finsky  : [52] rmu.apply(5): ItemStore: Not cached: com.android.managedprovisioning
+06-30 03:59:53.520  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.vpndialogs
+06-30 03:59:53.520  2353  2527 I Finsky  : [58] rmu.apply(20): ItemStore: Missing some fields: com.google.android.projection.gearhead, 10
+06-30 03:59:53.520  2353  2527 I Finsky  : [58] rmu.apply(5): ItemStore: Not cached: com.android.internal.display.cutout.emulation.emu01
+06-30 03:59:53.522  2353  2537 I Finsky  : [62] rmu.apply(5): ItemStore: Not cached: com.android.internal.emulation.pixel_5
+06-30 03:59:53.522  2353  2530 I Finsky  : [60] rmu.apply(5): ItemStore: Not cached: com.android.settings.auto_generated_rro_product__
+06-30 03:59:53.532  3868  3943 W ndroid.calenda: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 03:59:53.533  3868  3943 W ndroid.calenda: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:53.533  3868  3943 W ndroid.calenda: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:53.563  1104  3112 W ctxmgr  : [UpdateFenceRegistrationOperation] Gesture nano app is not available. [CONTEXT service_id=47 ]
+06-30 03:59:53.586  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:53.740  2746  2786 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:53.761   700   700 D TileServices: Couldn't find tile for ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.screen.ui.GrayscaleTileService}
+06-30 03:59:54.097  3868  3959 I c.zhd   : Obtained writable database SQLiteDatabase/193728712 instance with path /data/user/0/com.google.android.calendar/databases/cal_v2a
+06-30 03:59:54.111  2746  2786 D HostConnection: createUnique: call
+06-30 03:59:54.114  2746  2786 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413e0250, tid 2786
+06-30 03:59:54.117  3868  3956 I c.zfk   : The schema version is 17, the database version is 17, and there are 0 migrations
+06-30 03:59:54.128  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231132/com.example.lunchtray:id/salad>
+06-30 03:59:54.145  2746  2786 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:54.152  2746  2786 D EGL_emulation: eglCreateContext: 0xb400007c413dd010: maj 3 min 0 rcv 3
+06-30 03:59:54.155  2746  2786 D EGL_emulation: eglMakeCurrent: 0xb400007c413dd010: ver 3 0 (tinfo 0x7e580e1280) (first time)
+06-30 03:59:54.276  3868  3868 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10113; state: DISABLED
+06-30 03:59:54.340  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.onetimeinitializer
+06-30 03:59:54.368   700   700 D TileServices: Couldn't find tile for ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.focusmode.quicksettings.FocusModeTileService}
+06-30 03:59:54.492  3339  3581 D EGL_emulation: app_time_stats: avg=19.91ms min=4.68ms max=220.16ms count=42
+06-30 03:59:54.508   527   557 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 3415 in 52ms
+06-30 03:59:54.521  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:54.560   312   312 I Zygote  : Process 3415 exited due to signal 9 (Killed)
+06-30 03:59:54.749   312   312 D Zygote  : Forked child process 3987
+06-30 03:59:54.759   527   557 I libprocessgroup: Successfully killed process cgroup uid 10062 pid 3434 in 46ms
+06-30 03:59:54.797  3987  3987 E s.youtube.musi: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:54.805   312   312 I Zygote  : Process 3434 exited due to signal 9 (Killed)
+06-30 03:59:54.862  3987  3987 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10120; state: DISABLED
+06-30 03:59:54.939  3987  3987 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/YouTubeMusicPrebuilt/lib/arm64:/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 03:59:54.968  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.deskclock
+06-30 03:59:54.987  3987  3987 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.youtube.music' set to: 'default'
+06-30 03:59:54.987  3987  3987 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 03:59:54.987  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.nearby.exposurenotification.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps }
+06-30 03:59:54.988  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.chimera.container.moduleinstall.ModuleInstallService.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+06-30 03:59:54.999  3987  3987 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 03:59:55.012  3987  3987 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 03:59:55.050  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 03:59:55.122  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.171  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.187  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.204  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.273  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.273  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.273  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.274  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.274  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.274  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.275  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.276  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.276  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.277  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.277  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.279  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.280  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.280  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.281  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.285  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.285  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.288  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.289  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.289  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.290  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.290  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.292  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.293  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.294  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.295  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.296  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.297  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.298  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.299  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.299  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.299  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.299  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.299  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.300  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.301  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.301  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.301  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.302  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.302  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.302  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.302  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.302  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.303  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.303  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.303  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.304  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.305  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.306  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.306  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.306  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.306  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.306  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.307  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.308  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.309  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.309  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.310  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.310  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.310  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.311  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.311  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.311  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.311  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.324  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.324  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.328  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.329  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.329  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.329  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.330  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.330  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.331  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.331  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.331  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.332  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.333  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.333  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.333  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.333  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.333  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.334  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.334  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.334  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.334  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.334  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.335  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.335  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.360  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.361  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.361  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.362  2353  2530 E Finsky  : [60] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.362  2353  2506 E Finsky  : [52] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.363  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.363  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.364  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.364  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.364  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.365  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.365  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.365  2353  2537 E Finsky  : [62] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.365  2353  2527 E Finsky  : [58] rnb.a(16): ItemStore: getItems RPC failed.
+06-30 03:59:55.387  3987  4007 W System  : ClassLoader referenced unknown path:
+06-30 03:59:55.394  3987  3987 W s.youtube.musi: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 03:59:55.395  3987  3987 W s.youtube.musi: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:55.395  3987  3987 W s.youtube.musi: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:55.412  2353  2353 W Finsky  : [2] aadu.b(12): STU: Failed to get storage stats for package 'com.google.android.trichromelibrary' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+06-30 03:59:55.443  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:55.460  2353  2506 I Finsky  : [52] sps.u(7): # auiw@79859d6e not available [restriction=9].
+06-30 03:59:55.460  2353  2506 I Finsky  : [52] iyx.z(5): AU: Cannot update unavailable app: pkg=com.google.android.settings.intelligence,restriction=UNAVAILABLE_DEVICE_HARDWARE
+06-30 03:59:55.472  2353  2506 I Finsky  : [52] sps.u(7): # auiw@e3d0eaa9 not available [restriction=9].
+06-30 03:59:55.473  2353  2506 I Finsky  : [52] iyx.z(5): AU: Cannot update unavailable app: pkg=com.google.android.apps.nexuslauncher,restriction=UNAVAILABLE_DEVICE_HARDWARE
+06-30 03:59:55.478  2353  2506 I Finsky  : [52] sps.u(7): # auiw@7979d045 not available [restriction=9].
+06-30 03:59:55.478  2353  2506 I Finsky  : [52] iyx.z(5): AU: Cannot update unavailable app: pkg=com.google.android.soundpicker,restriction=UNAVAILABLE_DEVICE_HARDWARE
+06-30 03:59:55.482  3987  4025 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 03:59:55.485  1104  1391 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 03:59:55.492  2353  2506 I Finsky  : [52] sps.u(7): # auiw@94dd32e2 not available [restriction=9].
+06-30 03:59:55.492  2353  2506 I Finsky  : [52] iyx.z(5): AU: Cannot update unavailable app: pkg=com.google.android.projection.gearhead,restriction=UNAVAILABLE_DEVICE_HARDWARE
+06-30 03:59:55.523  3339  3581 D EGL_emulation: app_time_stats: avg=20.70ms min=4.11ms max=215.75ms count=41
+06-30 03:59:55.533   527  3124 D ConnectivityService: requestNetwork for uid/pid:10120/3987 activeRequest: null callbackRequest: 126 [NetworkRequest [ REQUEST id=127, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:55.535   527   646 D ConnectivityService: NetReassign [127 : null → 101]
+06-30 03:59:55.547   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=127, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.548   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=127, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.548   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=127, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.569  3987  4025 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+06-30 03:59:55.599  3987  4049 E GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+06-30 03:59:55.623  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 03:59:55.642  2353  2506 I Finsky  : [52] yrv.r(4): SCH: jobFinished: 10-101. TimeElapsed: 4559ms.
+06-30 03:59:55.697  3987  4027 E AwarenessClientProvider: Account associated with identity was null
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: Exception while syncing fences
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Account associated with identity was null
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at acyh.s(PG:6)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at acyh.get(PG:4)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at adbz.a(PG:1)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at adaq.p(PG:2)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at gzf.run(PG:1)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at nwe.run(PG:1)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at nvp.run(PG:2)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at nvf.run(PG:2)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: Caused by: java.lang.IllegalStateException: Account associated with identity was null
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at gyl.a(PG:3)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at acyj.f(PG:2)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	at acyl.run(PG:9)
+06-30 03:59:55.706  3987  4027 E AwarenessRouterSyncMgr: 	... 6 more
+06-30 03:59:55.729  2353  2621 I Finsky  : [82] ysp.a(111): SCH: Satisfied jobs for 9860 are: 10-1, 10-3, 10-9, 10-12, 10-14, 10-20, 10-33, 10-41, 10-46, 10-47, 10-53, 10-73, 10-76, 10-82, 10-87, 10-98, 10-113, 37-53
+06-30 03:59:55.797  2353  4060 I Finsky  : [130] ysh.accept(68): SCH: Job 10-1 starting
+06-30 03:59:55.851  2353  4060 I Finsky  : [130] ysh.accept(68): SCH: Job 10-3 starting
+06-30 03:59:55.854  2353  2353 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : warmUpIntegrityToken(815409574534)
+06-30 03:59:55.856  2353  4060 I Finsky  : [130] ysh.accept(68): SCH: Job 10-9 starting
+06-30 03:59:55.856  2353  4060 I Finsky  : [130] ysh.accept(68): SCH: Job 10-12 starting
+06-30 03:59:55.857  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : Initiate binding to the service.
+06-30 03:59:55.874  2353  2461 I Finsky  : [44] yrv.r(4): SCH: jobFinished: 10-9. TimeElapsed: 5ms.
+06-30 03:59:55.877  2353  2541 I PlayCommon: [63] alko.j(32): Preparing logs for uploading
+06-30 03:59:55.892  2353  2541 W PlayCommon: [63] alko.l(1): No account for auth token provided
+06-30 03:59:55.893  2353  2541 I PlayCommon: [63] alko.j(183): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+06-30 03:59:55.904  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-14 starting
+06-30 03:59:55.905  2353  2353 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.expressintegrityservice.ExpressIntegrityService})
+06-30 03:59:55.906  2353  2353 I Finsky  : [2] InstantAppsEnabledStatusSyncHygieneJob.a(3): Instant App status sync triggered from migrated hygiene.
+06-30 03:59:55.906  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : linkToDeath
+06-30 03:59:55.918  2353  2527 I Finsky  : [58] paq.call(8): Enqueue status sync job.
+06-30 03:59:55.920  2353  2537 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+06-30 03:59:55.924  3987  4054 W GoogleTagManager: Failed to extract the container from the resource file. Resource is a UTF-8 encoded string but doesn't contain a JSON container
+06-30 03:59:55.925  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231224/com.example.lunchtray:id/submit_button>
+06-30 03:59:55.929   527  2581 D ConnectivityService: requestNetwork for uid/pid:10120/3987 activeRequest: null callbackRequest: 128 [NetworkRequest [ REQUEST id=129, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:55.929  2353  2527 I Finsky  : [58] yrv.r(4): SCH: jobFinished: 10-14. TimeElapsed: 23ms.
+06-30 03:59:55.929   527   646 D ConnectivityService: NetReassign [129 : null → 101]
+06-30 03:59:55.932   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=129, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.932   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=129, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.932   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=129, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:55.938   527   646 D ConnectivityService: NetReassign [no changes]
+06-30 03:59:55.940  3987  4061 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10120; state: DISABLED
+06-30 03:59:55.945  2353  2537 W Settings: Setting download_manager_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+06-30 03:59:55.946  2353  2537 I Finsky  : [62] yrv.r(4): SCH: jobFinished: 10-1. TimeElapsed: 112ms.
+06-30 03:59:55.950  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.modulemetadata
+06-30 03:59:55.962  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-20 starting
+06-30 03:59:55.967  2353  2353 I Finsky  : [2] DeferredVpaNotificationHygieneJob.a(1): Start Vpa Service for Deferred Setup Notification
+06-30 03:59:55.970  2353  2353 I Finsky  : [2] DeferredVpaNotificationHygieneJob.a(8): setup::PAI: Deferred PAI is not allowed
+06-30 03:59:55.971  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 10-20. TimeElapsed: 7ms.
+06-30 03:59:56.005  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.webview
+06-30 03:59:56.010  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.syncadapters.contacts
+06-30 03:59:56.014  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-33 starting
+06-30 03:59:56.015  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.android.chrome
+06-30 03:59:56.016  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-41 starting
+06-30 03:59:56.017  2353  2353 I Finsky  : [2] AutoUpdateHygieneJob.a(7): AU2: hygiene task started
+06-30 03:59:56.033  2353  2353 I Finsky  : [2] InstantAppsArchivePrefetchHygieneJob.a(2): Instant Apps archive prefetch triggered from hygiene.
+06-30 03:59:56.065  2353  2541 I PlayCommon: [63] alko.j(220): Successfully uploaded logs.
+06-30 03:59:56.074  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 10-41. TimeElapsed: 41ms.
+06-30 03:59:56.084   699   699 V MediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_CHANGED
+06-30 03:59:56.085   699   699 D MediaPlayerList: Name of package changed: com.google.android.apps.docs
+06-30 03:59:56.097   527   614 I RoleService: Granting default roles...
+06-30 03:59:56.116  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-46 starting
+06-30 03:59:56.117  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 10-46. TimeElapsed: 1ms.
+06-30 03:59:56.118  3987  3987 W YT.MDX.tyl: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+06-30 03:59:56.127  3987  3987 W YT.MDX.tyl: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+06-30 03:59:56.129  2353  2353 W CarApp.Conn: Null response from content provider when checking connection to the car, treating as disconnected
+06-30 03:59:56.130  2353  2353 I Finsky  : [2] pao.afk(3): GH::GSM: IsProjecting:false
+06-30 03:59:56.130  2353  2353 I Finsky  : [2] pao.afk(8): GH::GSM: Gearhead listeners Notified that Projection is: false
+06-30 03:59:56.143  2353  2353 I Finsky  : [2] kcy.b(33): AU2: Successfully cleaned-up UpdateFailureHistory
+06-30 03:59:56.160  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-47 starting
+06-30 03:59:56.165  2353  2621 I Finsky  : [82] kcy.b(26): [Counters Flush] finished, scheduled=false
+06-30 03:59:56.165  2353  2621 I Finsky  : [82] yrv.r(4): SCH: jobFinished: 10-47. TimeElapsed: 5ms.
+06-30 03:59:56.185  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.contacts
+06-30 03:59:56.186  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-53 starting
+06-30 03:59:56.187  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 10-53. TimeElapsed: 1ms.
+06-30 03:59:56.188  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+06-30 03:59:56.204  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-73 starting
+06-30 03:59:56.205  2787  2787 I Finsky:background: [2] rir.onCreate(2): IPC-SERVER: Starting gRPC host service...
+06-30 03:59:56.207  2353  4084 I Finsky  : [134] yrv.r(4): SCH: jobFinished: 10-73. TimeElapsed: 2ms.
+06-30 03:59:56.210  2353  2537 I PlayCore: UID: [10099]  PID: [2353] OnWarmUpIntegrityTokenCallback : onWarmUpExpressIntegrityToken
+06-30 03:59:56.211  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : Unbind from service.
+06-30 03:59:56.217  2353  2459 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : requestExpressIntegrityToken(-3544378915876774311)
+06-30 03:59:56.239  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : Initiate binding to the service.
+06-30 03:59:56.241   527   619 I InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS |
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f0802ab.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f13050b.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f13050b.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f0802a7.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f130509.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f130509.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f0802a9.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f13050a.
+06-30 03:59:56.241   527   554 E system_server: No package ID 7f found for ID 0x7f13050a.
+06-30 03:59:56.268   527  2581 D ConnectivityService: requestNetwork for uid/pid:10120/3987 activeRequest: null callbackRequest: 131 [NetworkRequest [ REQUEST id=132, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:56.269  1104  1104 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.apperrors.service.START_APP_ERROR dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-30 03:59:56.269  1104  1104 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.apperrors.service.START_APP_ERROR dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-30 03:59:56.270   527   646 D ConnectivityService: NetReassign [132 : null → 101]
+06-30 03:59:56.285   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=132, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:56.286   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=132, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:56.286   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=132, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:56.304   870   870 D CarrierSvcBindHelper: No carrier app for: 0
+06-30 03:59:56.331   870   870 D ImsResolver: maybeAddedImsService, packageName: com.google.android.apps.docs
+06-30 03:59:56.333  1273  1288 I PermissionControllerServiceImpl: Updating user sensitive for uid 10124
+06-30 03:59:56.361  1104  4083 I Fitness : (REDACTED) OnPackageChangedOperation got intent: %s
+06-30 03:59:56.383  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+06-30 03:59:56.387  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+06-30 03:59:56.441  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Order Submitted!"
+06-30 03:59:56.444  3339  3563 I TestRunner: finished: order_snackbar(com.example.lunchtray.OrderFunctionalityTests)

@@ -1,0 +1,553 @@
+06-30 04:00:17.594  3339  3563 I TestRunner: started: order_reset_after_cancel_from_checkout(com.example.lunchtray.OrderFunctionalityTests)
+06-30 04:00:17.628  4411  4411 I Finsky:quick_launch: [2] tgt.onTrimMemory(1): Memory trim requested to level 40
+06-30 04:00:17.694  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.695  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.701  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b in: DESTROYED
+06-30 04:00:17.702  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 04:00:17.702  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.702  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.703  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.703  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.705  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.finsky.zapp.appupdate.NOTIFY_PENDING_UPDATE pkg=com.google.android.gms }
+06-30 04:00:17.707  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.707  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.707  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.707  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.707  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.707  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.708  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.708  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.708  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.708  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.709  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.709  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.709  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.709  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.709  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.710  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.710  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(44): AU2: RequiredInteractivityState is missing.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.710  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.710  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.711  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.711  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.711  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.711  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.717  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.717  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.717  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.718  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:17.718  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:17.718  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:17.730   870   870 I VvmSimStateTracker: android.intent.action.SIM_STATE_CHANGED
+06-30 04:00:17.731   700   722 I ndroid.systemu: NativeAlloc concurrent copying GC freed 36167(1603KB) AllocSpace objects, 2(40KB) LOS objects, 49% free, 8829KB/17MB, paused 410us,637us total 1.183s
+06-30 04:00:17.738   700   724 W System  : A resource failed to call close.
+06-30 04:00:17.738   700   724 W System  : A resource failed to call close.
+06-30 04:00:17.738   700   724 W System  : A resource failed to call release.
+06-30 04:00:17.739   700   724 W System  : A resource failed to call close.
+06-30 04:00:17.739   700   724 W System  : A resource failed to call release.
+06-30 04:00:17.739   700   724 W System  : A resource failed to call close.
+06-30 04:00:17.741   700   724 W System  : A resource failed to call release.
+06-30 04:00:17.742   700   724 W System  : A resource failed to call release.
+06-30 04:00:17.767   527  3124 W InputManager-JNI: Input channel object '44aa3c3 com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (client)' was disposed without first being removed with the input manager!
+06-30 04:00:17.818  3339  3339 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+06-30 04:00:17.858  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 04:00:17.935  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@8f476a6 in: PRE_ON_CREATE
+06-30 04:00:17.936  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:17.936  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 04:00:17.943   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 04:00:17.962   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f0968000 0x1f12d0000]
+06-30 04:00:17.973   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f7164000 0x1f7acc000]
+06-30 04:00:17.977   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 04:00:18.011  1037  1502 D EGL_emulation: app_time_stats: avg=67.92ms min=6.27ms max=733.86ms count=17
+06-30 04:00:18.019  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@8f476a6 in: CREATED
+06-30 04:00:18.019  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.020  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.040  2353  2353 I Finsky  : [2] SimStateReceiver.c(4): android.intent.action.SIM_STATE_CHANGED : simState = LOADED
+06-30 04:00:18.054  2787  2827 I Finsky:background: [39] njh.run(33): Stats for Executor: bgExecutor njy@9b9ef0f[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 10]
+06-30 04:00:18.054  2787  2827 I Finsky:background: [39] njh.run(33): Stats for Executor: LightweightExecutor njy@f9b8b9c[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1]
+06-30 04:00:18.059  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@8f476a6 in: STARTED
+06-30 04:00:18.060  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.060  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.061  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@8f476a6 in: RESUMED
+06-30 04:00:18.061  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.062  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@8f476a6
+06-30 04:00:18.120   700   930 D EGL_emulation: app_time_stats: avg=994.87ms min=10.66ms max=7178.02ms count=8
+06-30 04:00:18.121   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1fada8000 0x1fb710000]
+06-30 04:00:18.124   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f93a8000 0x1f9d10000]
+06-30 04:00:18.125   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 04:00:18.128   700   930 D EGL_emulation: app_time_stats: avg=957.15ms min=7.52ms max=7180.26ms count=8
+06-30 04:00:18.177   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +285ms
+06-30 04:00:18.236  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 04:00:18.255  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 04:00:18.256  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 04:00:18.256  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 04:00:18.258  2353  2527 I Finsky  : [58] xzs.accept(38): SCH: Scheduling phonesky job Id: 37-54, CT: 1688077818074, Constraints: [{ L: 0, D: 0, C: 1, I: 1, N: 0 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+06-30 04:00:18.259  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 04:00:18.260  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.docs, isid:q0PT3g8wRbShR3V6Nn_uEA]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.messaging, isid:sqR9eA4-SZiSEi5q0Jst3g]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.youtube.music, isid:wPyDg0XJQeShxMnUEm6KSw]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.maps, isid:E6k_0sF9QGOg6ux_Ioyjgg]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.calendar, isid:U_QFkmbdRQunAuxaCFyP2A]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.googlequicksearchbox, isid:f6edeMQySiCpK8N5PRYIUg]
+06-30 04:00:18.261  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.photos, isid:MQwTSB7DRmyRwcZ9Bv-ysQ]
+06-30 04:00:18.262  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.youtube, isid:nY2o370cReyBTZkmIgf0Vg]
+06-30 04:00:18.262  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.gms, isid:3aJzpucgSyW99sAbdI9Zag]
+06-30 04:00:18.262  2353  2955 I Finsky  : [107] qoe.a(2): IQ::SLP: Process requests [Package:com.google.android.apps.docs, isid:q0PT3g8wRbShR3V6Nn_uEA], [Package:com.google.android.apps.messaging, isid:sqR9eA4-SZiSEi5q0Jst3g], [Package:com.google.android.apps.youtube.music, isid:wPyDg0XJQeShxMnUEm6KSw], [Package:com.google.android.apps.maps, isid:E6k_0sF9QGOg6ux_Ioyjgg], [Package:com.google.android.calendar, isid:U_QFkmbdRQunAuxaCFyP2A], [Package:com.google.android.googlequicksearchbox, isid:f6edeMQySiCpK8N5PRYIUg], [Package:com.google.android.apps.photos, isid:MQwTSB7DRmyRwcZ9Bv-ysQ], [Package:com.google.android.youtube, isid:nY2o370cReyBTZkmIgf0Vg], [Package:com.google.android.gms, isid:3aJzpucgSyW99sAbdI9Zag].
+06-30 04:00:18.281  2353  2537 I Finsky  : [62] ybr.apply(42): SCH: Scheduling 1 system job(s)
+06-30 04:00:18.282  2353  2537 I Finsky  : [62] ybr.apply(58): SCH: Scheduling expedited system job 9925
+06-30 04:00:18.335   527   557 I libprocessgroup: Successfully killed process cgroup uid 10123 pid 4264 in 0ms
+06-30 04:00:18.356  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 04:00:18.368  1851  1851 I WakefulBroadcastRcvr: Processing wakeful broadcast: com.google.android.gms.checkin.CHECKIN_START_ACTION
+06-30 04:00:18.406   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f3340000 0x1f359c000]
+06-30 04:00:18.426   527  3601 D HostConnection: createUnique: call
+06-30 04:00:18.431   527  3601 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c41422c10, tid 3601
+06-30 04:00:18.456   527  3601 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:18.461   527  3601 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-30 04:00:18.462   527  3601 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-30 04:00:18.468   527  3601 D EGL_emulation: eglCreateContext: 0xb400007c413e7ed0: maj 3 min 0 rcv 3
+06-30 04:00:18.469   527  3601 D EGL_emulation: eglMakeCurrent: 0xb400007c413e7ed0: ver 3 0 (tinfo 0x7b9ff8b080) (first time)
+06-30 04:00:18.470   527   692 D HostConnection: createUnique: call
+06-30 04:00:18.471   527   692 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c4141cfd0, tid 692
+06-30 04:00:18.510   527   692 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:18.561   312   312 I Zygote  : Process 4264 exited due to signal 9 (Killed)
+06-30 04:00:18.587   527   557 I libprocessgroup: Successfully killed process cgroup uid 10123 pid 4264 in 0ms
+06-30 04:00:18.617  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.pseudonymous.service.START pkg=com.google.android.gms }
+06-30 04:00:18.634  1104  4872 I ProximityAuth: [SimStateChangedIntentOperation] Handling intent Intent { act=android.intent.action.SIM_STATE_CHANGED flg=0x5000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) }
+06-30 04:00:18.656  1104  4872 I ProximityAuth: [MessageProcessorManager] MessageProcessorManager instantiated for user UserHandle{0}
+06-30 04:00:18.666   312   312 D Zygote  : Forked child process 5022
+06-30 04:00:18.676  1851  4875 I Checkin : [EventLogChimeraService] Opted in for usage reporting: false
+06-30 04:00:18.773   406   447 I adbd    : jdwp connection from 5022
+06-30 04:00:18.792   527  2576 W InputManager-JNI: Input channel object '545ed32 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 04:00:18.861  5022  5022 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10123; state: ENABLED
+06-30 04:00:18.925  1851  4873 I constellation: [sim_state_checker] Handling intent Intent { act=android.intent.action.SIM_STATE_CHANGED flg=0x5000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }
+06-30 04:00:18.943  1851  4875 I Checkin : [CheckinOperation] Checkin Operation finished with result: RESCHEDULED finish time: 97888.
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.libraries.consentverifier#com.google.android.tts failed
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at fy.i(PG:8)
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at cno.b(PG:2)
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at cno.a(PG:2)
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at cno.a(PG:9)
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at cuk.run(PG:1)
+06-30 04:00:18.955  4629  4841 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:18.966  4678  4687 W android.youtub: Suspending all threads took: 21.669ms
+06-30 04:00:18.990  1851  4875 I Checkin : [ScheduledCheckinGmsTaskService] scheduleCheckinTask
+06-30 04:00:19.000  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 04:00:19.000  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 04:00:19.017  1851  4875 I Checkin : [ExecutionManager] Checkin scheduled at 7491934.
+06-30 04:00:19.032  1312  1312 I PhenotypeModule: PhenotypeModule.receiveBroadcast():506 onReceive() urgent = false
+06-30 04:00:19.034  1312  1312 I PhenotypeModule: PhenotypeModule.maybeFetchAndUpdate():217 maybeFetchAndUpdate: start new task to fetch
+06-30 04:00:19.085  1312  1312 I PhenotypeModule: PhenotypeModule.receiveBroadcast():506 onReceive() urgent = false
+06-30 04:00:19.099  1312  1312 I PhenotypeModule: PhenotypeModule.receiveBroadcast():506 onReceive() urgent = false
+06-30 04:00:19.100  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 04:00:19.124   700   930 D EGL_emulation: app_time_stats: avg=125.50ms min=12.01ms max=456.39ms count=8
+06-30 04:00:19.136   700   930 D EGL_emulation: app_time_stats: avg=124.72ms min=11.48ms max=396.10ms count=8
+06-30 04:00:19.164  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 04:00:19.187  1104  3107 I PackageUpdateTaskChimer: (REDACTED) Scheduling Phenotype config package catchup updates to be %d seconds from now (%d)
+06-30 04:00:19.240  3339  3581 D EGL_emulation: app_time_stats: avg=28.97ms min=3.85ms max=235.63ms count=34
+06-30 04:00:19.268  5022  5022 W ogle.android.g: Entry not found
+06-30 04:00:19.276  5022  5022 W ogle.android.g: Entry not found
+06-30 04:00:19.280  5022  5022 W ogle.android.g: Entry not found
+06-30 04:00:19.287  5022  5022 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:19.287  5022  5022 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:19.287  5022  5022 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:19.363  5022  5022 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.gm' set to: 'default'
+06-30 04:00:19.363  5022  5022 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:19.365  5022  5022 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:19.373  5022  5022 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:19.399  2353  2955 W System  : ClassLoader referenced unknown path:
+06-30 04:00:19.448  2787  2827 I Finsky:background: [39] njh.run(33): Stats for Executor: BlockingExecutor njy@6c29a5[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+06-30 04:00:19.470  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.docs, pm_package_name=com.google.android.apps.docs, version=213191220, priority=3, reason=auto_update, account_name=, type=0, isid=q0PT3g8wRbShR3V6Nn_uEA, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.478  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.messaging, pm_package_name=com.google.android.apps.messaging, version=189038063, priority=3, reason=auto_update, account_name=, type=0, isid=sqR9eA4-SZiSEi5q0Jst3g, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.478  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.youtube.music, pm_package_name=com.google.android.apps.youtube.music, version=60750240, priority=3, reason=auto_update, account_name=, type=0, isid=wPyDg0XJQeShxMnUEm6KSw, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.478  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.maps, pm_package_name=com.google.android.apps.maps, version=1067066720, priority=3, reason=auto_update, account_name=, type=0, isid=E6k_0sF9QGOg6ux_Ioyjgg, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.478  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.calendar, pm_package_name=com.google.android.calendar, version=2017207022, priority=3, reason=auto_update, account_name=, type=0, isid=U_QFkmbdRQunAuxaCFyP2A, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.478  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.googlequicksearchbox, pm_package_name=com.google.android.googlequicksearchbox, version=301247717, priority=3, reason=auto_update, account_name=, type=0, isid=f6edeMQySiCpK8N5PRYIUg, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.479  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.photos, pm_package_name=com.google.android.apps.photos, version=48388495, priority=3, reason=auto_update, account_name=, type=0, isid=MQwTSB7DRmyRwcZ9Bv-ysQ, constraints=((REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.479  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.youtube, pm_package_name=com.google.android.youtube, version=1538385344, priority=3, reason=auto_update, account_name=, type=0, isid=nY2o370cReyBTZkmIgf0Vg, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:19.479  2353  2530 I Finsky  : [60] qml.m(2): IQ: Scheduling install request package_name=com.google.android.gms, pm_package_name=com.google.android.gms, version=232414044, priority=2, reason=auto_update, account_name=, type=0, isid=3aJzpucgSyW99sAbdI9Zag, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125),)
+06-30 04:00:19.542  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:19.551  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.docs, isid:q0PT3g8wRbShR3V6Nn_uEA]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.596  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.maps, isid:E6k_0sF9QGOg6ux_Ioyjgg]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.600  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.messaging, isid:sqR9eA4-SZiSEi5q0Jst3g]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.604  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.photos, isid:MQwTSB7DRmyRwcZ9Bv-ysQ]. oldConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.610  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.youtube.music, isid:wPyDg0XJQeShxMnUEm6KSw]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.616  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.calendar, isid:U_QFkmbdRQunAuxaCFyP2A]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.619  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.googlequicksearchbox, isid:f6edeMQySiCpK8N5PRYIUg]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:19.631  5022  5065 W ogle.android.g: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:19.631  5022  5065 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:19.631  5022  5065 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:19.635  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.youtube, isid:nY2o370cReyBTZkmIgf0Vg], status=SCHEDULED, tsc=PT13.954S
+06-30 04:00:19.676  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.googlequicksearchbox, isid:f6edeMQySiCpK8N5PRYIUg], status=SCHEDULED, tsc=PT14.28S
+06-30 04:00:19.706  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.youtube
+06-30 04:00:19.719  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.youtube, isid: nY2o370cReyBTZkmIgf0Vg
+06-30 04:00:19.734  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:19.762  2353  2527 I Finsky  : [58] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.youtube]
+06-30 04:00:19.764  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:19.764  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.messaging, isid:sqR9eA4-SZiSEi5q0Jst3g], status=SCHEDULED, tsc=PT14.411S
+06-30 04:00:19.765  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.googlequicksearchbox
+06-30 04:00:19.766  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.googlequicksearchbox, isid: f6edeMQySiCpK8N5PRYIUg
+06-30 04:00:19.766  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:19.766  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:19.771  2353  2530 I Finsky  : [60] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.googlequicksearchbox]
+06-30 04:00:19.775  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:19.785  2353  2506 I Finsky  : [52] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:19.885  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.googlequicksearchbox]
+06-30 04:00:19.891  2353  2530 I Finsky  : [60] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.youtube]
+06-30 04:00:19.894  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.messaging
+06-30 04:00:19.897  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.messaging, isid: sqR9eA4-SZiSEi5q0Jst3g
+06-30 04:00:19.897  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:19.898  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.messaging]
+06-30 04:00:19.900  2353  2530 I Finsky  : [60] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:19.900  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:19.901  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:19.901  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:19.902  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:19.902  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.docs, isid:q0PT3g8wRbShR3V6Nn_uEA], status=SCHEDULED, tsc=PT14.236S
+06-30 04:00:19.905  2353  2530 I Finsky  : [60] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:19.907  5022  5073 I org.webrtc.Logging: CrashStartupListener: Checking conference crashes for 0 account(s).
+06-30 04:00:19.930  2353  2365 W android.vendin: Suspending all threads took: 10.526ms
+06-30 04:00:19.974  2353  2530 I Finsky  : [60] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.messaging]
+06-30 04:00:19.974  2353  2530 I Finsky  : [60] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:19.974  2353  2530 I Finsky  : [60] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:19.993  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231132/com.example.lunchtray:id/salad>
+06-30 04:00:20.002  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.006  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.maps, isid:E6k_0sF9QGOg6ux_Ioyjgg], status=SCHEDULED, tsc=PT14.772S
+06-30 04:00:20.009  5022  5086 W System  : ClassLoader referenced unknown path:
+06-30 04:00:20.012  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.docs
+06-30 04:00:20.012  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.docs, isid: q0PT3g8wRbShR3V6Nn_uEA
+06-30 04:00:20.012  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.013  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.docs]
+06-30 04:00:20.014  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.024  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.025  2353  2530 I Finsky  : [60] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.031  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.033  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.docs]
+06-30 04:00:20.033  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.033  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.035  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.maps
+06-30 04:00:20.035  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.maps, isid: E6k_0sF9QGOg6ux_Ioyjgg
+06-30 04:00:20.036  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.037  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.maps]
+06-30 04:00:20.038  2353  2530 I Finsky  : [60] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.041  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.057  2353  2530 I Finsky  : [60] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.maps]
+06-30 04:00:20.057  2353  2530 I Finsky  : [60] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.057  2353  2530 I Finsky  : [60] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.058  2353  2527 I Finsky  : [58] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.067  5022  5022 W ker     : AccountUtils: For b/73513912, load account content://com.google.android.gm.sapi/account.-2137146394 from MailAppProvider. Is account valid result: 1. [CONTEXT android_log_tag="AccountUtils" ]
+06-30 04:00:20.067  5022  5022 W ker     : AccountUtils: For b/73513912, load account content://com.google.android.gm.email.provider/account.-437561172?suppress_combined%3Dtrue from MailAppProvider. Is account valid result: 1. [CONTEXT android_log_tag="AccountUtils" ]
+06-30 04:00:20.069  5022  5022 W ker     : [Gmail] PhenotypeManagerImpl: Account is null, skip calling setAccount.
+06-30 04:00:20.086  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.gms, isid:3aJzpucgSyW99sAbdI9Zag], status=SCHEDULED, tsc=PT14.188S
+06-30 04:00:20.100  2353  2530 I Finsky  : [60] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.112   312   312 D Zygote  : Forked child process 5109
+06-30 04:00:20.156  5109  5109 E externalstorag: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:20.165  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.photos, isid:MQwTSB7DRmyRwcZ9Bv-ysQ], status=SCHEDULED, tsc=PT15.004S
+06-30 04:00:20.188  5109  5109 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10057; state: ENABLED
+06-30 04:00:20.209  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.gms
+06-30 04:00:20.217  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.gms, isid: 3aJzpucgSyW99sAbdI9Zag
+06-30 04:00:20.217  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.218  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.218  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.gms]
+06-30 04:00:20.219  2353  2530 I Finsky  : [60] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.251  1104  1391 E AuthPII : [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+06-30 04:00:20.251  1104  1391 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:20.251  1104  1391 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:20.252  1104  1391 E AuthPII : Message is Long live credential not available.
+06-30 04:00:20.252  1104  1391 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:20.252  1104  1391 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:20.252  3339  3581 D EGL_emulation: app_time_stats: avg=18.96ms min=4.17ms max=221.18ms count=45
+06-30 04:00:20.257  1104  1391 W Auth    : [AccountStateSyncher] Unable to look up account state from server: couldn't fetch accessToken [CONTEXT service_id=153 ]
+06-30 04:00:20.258  1104  1391 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+06-30 04:00:20.272  1104  2514 E AuthPII : [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+06-30 04:00:20.272  1104  2514 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:20.272  1104  2514 E AuthPII : Message is Long live credential not available.
+06-30 04:00:20.272  1104  2514 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:20.272  1104  2514 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:20.273  1104  2514 W Auth    : [AccountStateSyncher] Unable to look up account state from server: couldn't fetch accessToken [CONTEXT service_id=153 ]
+06-30 04:00:20.274  1104  2514 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+06-30 04:00:20.306  2353  2530 I Finsky  : [60] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.gms]
+06-30 04:00:20.306  2353  2530 I Finsky  : [60] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.306  2353  2530 I Finsky  : [60] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.310   527   557 I libprocessgroup: Successfully killed process cgroup uid 10095 pid 4502 in 33ms
+06-30 04:00:20.318  5109  5109 V GraphicsEnvironment: ANGLE Developer option for 'com.android.externalstorage' set to: 'default'
+06-30 04:00:20.319  5109  5109 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:20.321  5109  5109 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.321  5109  5109 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.349  5022  5078 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10123; state: ENABLED
+06-30 04:00:20.354  5109  5109 D ExternalStorage: After updating volumes, found 1 active roots
+06-30 04:00:20.359  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:20.359  5109  5109 D ExternalStorage: After updating volumes, found 1 active roots
+06-30 04:00:20.364   312   312 I Zygote  : Process 4502 exited due to signal 9 (Killed)
+06-30 04:00:20.376   312   312 D Zygote  : Forked child process 5127
+06-30 04:00:20.377   527   557 I libprocessgroup: Successfully killed process cgroup uid 10072 pid 4523 in 0ms
+06-30 04:00:20.380  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.photos
+06-30 04:00:20.381  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.photos, isid: MQwTSB7DRmyRwcZ9Bv-ysQ
+06-30 04:00:20.381  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.388  2353  2527 I Finsky  : [58] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.photos]
+06-30 04:00:20.398  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.399  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.calendar, isid:U_QFkmbdRQunAuxaCFyP2A], status=SCHEDULED, tsc=PT13.862S
+06-30 04:00:20.405  1104  1113 I .gms.persisten: Background young concurrent copying GC freed 259210(11MB) AllocSpace objects, 6(188KB) LOS objects, 32% free, 23MB/35MB, paused 23.716ms,274us total 279.670ms
+06-30 04:00:20.409   312   312 I Zygote  : Process 4523 exited due to signal 9 (Killed)
+06-30 04:00:20.434  5127  5127 E d.process.medi: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:20.439  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.476  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.photos]
+06-30 04:00:20.476  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.476  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.483  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.calendar
+06-30 04:00:20.484  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.calendar, isid: U_QFkmbdRQunAuxaCFyP2A
+06-30 04:00:20.484  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.485  2353  2530 I Finsky  : [60] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.calendar]
+06-30 04:00:20.486  2353  2506 I Finsky  : [52] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.489  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.youtube.music, isid:wPyDg0XJQeShxMnUEm6KSw], status=SCHEDULED, tsc=PT15.073S
+06-30 04:00:20.489  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.549  2353  2530 I Finsky  : [60] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.calendar]
+06-30 04:00:20.550  2353  2530 I Finsky  : [60] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.555  2353  2530 I Finsky  : [60] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.589  5127  5127 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10061; state: ENABLED
+06-30 04:00:20.614  1851  1860 W gle.android.gm: Suspending all threads took: 114.931ms
+06-30 04:00:20.656  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.youtube.music
+06-30 04:00:20.657  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.youtube.music, isid: wPyDg0XJQeShxMnUEm6KSw
+06-30 04:00:20.658  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:20.662  5127  5127 V GraphicsEnvironment: ANGLE Developer option for 'com.android.providers.downloads' set to: 'default'
+06-30 04:00:20.662  5127  5127 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:20.665  5127  5127 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.665  2353  2530 I Finsky  : [60] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.youtube.music]
+06-30 04:00:20.666  5127  5127 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.666  2353  2530 I Finsky  : [60] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:20.670  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:20.685  2353  4556 I Finsky  : [149] qgl.apply(58): IQ: Creating job 345, for (REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125)
+06-30 04:00:20.686  2353  4556 I Finsky  : [149] qml.F(9): IQ: Bulk scheduling created jobs
+06-30 04:00:20.686  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.youtube.music]
+06-30 04:00:20.687  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:20.690  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:20.763  2353  2527 I Finsky  : [58] xzs.accept(38): SCH: Scheduling phonesky job Id: 3-345, CT: 1688077820686, Constraints: [{ L: 0, D: 86400000, C: 2, I: 2, N: 2 }]
+06-30 04:00:20.767  2353  2530 I Finsky  : [60] ybr.apply(42): SCH: Scheduling 0 system job(s)
+06-30 04:00:20.771  2353  2506 I Finsky  : [52] qma.a(2): IQ: start evaluating install requests.
+06-30 04:00:20.771  2353  2506 I Finsky  : [52] qma.a(9): IQ: no jobs active. Skipping
+06-30 04:00:20.771  2353  2506 I Finsky  : [52] qma.a(28): IQ: no installs to evaluate. Skipping.
+06-30 04:00:20.777  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 04:00:20.780   312   312 D Zygote  : Forked child process 5149
+06-30 04:00:20.787   312   312 I Zygote  : Process 4575 exited due to signal 9 (Killed)
+06-30 04:00:20.787  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.792  2353  2530 I Finsky  : [60] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.793  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.794  2353  2527 I Finsky  : [58] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:20.796  5149  5149 E oid.apps.photo: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:20.812  5149  5149 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10125; state: ENABLED
+06-30 04:00:20.819   527   557 I libprocessgroup: Successfully killed process cgroup uid 10101 pid 4575 in 42ms
+06-30 04:00:20.884  5149  5149 W oid.apps.photo: Entry not found
+06-30 04:00:20.885  5149  5149 W oid.apps.photo: Entry not found
+06-30 04:00:20.888  5149  5149 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:20.888  5149  5149 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:20.901  5149  5149 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.photos' set to: 'default'
+06-30 04:00:20.901  5149  5149 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:20.902  5149  5149 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.902  5149  5149 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:20.928  5149  5149 W oid.apps.photo: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:20.928  5149  5149 W oid.apps.photo: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:20.929  5149  5149 W oid.apps.photo: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:21.000   312   312 I Zygote  : Process 4629 exited due to signal 9 (Killed)
+06-30 04:00:21.017  1365  1875 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+06-30 04:00:21.017  5109  5109 D ExternalStorage: After updating volumes, found 1 active roots
+06-30 04:00:21.020  1365  1875 I MediaProvider: Volume MediaVolume name: [external_primary] id: [emulated;0] user: [UserHandle{0}] path: [/storage/emulated/0] already attached
+06-30 04:00:21.020  1365  1875 I MediaProvider: End Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+06-30 04:00:21.031   527   557 I libprocessgroup: Successfully killed process cgroup uid 10114 pid 4629 in 42ms
+06-30 04:00:21.032  1365  1875 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+06-30 04:00:21.032  1365  1875 I MediaProvider: Volume MediaVolume name: [external_primary] id: [emulated;0] user: [UserHandle{0}] path: [/storage/emulated/0] already attached
+06-30 04:00:21.032  1365  1875 I MediaProvider: End Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+06-30 04:00:21.036   527  1885 D ConnectivityService: requestNetwork for uid/pid:10125/5149 activeRequest: null callbackRequest: 154 [NetworkRequest [ REQUEST id=155, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:21.038   527   646 D ConnectivityService: NetReassign [155 : null → 101]
+06-30 04:00:21.042   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=155, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 04:00:21.043   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=155, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 04:00:21.045   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=155, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 04:00:21.053  1386  1386 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+06-30 04:00:21.061  1386  1386 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+06-30 04:00:21.068  1386  1386 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+06-30 04:00:21.079   312   312 D Zygote  : Forked child process 5179
+06-30 04:00:21.107  5179  5179 E .apps.messagin: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:21.133  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:21.140  5179  5179 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10103; state: ENABLED
+06-30 04:00:21.189  5179  5179 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/PrebuiltBugle/lib/arm64:/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 04:00:21.240  5179  5179 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.messaging' set to: 'default'
+06-30 04:00:21.240  5179  5179 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:21.241  5179  5179 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:21.242  5179  5179 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:21.268  3339  3581 D EGL_emulation: app_time_stats: avg=19.76ms min=4.49ms max=182.02ms count=48
+06-30 04:00:21.327  5179  5179 I MultiDex: VM with version 2.1.0 has multidex support
+06-30 04:00:21.327  5179  5179 I MultiDex: install
+06-30 04:00:21.327  5179  5179 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+06-30 04:00:21.486  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+06-30 04:00:21.497  4849  4859 W oogle.pixel.ex: Suspending all threads took: 22.458ms
+06-30 04:00:21.734  5179  5179 I avfy    : SslGuard completed installation.
+06-30 04:00:21.769  5179  5179 I Bugle   : BugleApplicationBase: Bugle version: 8.4.041 (upas_rc12_alldpi.arm64-v8a.phone)
+06-30 04:00:21.772  5179  5179 I Bugle   : DarkModeManager: setDarkMode: -1
+06-30 04:00:21.916  5179  5200 I Bugle   : Initializing EmojiCompat
+06-30 04:00:21.922  5179  5209 I CarrierServices: [47] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 04:00:21.929  5179  5200 I CarrierServices: [42] ajre.a: Initializing Carrier Services Library.
+06-30 04:00:21.960  5179  5200 I CarrierServices: [42] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 04:00:21.970  1104  2514 I FontLog : (REDACTED) Received query %s, URI %s
+06-30 04:00:21.972  1104  2514 I FontLog : (REDACTED) Query [%s] resolved to %s
+06-30 04:00:21.991  1104  2514 I FontLog : (REDACTED) Fetch %s end status %s
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.gm#com.google.android.gm_Hub failed
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at pyx.bw(PG:7)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at sbf.j(PG:2)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at sbf.k(PG:2)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at sbf.h(Unknown Source:6)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at hzz.run(PG:9)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:22.034  5022  5099 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:22.040  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 04:00:22.065  1104  3100 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:22.069   527   536 I system_server: NativeAlloc concurrent copying GC freed 689992(18MB) AllocSpace objects, 30(1032KB) LOS objects, 49% free, 20MB/41MB, paused 96us,299us total 416.398ms
+06-30 04:00:22.081   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.081   527   538 W System  : A resource failed to call release.
+06-30 04:00:22.082   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.082   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.083   527   538 W System  : A resource failed to call release.
+06-30 04:00:22.083   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.084  5179  5209 I CarrierServices: [47] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 04:00:22.084   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.084   527   538 W System  : A resource failed to call release.
+06-30 04:00:22.085   527   538 W System  : A resource failed to call close.
+06-30 04:00:22.089  5179  5209 I CarrierServices: [47] akyy.e: RcsProvisioningManager: combineConfigurationWithAvailability, simId = redacted-pii:sim_id[20-chars], hasConfig = false
+06-30 04:00:22.090  5179  5200 I CarrierServices: [42] ajre.b: Initializing Carrier Services Logging.
+06-30 04:00:22.091  5179  5209 I BugleRcsEngine: [47] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 04:00:22.095  1104  3100 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:22.103  5179  5209 W BugleRcsEngine: [47] akyy.e: RcsProvisioningManager: combineConfigurationWithAvailability, RCS is not available (RcsAvailability{mAvailability=BUGLE_LOADING_AVAILABILITY_IN_PROGRESS (Bugle client is still loading the status)}), return empty configuration
+06-30 04:00:22.105  5179  5200 I LogSaver: LogSaver new instance with filename: carrier_services
+06-30 04:00:22.106  5179  5209 I BugleRcsProvisioning: RcsProvisioningTrigger: Schedule provisioning on system binding.
+06-30 04:00:22.106  5179  5209 I BugleRcsProvisioning: [SR]: Single Registration is disabled, skipping the setupVendorIms
+06-30 04:00:22.127  5179  5215 W .apps.messagin: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:22.127  5179  5215 W .apps.messagin: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:22.133  5179  5215 W .apps.messagin: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:22.138  5179  5209 I Bugle   : TelephonyManagerFactory: Returning per-subscription TelephonyManager (>= N) subscription{id:1}
+06-30 04:00:22.214  1104  1113 I .gms.persisten: Background young concurrent copying GC freed 186079(10MB) AllocSpace objects, 0(0B) LOS objects, 31% free, 23MB/35MB, paused 56us,78us total 102.766ms
+06-30 04:00:22.221  5179  5209 I BugleRcsProvisioning: RcsProvisioningTrigger: schedule provisioning
+06-30 04:00:22.268  3339  3581 D EGL_emulation: app_time_stats: avg=34.66ms min=4.55ms max=260.57ms count=26
+06-30 04:00:22.276   312   312 I Zygote  : Process 1273 exited due to signal 9 (Killed)
+06-30 04:00:22.280   527   557 I libprocessgroup: Successfully killed process cgroup uid 10141 pid 1273 in 42ms
+06-30 04:00:22.289  5179  5198 I BugleRcsEngine: [40] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 04:00:22.301  5179  5198 I BugleRcsEngine: [40] alsz.d: Checking if using CarrierServices.apk is possible. Enabled: true, isAtLeastM: true, runningInsideBugle: true
+06-30 04:00:22.302  5179  5198 W BugleRcsEngine: [40] alsz.g: Carrier Services Apk was not found.
+06-30 04:00:22.302  5179  5198 I BugleRcsEngine: [40] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 04:00:22.302  5179  5198 W BugleRcsEngine: [40] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 04:00:22.305  5179  5199 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10103; state: ENABLED
+06-30 04:00:22.307  5179  5198 W BugleRcsEngine: [40] akrz.a: [SR]: Single Registration is disabled. Skipping Single Registration capability check for subId: 1
+06-30 04:00:22.307  5179  5198 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration capability, singleRegistrationCapability: false, simId: redacted-pii:sim_id[20-chars], subId: 1
+06-30 04:00:22.308  5179  5198 I BugleRcsEngine: [40] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 04:00:22.308  5179  5198 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration configuration, singleRegistrationRcsConfigAvailableAndEnabled: false, simId: redacted-pii:sim_id[20-chars]
+06-30 04:00:22.309  5179  5198 I BugleRcsEngine: [40] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 04:00:22.310  5179  5198 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: updateRcsAvailability, currentAvailability: 1, newAvailability: 9, hint: NO_HINT
+06-30 04:00:22.313  5179  5198 I BugleRcsEngine: [40] jsj.run: Skipping provisioning scheduling since RCS is disabled
+06-30 04:00:22.316  5179  5202 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled due to SIM absent, lastAvailability is null, simId hash = -4195747258614128190, isPev3Enabled = true
+06-30 04:00:22.321  5179  5202 I BugleRcsEngine: [44] jtw.a: RcsProvisioningManager: Receive onRcsAvailabilityUpdate, SIM = redacted-pii:sim_id[20-chars], availability = RcsAvailability{mAvailability=DISABLED_SIM_ABSENT (RCS is disabled due to SIM absent)}
+06-30 04:00:22.334  5179  5202 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : isPreviousDisabled = true, isCurrentDisabled = true
+06-30 04:00:22.336  5179  5202 I BugleRcsEngine: [44] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 04:00:22.341  4898  4909 W .apps.wellbein: Suspending all threads took: 22.114ms
+06-30 04:00:22.424  5179  5200 I BugleBackup: Registering preference change listener for "bugle".
+06-30 04:00:22.433  5179  5198 W BugleRcs: couldn't get package info for carrier services package with name com.google.android.ims
+06-30 04:00:22.434   312   312 D Zygote  : Forked child process 5220
+06-30 04:00:22.435  5179  5198 W BugleRcs: android.content.pm.PackageManager$NameNotFoundException: com.google.android.ims
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at android.app.ApplicationPackageManager.getPackageInfoAsUser(ApplicationPackageManager.java:241)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:213)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at zod.<init>(PG:7)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at zod.a(PG:1)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at tae.a(PG:5)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at kbf.run(PG:2)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at aypj.run(PG:2)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at bcic.c(PG:1)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at bchf.run(PG:4)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at bcid.run(PG:1)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at aosz.run(PG:1)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at aosl.run(PG:2)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at aorz.run(PG:2)
+06-30 04:00:22.435  5179  5198 W BugleRcs: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:22.439  1540  1890 W SearchServiceCore: Abort, client detached.
+06-30 04:00:22.453  5220  5220 E ndroid.calenda: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:22.467  5220  5220 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10113; state: DISABLED
+06-30 04:00:22.484  5220  5220 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/CalendarGooglePrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:22.498  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Subtotal: $0.00"
+06-30 04:00:22.498  3339  3563 I TestRunner: finished: order_reset_after_cancel_from_checkout(com.example.lunchtray.OrderFunctionalityTests)

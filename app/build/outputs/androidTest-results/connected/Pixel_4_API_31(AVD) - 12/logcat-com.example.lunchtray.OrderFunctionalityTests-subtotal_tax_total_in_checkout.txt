@@ -1,0 +1,316 @@
+06-30 04:00:01.380  3339  3563 I TestRunner: started: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
+06-30 04:00:01.483  4264  4264 W ogle.android.g: Entry not found
+06-30 04:00:01.489  4264  4264 W ogle.android.g: Entry not found
+06-30 04:00:01.489  4264  4264 W ogle.android.g: Entry not found
+06-30 04:00:01.498  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 04:00:01.506  4264  4264 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:01.507  4264  4264 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:01.507  4264  4264 W ogle.android.g: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:01.529  4264  4264 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.gm' set to: 'default'
+06-30 04:00:01.529  4264  4264 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:01.536  4264  4264 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:01.540  4264  4264 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:01.576   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 04:00:01.580  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@89b3256 in: PRE_ON_CREATE
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:01.581  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 04:00:01.615   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0968000]
+06-30 04:00:01.642   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f6498000 0x1f6e00000]
+06-30 04:00:01.697   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f6e00000 0x1f7768000]
+06-30 04:00:01.704  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@89b3256 in: CREATED
+06-30 04:00:01.704  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.704  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.704  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.704  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.704  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.705  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.726  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@89b3256 in: STARTED
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.727  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@89b3256 in: RESUMED
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.729  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@89b3256
+06-30 04:00:01.858   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4968000]
+06-30 04:00:01.867   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 04:00:01.869   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1fada8000 0x1fb710000]
+06-30 04:00:01.875   700   930 D EGL_emulation: app_time_stats: avg=1717.99ms min=1717.99ms max=1717.99ms count=1
+06-30 04:00:01.883   700   930 D EGL_emulation: app_time_stats: avg=490.33ms min=23.14ms max=2954.44ms count=8
+06-30 04:00:01.899   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +383ms
+06-30 04:00:01.908  4264  4308 W ogle.android.g: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:01.908  4264  4308 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:01.908  4264  4308 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:01.956  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 04:00:01.981  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 04:00:01.982  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 04:00:01.982  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 04:00:01.984  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 04:00:02.113  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 04:00:02.158  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 04:00:02.166  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 04:00:02.250   527  3045 W InputManager-JNI: Input channel object '6404142 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 04:00:02.491  1104  3107 I HeterodyneSyncer: (REDACTED) Removed %d invalid users
+06-30 04:00:02.536  4264  4316 I org.webrtc.Logging: CrashStartupListener: Checking conference crashes for 0 account(s).
+06-30 04:00:02.591  4264  4327 W System  : ClassLoader referenced unknown path:
+06-30 04:00:02.706  4264  4264 W ker     : AccountUtils: For b/73513912, load account content://com.google.android.gm.sapi/account.-2137146394 from MailAppProvider. Is account valid result: 1. [CONTEXT android_log_tag="AccountUtils" ]
+06-30 04:00:02.710  4264  4264 W ker     : AccountUtils: For b/73513912, load account content://com.google.android.gm.email.provider/account.-437561172?suppress_combined%3Dtrue from MailAppProvider. Is account valid result: 1. [CONTEXT android_log_tag="AccountUtils" ]
+06-30 04:00:02.737  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 04:00:02.754  4264  4264 W ker     : [Gmail] PhenotypeManagerImpl: Account is null, skip calling setAccount.
+06-30 04:00:02.817  1104  1121 E AuthPII : [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+06-30 04:00:02.817  1104  1121 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:02.817  1104  1121 E AuthPII : Message is Long live credential not available.
+06-30 04:00:02.817  1104  1121 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:02.817  1104  1121 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:02.818  4264  4316 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10123; state: ENABLED
+06-30 04:00:02.825  1104  1121 W Auth    : [AccountStateSyncher] Unable to look up account state from server: couldn't fetch accessToken [CONTEXT service_id=153 ]
+06-30 04:00:02.826  1104  1121 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+06-30 04:00:02.838  4264  4343 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 04:00:02.851  1104  2278 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 04:00:02.861  4264  4327 I ogle.android.g: Waiting for a blocking GC ClassLinker
+06-30 04:00:02.862  4264  4343 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+06-30 04:00:02.869  1104  1121 E AuthPII : [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+06-30 04:00:02.869  1104  1121 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:02.869  1104  1121 E AuthPII : Message is Long live credential not available.
+06-30 04:00:02.869  1104  1121 E AuthPII : abgh: Long live credential not available.
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at meb.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mei.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mcf.m(:com.google.android.gms@232216044@23.22.16 (190400-540586286):47)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mbg.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mbl.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mfa.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mfa.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at mal.hasFeatures(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at auqr.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.transact(Binder.java:1064)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at aohp.onTransact(:com.google.android.gms@232216044@23.22.16 (190400-540586286):22)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:02.869  1104  1121 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:02.870  1104  1121 W Auth    : [AccountStateSyncher] Unable to look up account state from server: couldn't fetch accessToken [CONTEXT service_id=153 ]
+06-30 04:00:02.872  1104  1121 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+06-30 04:00:02.894  4264  4327 I ogle.android.g: WaitForGcToComplete blocked ClassLinker on Background for 32.599ms
+06-30 04:00:02.917  3339  3581 D EGL_emulation: app_time_stats: avg=20.48ms min=3.65ms max=259.09ms count=39
+06-30 04:00:02.984  4264  4343 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 295 native methods...
+06-30 04:00:02.998  1104  1112 I .gms.persisten: Compiler allocated 4845KB to compile void bxmx.D(java.util.Set, java.util.List, doif, java.lang.String, boolean, eaxt, bxmw, java.util.LinkedHashMap, diwz, boolean, eevo)
+06-30 04:00:03.000  2746  2812 W id.gms.unstabl: Couldn't lock the profile file /data/user/0/com.google.android.gms/app_dg_cache/3FE0C2CE424590AA063FA9FF7B42C3E331C19B92/oat/the.apk.cur.prof: Failed to open file '/data/user/0/com.google.android.gms/app_dg_cache/3FE0C2CE424590AA063FA9FF7B42C3E331C19B92/oat/the.apk.cur.prof': No such file or directory
+06-30 04:00:03.000  2746  2812 W id.gms.unstabl: Could not forcefully load profile /data/user/0/com.google.android.gms/app_dg_cache/3FE0C2CE424590AA063FA9FF7B42C3E331C19B92/oat/the.apk.cur.prof
+06-30 04:00:03.033  4264  4343 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+06-30 04:00:03.046  4264  4264 W ker     : [Gmail] ExchangeUpgradeReceiver: ExchangeUpgradeReceiver: action=android.intent.action.BOOT_COMPLETED data=null [CONTEXT android_log_tag="EasBundling" ]
+06-30 04:00:03.047  4264  4264 W ker     : [Gmail] ExchangeUpgradeUtils: ExchangeUpgradeUtils: isExchangeLegacy=false [CONTEXT android_log_tag="EasBundling" ]
+06-30 04:00:03.121  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:03.164  4264  4321 I org.webrtc.Logging: EffectsMiniBenchmarkWorkerFactory: Received worker class com.google.android.libraries.hub.workmanager.HubListenableWorker
+06-30 04:00:03.230  1104  3107 I DynamiteModule: Considering local module com.google.android.gms.cronet_dynamite:0 and remote module com.google.android.gms.cronet_dynamite:2411
+06-30 04:00:03.234  1104  3107 I DynamiteModule: Selected remote version of com.google.android.gms.cronet_dynamite, version >= 2411
+06-30 04:00:03.308  1104  3107 W System  : ClassLoader referenced unknown path:
+06-30 04:00:03.365  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-76 starting
+06-30 04:00:03.456  2353  2353 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.expressintegrityservice.ExpressIntegrityService})
+06-30 04:00:03.456  4264  4315 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 04:00:03.457  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : linkToDeath
+06-30 04:00:03.518  2353  4068 E Finsky  : [131] vna.apply(6): Error identifying PlayCore event type with value 5.
+06-30 04:00:03.527  1104  2278 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 04:00:03.552  2787  4381 I Finsky:background: [61] kec.accept(22): [Counters Flush] Successfully generated counter events
+06-30 04:00:03.555  1104  1113 I .gms.persisten: Background young concurrent copying GC freed 329964(16MB) AllocSpace objects, 11(448KB) LOS objects, 48% free, 17MB/35MB, paused 730us,23us total 414.031ms
+06-30 04:00:03.555  2353  2459 I PlayCore: UID: [10099]  PID: [2353] OnRequestIntegrityTokenCallback : onRequestExpressIntegrityToken
+06-30 04:00:03.558  2353  4068 I PlayCore: UID: [10099]  PID: [2353] StandardIntegrity : Unbind from service.
+06-30 04:00:03.560  4264  4315 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: UID for network attribution might be misset for tag 536871943 [CONTEXT service_id=39 ]
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: djhy: FULL
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at d.N(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at aodu.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbo.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbf.d(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbk.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbf.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):5)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbf.execute(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at arbf.execute(:com.google.android.gms@232216044@23.22.16 (190400-540586286):7)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at aplm.h(:com.google.android.gms@232216044@23.22.16 (190400-540586286):51)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at aplh.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):7)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:03.563  1104  3112 E GmsConnectionFactory: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:03.594  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231132/com.example.lunchtray:id/salad>
+06-30 04:00:03.625  2787  4374 I Finsky:background: [57] llm.g(2): Subscription detail: DataSubscriptionInfo{groupIdLevel1=null, serviceProviderName=[Zr1R7g28S8p7iucp_gnNJJtsRl-pgO3Y6eIkCh24Iy0], simCarrierId=1}
+06-30 04:00:03.637  2787  2787 I Finsky:background: [2] lll.onSubscriptionsChanged(1): onSubscriptionsChanged
+06-30 04:00:03.697  2787  4391 I PlayCommon: [65] alko.j(32): Preparing logs for uploading
+06-30 04:00:03.722  2787  4391 I PlayCommon: [65] alko.j(149): Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+06-30 04:00:03.864  2353  2461 I Finsky  : [44] yrv.r(4): SCH: jobFinished: 10-3. TimeElapsed: 8006ms.
+06-30 04:00:03.918  3339  3581 D EGL_emulation: app_time_stats: avg=22.72ms min=4.28ms max=231.87ms count=41
+06-30 04:00:04.033  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:04.104  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-82 starting
+06-30 04:00:04.246  1104  1104 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START pkg=com.google.android.gms }
+06-30 04:00:04.377  2787  4391 W PlayCommon: [65] alko.l(1): No account for auth token provided
+06-30 04:00:04.378  2787  4391 I PlayCommon: [65] alko.j(183): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+06-30 04:00:04.547  2787  4391 I PlayCommon: [65] alko.j(220): Successfully uploaded logs.
+06-30 04:00:04.633  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 04:00:04.671   312   312 D Zygote  : Forked child process 4411
+06-30 04:00:04.711  4411  4411 E ng:quick_launc: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:04.714  2353  2506 I Finsky  : [52] adhv.run(93): UCtl: autoUpdateItems with size=18 is fulfilled from responseFuture
+06-30 04:00:04.736  1540  1540 I OpaEligibilityChecker: send OpaEligibilityChange broadcast to CommonBroadcastReceiver
+06-30 04:00:04.744  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.wellbeing
+06-30 04:00:04.754  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.partnersetup
+06-30 04:00:04.756  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.tts
+06-30 04:00:04.757  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.deskclock
+06-30 04:00:04.757  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.photos
+06-30 04:00:04.758  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.maps
+06-30 04:00:04.758  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.messaging
+06-30 04:00:04.759  3868  4119 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10113; state: ENABLED
+06-30 04:00:04.762  4411  4411 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10099; state: ENABLED
+06-30 04:00:04.782  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.googlequicksearchbox
+06-30 04:00:04.784  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.youtube.music
+06-30 04:00:04.784  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.webview
+06-30 04:00:04.785  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.android.chrome
+06-30 04:00:04.786  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.docs
+06-30 04:00:04.786  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.youtube
+06-30 04:00:04.787  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.gms
+06-30 04:00:04.788  1540  1540 I CalRefreshTaskCtrl: #onDeviceInstallOrBoot(): Starting calendar refresh task.
+06-30 04:00:04.788  1540  1540 I CalRefreshTaskCtrl: #refreshCalendarData()
+06-30 04:00:04.796  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.apps.wallpaper
+06-30 04:00:04.797  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.gm
+06-30 04:00:04.797  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.inputmethod.latin
+06-30 04:00:04.798  2353  2353 I Finsky  : [2] ahym.g(11): UCtl: Capture account null for next update of com.google.android.calendar
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.wellbeing
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.partnersetup
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.tts
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.deskclock
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.photos
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.maps
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.messaging
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.googlequicksearchbox
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.youtube.music
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.webview
+06-30 04:00:04.808  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.android.chrome
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.docs
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.youtube
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.gms
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.apps.wallpaper
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.gm
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.inputmethod.latin
+06-30 04:00:04.809  2353  2353 W Finsky  : [2] iyx.f(4): No everExternallyHosted provided for com.google.android.calendar
+06-30 04:00:04.809  1540  1540 I CalRefreshTaskCtrl: Do not refresh calendar data because Smartspace is not available on device.
+06-30 04:00:04.812  2353  2353 I Finsky  : [2] htk.as(9): AMU: No need profile check, single profile
+06-30 04:00:04.818  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.wellbeing has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.826  1540  1540 I CalWorkerScheduler: Scheduling calendar refresh task status check worker at device reboot or app install.
+06-30 04:00:04.830  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.tts has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.831  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.deskclock has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.831  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.photos has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.831  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.maps has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.messaging has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.googlequicksearchbox has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.youtube.music has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.webview has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.android.chrome has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.apps.docs has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.youtube has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.832  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.gms has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.837  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.gm has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.837  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.inputmethod.latin has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.837  2353  2353 I Finsky  : [2] afba.b(33): UChk: package com.google.android.calendar has available update because at least one of the following constraints met: isAutoDeployInstall=false, canUpdateApp=true.
+06-30 04:00:04.838  2353  2353 I Finsky  : [2] asao.x(26): UChk::Mainline: Evaluate if the pending 0 trains need to be canceled
+06-30 04:00:04.842  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 10-33. TimeElapsed: 8824ms.
+06-30 04:00:04.851  2353  2353 I Finsky  : [2] kct.c(1): AU2: scheduling auto update v2 with 16 apps
+06-30 04:00:04.896   312   312 D Zygote  : Forked child process 4430
+06-30 04:00:04.900  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.apps.wellbeing
+06-30 04:00:04.919  3339  3581 D EGL_emulation: app_time_stats: avg=27.47ms min=5.16ms max=258.17ms count=33
+06-30 04:00:04.928  4430  4430 E .android.chrom: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:04.940  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.tts
+06-30 04:00:05.005  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.deskclock
+06-30 04:00:05.013  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:05.088  4411  4411 W ng:quick_launc: Entry not found
+06-30 04:00:05.093  4411  4411 W ng:quick_launc: Entry not found
+06-30 04:00:05.097  4411  4411 W ng:quick_launc: Entry not found
+06-30 04:00:05.110  4411  4411 W ng:quick_launc: Entry not found
+06-30 04:00:05.116  4411  4411 W ng:quick_launc: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:05.116  4411  4411 W ng:quick_launc: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:05.116  4411  4411 W ng:quick_launc: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:05.116  4411  4411 W ng:quick_launc: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:05.181  4430  4430 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10107; state: DISABLED
+06-30 04:00:05.193  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.apps.photos
+06-30 04:00:05.202  4411  4411 V GraphicsEnvironment: ANGLE Developer option for 'com.android.vending' set to: 'default'
+06-30 04:00:05.202  4411  4411 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:05.210  4411  4411 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:05.211  4411  4411 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:05.238  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.apps.maps
+06-30 04:00:05.268  4411  4411 I Finsky:quick_launch: [2] jpq.i(6): Process created at version: 36.2.11-29 [0] [PR] 539142984
+06-30 04:00:05.364  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.apps.messaging
+06-30 04:00:05.408  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.googlequicksearchbox
+06-30 04:00:05.420  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.apps.youtube.music
+06-30 04:00:05.463  4411  4411 I Finsky:quick_launch: [2] htj.av(19): Finished reading experiment flags from file [0tGUNCGIkbk4o6-fQ335kUYSKwVj4lusnHT-A5Dsy08].
+06-30 04:00:05.464  1104  3107 I cr_CronetLibraryLoader: Cronet version: 114.0.5735.33, arch: aarch64
+06-30 04:00:05.477   527  3038 D ConnectivityService: requestNetwork for uid/pid:10102/1104 activeRequest: null callbackRequest: 135 [NetworkRequest [ REQUEST id=136, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10102 RequestorUid: 10102 RequestorPkg: com.google.android.gms] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:05.496   527   646 D ConnectivityService: NetReassign [136 : null → 101]
+06-30 04:00:05.500  4430  4430 V GraphicsEnvironment: ANGLE Developer option for 'com.android.chrome' set to: 'default'
+06-30 04:00:05.500  4430  4430 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:05.502  4430  4430 D NetworkSecurityConfig: Using Network Security Config from resource 0_resource_name_obfuscated debugBuild: false
+06-30 04:00:05.513  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:05.514   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=136, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10102 RequestorUid: 10102 RequestorPkg: com.google.android.gms] ]
+06-30 04:00:05.514   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=136, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10102 RequestorUid: 10102 RequestorPkg: com.google.android.gms] ]
+06-30 04:00:05.514   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=136, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10102 RequestorUid: 10102 RequestorPkg: com.google.android.gms] ]
+06-30 04:00:05.517   527   646 D ConnectivityService: NetReassign [no changes]
+06-30 04:00:05.520  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Tax: $0.80"}' assertion on view view.getId() is <2131231241/com.example.lunchtray:id/tax>
+06-30 04:00:05.520  4430  4430 D NetworkSecurityConfig: Using Network Security Config from resource 0_resource_name_obfuscated debugBuild: false
+06-30 04:00:05.526  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Total: $10.80"}' assertion on view view.getId() is <2131231266/com.example.lunchtray:id/total>
+06-30 04:00:05.528  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.webview
+06-30 04:00:05.529  3339  3563 I TestRunner: finished: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)

@@ -1,0 +1,387 @@
+06-30 03:59:43.044  3339  3563 I TestRunner: started: subtotal_updates_in_full_order_flow(com.example.lunchtray.OrderFunctionalityTests)
+06-30 03:59:43.162  1938  2635 I BugleNotifications: Starting refreshIncomingMessageNotifications: silent - true, isSmartReplyUpdate - false, isFromNotification - false
+06-30 03:59:43.178  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@4ac0146 in: DESTROYED
+06-30 03:59:43.178  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:43.178  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:43.190  1938  1938 I BugleRcsEngine: [2] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 03:59:43.205   527  3044 W InputManager-JNI: Input channel object '6227760 com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+06-30 03:59:43.321  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.321  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.321  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.322  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.322  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.322  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.338  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.338  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.338  1938  2635 W SQLiteLog: (28) double-quoted string literal: ""
+06-30 03:59:43.378  1938  2635 I BugleNotifications: No unseen incoming message notifications
+06-30 03:59:43.379  1938  2635 I BugleNotifications: No incomingMessageNotification created, canceling existing incomingMessageNotifications
+06-30 03:59:43.421  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 03:59:43.522  1938  2200 D MddListenableWorkerFactory: createWorker for class: com.google.android.apps.messaging.shared.datamodel.workqueue.WorkQueueWorkerShim
+06-30 03:59:43.535  1938  2200 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=a0c605f6-1773-4a67-a522-8708d9f22f5a, tags={ com.google.android.apps.messaging.shared.datamodel.workqueue.WorkQueueWorkerShim, refresh_incoming_message_notifications- } ]
+06-30 03:59:43.595   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 03:59:43.626   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4968000]
+06-30 03:59:43.631  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2d9a10e in: PRE_ON_CREATE
+06-30 03:59:43.631  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.632  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:43.632  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 03:59:43.653   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f6e00000 0x1f7768000]
+06-30 03:59:43.670  1037  1502 D EGL_emulation: app_time_stats: avg=64.23ms min=10.87ms max=752.20ms count=19
+06-30 03:59:43.686   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f8968000 0x1f92d0000]
+06-30 03:59:43.691  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:43.696  1104  3188 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:43.748   700   930 D EGL_emulation: app_time_stats: avg=2302.97ms min=7.36ms max=6874.84ms count=3
+06-30 03:59:43.767   700   930 D EGL_emulation: app_time_stats: avg=2308.65ms min=18.81ms max=6884.20ms count=3
+06-30 03:59:43.787  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2d9a10e in: CREATED
+06-30 03:59:43.787  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.787  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.788  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.806  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2d9a10e in: STARTED
+06-30 03:59:43.806  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.806  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.806  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.808  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2d9a10e in: RESUMED
+06-30 03:59:43.809  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.809  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.809  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@2d9a10e
+06-30 03:59:43.920  1938  2208 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10103; state: ENABLED
+06-30 03:59:43.995   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 03:59:44.000   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fdc38000 0x1fe5a0000]
+06-30 03:59:44.002   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fe5a0000 0x1fef08000]
+06-30 03:59:44.012  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:44.066  1104  1104 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+06-30 03:59:44.112  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-30 03:59:44.180  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 03:59:44.189  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 03:59:44.190  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 03:59:44.190  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 03:59:44.194  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 03:59:44.406  1851  3111 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:44.479   527  1885 W InputManager-JNI: Input channel object '38a7fc4 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 03:59:44.568  2353  3277 E Finsky  : [126] vuz.i(2): [EExp] Failed to export experiments for package com.google.android.finsky.stable.
+06-30 03:59:44.568  2353  3277 E Finsky  : java.util.concurrent.TimeoutException: Waited 10000 milliseconds (plus 40 milliseconds, 757629 nanoseconds delay) for aohi@69b7dc1[status=PENDING, setFuture=[aoee@4cb8966[status=PENDING, info=[inputFuture=[ajhy@96ac4a7[status=PENDING, info=[aikl@a8acd54]]], exceptionType=[class com.google.android.gms.common.api.ApiException], fallback=[xxa@aa134fd]]]]]
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at aoeu.get(PG:31)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at vuz.g(PG:33)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at vuz.f(PG:4)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at vuz.h(PG:9)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at vuz.doInBackground(PG:6)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at vva.d(Unknown Source:3)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at tee.call(PG:121)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at aohh.a(Unknown Source:2)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at aogm.run(PG:3)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at aohi.run(Unknown Source:4)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at afgk.run(PG:34)
+06-30 03:59:44.568  2353  3277 E Finsky  : 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:44.568  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:44.610  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:44.610  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1585 Failed to get the input connection call's result.
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 39 milliseconds, 221125 nanoseconds delay) but future completed as timeout expired
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at ngi.get(PG:40)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at icc.h(PG:1)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at icc.g(PG:2)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at icc.t(PG:5)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at ieo.a(PG:3)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at dnh.m(PG:27)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at cal.m(PG:1)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at dnh.onStartInput(PG:35)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:2450)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.startInput(InputMethodService.java:697)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInputWithToken(InputMethodService.java:727)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:199)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:288)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+06-30 03:59:44.632  1312  1312 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+06-30 03:59:44.633  1312  1312 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1506 IPC IC_REQUEST_CURSOR_UPDATES took 433 ms
+06-30 03:59:44.646   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +599ms
+06-30 03:59:44.655   527   536 I system_server: NativeAlloc concurrent copying GC freed 466038(19MB) AllocSpace objects, 68(3248KB) LOS objects, 50% free, 21MB/43MB, paused 3.565ms,46us total 2.737s
+06-30 03:59:44.768  2353  2460 I Finsky  : [43] vuz.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+06-30 03:59:44.786   700   930 D EGL_emulation: app_time_stats: avg=113.33ms min=7.37ms max=840.60ms count=9
+06-30 03:59:44.791   700   930 D EGL_emulation: app_time_stats: avg=113.68ms min=11.17ms max=860.62ms count=9
+06-30 03:59:44.963   527   538 W System  : A resource failed to call close.
+06-30 03:59:44.972   527   538 W System  : A resource failed to call release.
+06-30 03:59:44.975   527   538 W System  : A resource failed to call close.
+06-30 03:59:44.981   527   538 W System  : A resource failed to call close.
+06-30 03:59:45.021  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.findmydevice.spot.service.management.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+06-30 03:59:45.021  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.findmydevice.spot.service.locationreport.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+06-30 03:59:45.070   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(1)
+06-30 03:59:45.164  3339  3581 D EGL_emulation: app_time_stats: avg=34.77ms min=3.17ms max=324.42ms count=26
+06-30 03:59:45.234  1938  2250 I Bugle   : BootAndPackageReplacedReceiver: run post-reboot oobe tasks
+06-30 03:59:45.330  2746  3248 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10102; state: ENABLED
+06-30 03:59:45.348   527   538 W System  : A resource failed to call release.
+06-30 03:59:45.366  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:45.468  2353  3277 D GetConfigurationSnapsho: getFullConfigurations
+06-30 03:59:45.623  2746  3052 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:45.662  1938  2250 I BugleRcsProvisioning: BugleSystemBindingManager: onBootComplete
+06-30 03:59:45.662  1938  2250 I BugleRcsProvisioning: BugleSystemBindingManager: onCsLibPhenotypeUpdated
+06-30 03:59:45.668  1938  2250 I BugleRcsEngine: [49] zuq.c: SystemBindingManager: force P/H Flag update scheduled and start updateBinding
+06-30 03:59:45.668  1938  2250 I BugleRcsProvisioning: RcsProvisioningTrigger: onBootComplete
+06-30 03:59:45.668  1938  2250 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailabilityAsync : hint = BOOT_COMPLETE
+06-30 03:59:45.682  1938  2200 I Bugle   : CountryCodeDetector: updateMainDeviceCountry from default subscription network country. detected country: us
+06-30 03:59:45.686  1938  2635 W BugleRcsEngine: [55] ajnl.z: Unable to send diagnostic log
+06-30 03:59:45.696  1938  2144 I BugleRcsEngine: [39] ajkh.run: SystemBindingManager: SystemBinding enabled: true
+06-30 03:59:45.697  1938  2144 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = BOOT_COMPLETE
+06-30 03:59:45.699  1938  2144 I Bugle   : RcsAvailabilityUtilForProvisioningEngineV2: updateAvailabilityAsync, hint: BOOT_COMPLETE
+06-30 03:59:45.703  1938  2616 W BugleRcsEngine: [52] ajnl.z: Unable to send diagnostic log
+06-30 03:59:45.710  1938  2144 I BugleRcsEngine: [39] ajki.b: System Binding updated
+06-30 03:59:45.716  1938  2144 I BugleRcsEngine: [39] alsz.d: Checking if using CarrierServices.apk is possible. Enabled: true, isAtLeastM: true, runningInsideBugle: true
+06-30 03:59:45.719  1938  2144 W BugleRcsEngine: [39] alsz.g: Carrier Services Apk was not found.
+06-30 03:59:45.719  1938  2144 I BugleRcsEngine: [39] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 03:59:45.719  1938  2144 W BugleRcsEngine: [39] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 03:59:45.761  1938  2144 W BugleRcsEngine: [39] akrz.a: [SR]: Single Registration is disabled. Skipping Single Registration capability check for subId: 1
+06-30 03:59:45.763  1938  2144 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration capability, singleRegistrationCapability: false, simId: redacted-pii:sim_id[20-chars], subId: 1
+06-30 03:59:45.802  1938  2144 I BugleRcsEngine: [39] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:45.806  1938  2144 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration configuration, singleRegistrationRcsConfigAvailableAndEnabled: false, simId: redacted-pii:sim_id[20-chars]
+06-30 03:59:45.808  1938  2144 I BugleRcsEngine: [39] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:45.808  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 03:59:45.812  1938  2144 I BugleRcsEngine: [39] alcv.a: Using config server URL from ajqd
+06-30 03:59:45.812  1938  2144 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: updateRcsAvailability, currentAvailability: 10, newAvailability: 10, hint: BOOT_COMPLETE
+06-30 03:59:45.813  1938  2144 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to Carrier RCS is not set up, lastAvailability is null, simId hash = -4195747258614128190, isPev3Enabled = true
+06-30 03:59:45.814  1938  2144 I BugleRcsEngine: [39] jtw.a: RcsProvisioningManager: Receive onRcsAvailabilityUpdate, SIM = redacted-pii:sim_id[20-chars], availability = RcsAvailability{mAvailability=CARRIER_SETUP_PENDING (Carrier RCS is not set up)}
+06-30 03:59:45.816  1938  2144 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : isPreviousDisabled = true, isCurrentDisabled = false
+06-30 03:59:45.816  1938  2144 I BugleRcsEngine: [39] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:45.816  1938  2144 I BugleRcsProvisioning: RcsProvisioningTrigger: schedule provisioning
+06-30 03:59:45.820  1938  2144 I BugleRcsEngine: [39] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:45.824  1938  2144 I BugleRcsEngine: [39] jsm.l: Scheduled provisioning task with 0 seconds delay, KEEP policy
+06-30 03:59:45.827  1938  2144 D MddListenableWorkerFactory: createWorker for class: com.google.android.apps.messaging.shared.datamodel.workqueue.WorkQueueWorkerShim
+06-30 03:59:45.877  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.sync.syncadapter.DocsSyncAdapterService
+06-30 03:59:45.959  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.drive.directsharing.ChooserTargetService
+06-30 03:59:46.072  1851  2690 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+06-30 03:59:46.132  1851  2690 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.139  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.documentcreation.WidgetDocumentCreatorActivity
+06-30 03:59:46.152  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.documentcreation.ExternalDocumentCreatorActivity
+06-30 03:59:46.153  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.widgets.NewDocumentWidgetActivity
+06-30 03:59:46.153  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.export.FileContentProvider
+06-30 03:59:46.154  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.copypaste.AndroidClipboardContentProvider
+06-30 03:59:46.154  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.copypaste.AndroidImageContentProvider
+06-30 03:59:46.154  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.inserttool.clipboard.InsertToolClipboardContentProvider
+06-30 03:59:46.154  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.shared.inserttool.clipboard.InsertToolImageContentProvider
+06-30 03:59:46.155  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.kix.conversion.KixOnlineImportActivity
+06-30 03:59:46.164  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.ritz.conversion.RitzOnlineImportActivity
+06-30 03:59:46.167  3339  3581 D EGL_emulation: app_time_stats: avg=32.93ms min=3.39ms max=267.06ms count=26
+06-30 03:59:46.170  1601  3853 W GmsIpProtection: [Binder:1601_5] Error changing state for com.google.android.apps.docs.editors.punch.conversion.PunchOnlineImportActivity
+06-30 03:59:46.200  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:46.239  1396  1396 W BugleRcsEngine: [2] alsz.g: Carrier Services Apk was not found.
+06-30 03:59:46.239  1396  1396 I BugleRcsEngine: [2] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 03:59:46.240  1396  1396 W BugleRcsEngine: [2] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 03:59:46.240  1396  1396 I BugleRcsEngine: [2] alsz.c: Not using CS JibeService because it is not compatible with AM.
+06-30 03:59:46.245  1396  1396 E BugleRcsEngine: [2] AutoStartReceiver.onReceive: JibeService cannot be started because Bugle is not exempt from doze mode.
+06-30 03:59:46.272  1104  3188 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:46.310  1851  2690 I Icing   : Indexing done com.google.android.gms-apps
+06-30 03:59:46.316  2353  3277 D CommitToConfigurationOp: real commit done, callingPackage: com.android.vending snapshot:  com.google.android.finsky.regular 83621120 48 -1634383277 com.google.android.finsky.regular 1683719088 0
+06-30 03:59:46.317  2353  3277 D ExperimentTokensCache: Clearing ExperimentTokensCache
+06-30 03:59:46.323  1540  1834 I A       : Device Compliance Fetch time taken = 48771ms
+06-30 03:59:46.324  1540  1834 I A       : Device is compliant!
+06-30 03:59:46.365  1540  1834 I A       : Invoking "compliant" action...
+06-30 03:59:46.390  2353  2460 I Finsky  : [43] vvg.c(1): Regular flags synced
+06-30 03:59:46.394  1938  2200 W BugleDataModel: ExpireWapPushSiMessageHandler:no WAP Push SI messages.
+06-30 03:59:46.407  2353  2460 I Finsky  : [43] htj.aD(3): Writing flags config, size 1.
+06-30 03:59:46.413  2353  2460 I Finsky  : [43] htj.aD(3): Started writing experiment flags into file [4dEVOh7DlClE42ly_19Hs7FqnnFOj9O0dm-zzWqGxeo].
+06-30 03:59:46.417  1938  2200 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=52c151d3-efde-453f-954d-097b899efa39, tags={ com.google.android.apps.messaging.shared.datamodel.workqueue.WorkQueueWorkerShim, expire_wap_push_si_message- } ]
+06-30 03:59:46.427  2353  2460 I Finsky  : [43] htj.aD(17): Finished writing experiment flags into file [4dEVOh7DlClE42ly_19Hs7FqnnFOj9O0dm-zzWqGxeo].
+06-30 03:59:46.433  1851  3111 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.489  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413dbf90: maj 3 min 0 rcv 3
+06-30 03:59:46.501  2353  2460 I Finsky  : [43] vuz.g(23): Successfully applied new configurations for package com.google.android.finsky.regular.
+06-30 03:59:46.502  2353  2460 I Finsky  : [43] vuz.g(29): [EExp] Exporting experiments for package com.google.android.finsky.regular.
+06-30 03:59:46.508  1851  2690 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+06-30 03:59:46.509  2353  2460 I Finsky  : [43] aabc.E(3): [EExp] Exporting experiments for namespace com.google.android.finsky.regular.
+06-30 03:59:46.541  1851  2690 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.545  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413dbf90: maj 3 min 0 rcv 3
+06-30 03:59:46.553  1104  2674 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:46.557  1851  2690 I Icing   : Indexing done com.google.android.gms-apps
+06-30 03:59:46.597  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413dbf90: maj 3 min 0 rcv 3
+06-30 03:59:46.627  1851  2690 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+06-30 03:59:46.630  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231132/com.example.lunchtray:id/salad>
+06-30 03:59:46.635  1851  2690 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.636  1851  2690 I Icing   : Indexing done com.google.android.gms-apps
+06-30 03:59:46.637  1851  3111 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.639  1851  2690 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+06-30 03:59:46.639  1851  2690 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.641  1851  2690 I Icing   : Indexing done com.google.android.gms-apps
+06-30 03:59:46.644  1851  2690 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+06-30 03:59:46.645  1851  2690 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:46.649  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:46.660  1851  2690 I Icing   : Indexing done com.google.android.gms-apps
+06-30 03:59:46.676  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:46.679  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:46.732  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.stats.NotificationLoggingTask.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalBoundBrokerService }
+06-30 03:59:46.732  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.stats.NotificationLoggingTask.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalBoundBrokerService }
+06-30 03:59:46.750  1104  3112 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:46.755  1851  3111 W ChimeraUtils: Module com.google.android.gms.core missing resource null(0)
+06-30 03:59:46.775  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:46.781  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.stats.NotificationLoggingTask.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalBoundBrokerService }
+06-30 03:59:46.878  1851  3111 I GCM-GMS : Registering GMS for direct boot.
+06-30 03:59:46.878  1104  3112 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:46.937  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $9.50"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 03:59:46.939  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:46.958  1938  2200 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+06-30 03:59:46.959  1938  2200 I BugleRcsProvisioning: BugleSystemBindingManager: onCsLibPhenotypeUpdated
+06-30 03:59:46.960  1938  2200 I BugleRcsEngine: [44] zuq.c: SystemBindingManager: force P/H Flag update scheduled and start updateBinding
+06-30 03:59:46.974  1938  3031 I BugleTransport: isChatAvailable: RcsAvailability is CARRIER_SETUP_PENDING (Carrier RCS is not set up)
+06-30 03:59:46.974  1938  2635 W BugleAction: Null config in BugleSharedPrefs
+06-30 03:59:46.974  1938  2635 W BugleAction: Failed to get msisdn from Bugle
+06-30 03:59:46.975  1938  2146 I BugleRcsEngine: [41] albk.o: No RCS Configuration was found in Bugle for simID: 89860318640220133897
+06-30 03:59:46.979  1938  2145 I BugleRcsEngine: [40] ajkh.run: SystemBindingManager: SystemBinding enabled: true
+06-30 03:59:46.980  1938  2145 I BugleRcsEngine: [40] ajki.b: System Binding updated
+06-30 03:59:46.985  1938  2250 W BugleRcsEngine: [49] ajnl.z: Unable to send diagnostic log
+06-30 03:59:46.992  1938  2616 W BugleRcsEngine: [52] ajnl.z: Unable to send diagnostic log
+06-30 03:59:46.993  1938  2635 W BugleAction: Failed to get msisdn from RcsProfileService
+06-30 03:59:46.994  1938  2635 W BugleAction: awmw: Jibe SDK Service not available. Is the Jibe SDK service running? Did you call connect() and wait for the notification before calling an API function?
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at awmp.b(PG:2)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at com.google.android.rcs.client.profile.RcsProfileService.g(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at com.google.android.rcs.client.profile.RcsProfileService.getMsisdn(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at utg.F(PG:12)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at tmz.b(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at tmx.call(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at ayqv.a(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at aypm.a(PG:2)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at bcib.c(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at bchf.run(PG:4)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at bcid.run(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at aosz.run(PG:1)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at aosl.run(PG:2)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at aory.run(PG:3)
+06-30 03:59:46.994  1938  2635 W BugleAction: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:46.995  1938  2635 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:46.996  1938  2635 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.004  1938  2635 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.006  1938  2635 W Bugle   : SubscriptionUtilsAsOfLMR1: getSelfRawNumber: subInfo is null for subscription{id:-1}
+06-30 03:59:47.007  1938  2635 W BugleAction: No default number, returning empty msisdn
+06-30 03:59:47.011  1938  2635 W BugleAction: No default number, returning empty msisdn
+06-30 03:59:47.011  1938  2635 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.018  1938  2200 W BugleRcsEngine: [44] alsz.g: Carrier Services Apk was not found.
+06-30 03:59:47.018  1938  2200 I BugleRcsEngine: [44] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 03:59:47.018  1938  2200 W BugleRcsEngine: [44] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 03:59:47.018  1938  2200 I BugleRcsEngine: [44] alsz.c: Not using CS JibeService because it is not compatible with AM.
+06-30 03:59:47.019  1938  2635 W BugleNetwork: RcsMsisdnAccessor: Failed to access Rcs msisdn. subId: -2
+06-30 03:59:47.020  1938  2145 I BugleTransport: Cannot refresh chat transport. No msisdn available
+06-30 03:59:47.079  1104  1113 I .gms.persisten: Background young concurrent copying GC freed 387304(18MB) AllocSpace objects, 46(1500KB) LOS objects, 54% free, 16MB/35MB, paused 2.495ms,50us total 356.704ms
+06-30 03:59:47.090  1938  2144 I GnpSdk  : [PhenotypeManagerImpl] Phenotype registration SUCCESS
+06-30 03:59:47.097  2353  2460 I Finsky  : [43] vuz.g(34): [EExp] Successfully exported experiments for package com.google.android.finsky.regular.
+06-30 03:59:47.110   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(2)
+06-30 03:59:47.111  2353  3277 I Finsky  : [126] pqi.b(1): HC: beginRecoverGmscoreIfApplicable
+06-30 03:59:47.126  2353  3277 I Finsky  : [126] pqi.b(2): HC: No target version, skip Gmscore recovery.
+06-30 03:59:47.156  1851  3111 I GCM-GMS : Got GMS direct boot token.
+06-30 03:59:47.177  1104  1179 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:47.187  3339  3581 D EGL_emulation: app_time_stats: avg=19.72ms min=4.89ms max=188.58ms count=46
+06-30 03:59:47.252  1104  1179 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+06-30 03:59:47.253  1851  2689 I GCM-GMS : Registering GMS 745476177629
+06-30 03:59:47.292  1938  1938 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10103; state: ENABLED
+06-30 03:59:47.327  1938  2146 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+06-30 03:59:47.327  1938  2146 I BugleRcsProvisioning: BugleSystemBindingManager: onCsLibPhenotypeUpdated
+06-30 03:59:47.328  1938  2146 I BugleRcsEngine: [41] zuq.c: SystemBindingManager: force P/H Flag update scheduled and start updateBinding
+06-30 03:59:47.328  1938  2635 W BugleRcsEngine: [55] ajnl.z: Unable to send diagnostic log
+06-30 03:59:47.328  1938  3591 W BugleAction: Null config in BugleSharedPrefs
+06-30 03:59:47.328  1938  3591 W BugleAction: Failed to get msisdn from Bugle
+06-30 03:59:47.329  1938  3591 W BugleAction: Failed to get msisdn from RcsProfileService
+06-30 03:59:47.329  1938  3591 W BugleAction: awmw: Jibe SDK Service not available. Is the Jibe SDK service running? Did you call connect() and wait for the notification before calling an API function?
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at awmp.b(PG:2)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at com.google.android.rcs.client.profile.RcsProfileService.g(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at com.google.android.rcs.client.profile.RcsProfileService.getMsisdn(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at utg.F(PG:12)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at tmz.b(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at tmx.call(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at ayqv.a(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at aypm.a(PG:2)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at bcib.c(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at bchf.run(PG:4)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at bcid.run(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at aosz.run(PG:1)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at aosl.run(PG:2)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at aory.run(PG:3)
+06-30 03:59:47.329  1938  3591 W BugleAction: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:47.329  1938  3591 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.329  1938  3591 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.330  2353  2527 I Finsky  : [58] mkw.a(41): [DeviceConfig] successfully updated device attribute payloads
+06-30 03:59:47.330  1938  3591 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.330  1938  3591 W Bugle   : SubscriptionUtilsAsOfLMR1: getSelfRawNumber: subInfo is null for subscription{id:-1}
+06-30 03:59:47.331  1938  3591 W BugleAction: No default number, returning empty msisdn
+06-30 03:59:47.332  1938  2200 I BugleRcsEngine: [44] albk.o: No RCS Configuration was found in Bugle for simID: 89860318640220133897
+06-30 03:59:47.332  1938  3031 I BugleTransport: isChatAvailable: RcsAvailability is CARRIER_SETUP_PENDING (Carrier RCS is not set up)
+06-30 03:59:47.332  1938  2145 I BugleRcsEngine: [40] ajkh.run: SystemBindingManager: SystemBinding enabled: true
+06-30 03:59:47.332  1938  2145 I BugleRcsEngine: [40] ajki.b: System Binding updated
+06-30 03:59:47.332  1938  2616 W BugleRcsEngine: [52] ajnl.z: Unable to send diagnostic log
+06-30 03:59:47.339  2353  2353 I Finsky  : [2] zgu.b(10): SUH: Request device config token was successful in self update.
+06-30 03:59:47.343  1938  2146 W BugleRcsEngine: [41] alsz.g: Carrier Services Apk was not found.
+06-30 03:59:47.343  1938  2146 I BugleRcsEngine: [41] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 03:59:47.343  1938  2146 W BugleRcsEngine: [41] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 03:59:47.343  1938  2146 I BugleRcsEngine: [41] alsz.c: Not using CS JibeService because it is not compatible with AM.
+06-30 03:59:47.343  1938  3591 W BugleAction: No default number, returning empty msisdn
+06-30 03:59:47.343  1938  3591 W Bugle   : SubscriptionMetadataUtils get: invalid subId = -2
+06-30 03:59:47.347  1938  3591 W BugleNetwork: RcsMsisdnAccessor: Failed to access Rcs msisdn. subId: -2
+06-30 03:59:47.348  1938  2145 I BugleTransport: Cannot refresh chat transport. No msisdn available
+06-30 03:59:47.365  1396  1434 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10103; state: ENABLED
+06-30 03:59:47.370  1938  2146 I Bugle   : RcsAvailabilityUtilForProvisioningEngineV2: onCsLibPhenotypeUpdated
+06-30 03:59:47.373  1396  1897 I BugleRcsEngine: [52] akbw.l: Reinitialize CSLib Flags: com.google.android.ims.library
+06-30 03:59:47.380  1938  2146 I BugleRcsProvisioning: RcsProvisioningTrigger: onCsLibPhenotypeUpdated, enableProvisioningTaskInBugle = true
+06-30 03:59:47.380  1938  2146 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = CSLIB_PHENOTYPE_UPDATE
+06-30 03:59:47.381  1938  2146 I Bugle   : RcsAvailabilityUtilForProvisioningEngineV2: updateAvailabilityAsync, hint: CSLIB_PHENOTYPE_UPDATE
+06-30 03:59:47.381  1938  2146 I Bugle   : RcsAvailabilityUtilForProvisioningEngineV2: swapAvailabilityUpdater, provisioningTaskInBugle: true, activeRcsAvailabilityUpdater: uts
+06-30 03:59:47.381  1938  2146 I BugleRcsProvisioning: BugleSystemBindingManager: onCsLibPhenotypeUpdated
+06-30 03:59:47.382  1938  2146 I BugleRcsEngine: [41] zuq.c: SystemBindingManager: force P/H Flag update scheduled and start updateBinding
+06-30 03:59:47.383  1938  3591 W BugleRcsEngine: [96] ajnl.z: Unable to send diagnostic log
+06-30 03:59:47.383  1938  2146 I BugleRcsEngine: [41] ajkh.run: SystemBindingManager: SystemBinding enabled: true
+06-30 03:59:47.384  1938  2146 I BugleRcsEngine: [41] ajki.b: System Binding updated
+06-30 03:59:47.385  1938  2200 I BugleRcsEngine: [44] alsz.d: Checking if using CarrierServices.apk is possible. Enabled: true, isAtLeastM: true, runningInsideBugle: true
+06-30 03:59:47.385  1938  2635 W BugleRcsEngine: [55] ajnl.z: Unable to send diagnostic log
+06-30 03:59:47.385  1938  2200 W BugleRcsEngine: [44] alsz.g: Carrier Services Apk was not found.
+06-30 03:59:47.385  1938  2200 I BugleRcsEngine: [44] alsz.e: Cannot get service version because CS.apk was not found, not pre-loaded or disabled.
+06-30 03:59:47.385  1938  2200 W BugleRcsEngine: [44] alsz.e: Service with meta data key: JibeServiceApiVersions is not compatible. Service Version 1 is not supported. Supported versions: []
+06-30 03:59:47.387  1938  2200 W BugleRcsEngine: [44] akrz.a: [SR]: Single Registration is disabled. Skipping Single Registration capability check for subId: 1
+06-30 03:59:47.387  1938  2200 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration capability, singleRegistrationCapability: false, simId: redacted-pii:sim_id[20-chars], subId: 1
+06-30 03:59:47.388  1938  2200 I BugleRcsEngine: [44] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:47.388  1938  2200 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: [SR]: SingleRegistration configuration, singleRegistrationRcsConfigAvailableAndEnabled: false, simId: redacted-pii:sim_id[20-chars]
+06-30 03:59:47.388  1938  2200 I BugleRcsEngine: [44] albk.n: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[20-chars]
+06-30 03:59:47.388  1938  2200 I BugleRcsEngine: [44] alcv.a: Using config server URL from ajqd
+06-30 03:59:47.388  1938  2200 I BugleRcsProvisioning: RcsAvailabilityUpdaterLocal: updateRcsAvailability, currentAvailability: 10, newAvailability: 10, hint: CSLIB_PHENOTYPE_UPDATE
+06-30 03:59:47.389  1938  2144 I GnpSdk  : [PhenotypeManagerImpl] Phenotype registration SUCCESS
+06-30 03:59:47.389  1938  2200 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to Carrier RCS is not set up, lastAvailability is Carrier RCS is not set up, simId hash = -4195747258614128190, isPev3Enabled = true
+06-30 03:59:47.389  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 03:59:47.444  1396  1897 W BugleRcsEngine: [52] ajnl.z: Unable to send diagnostic log
+06-30 03:59:47.460  1396  1897 I BugleRcsEngine: [52] akua.u: ProvisioningEngineManager: onCsLibPhenotypeUpdated, provisioningTaskInBugleEnabled = true, currentProvisioningStrategy = akyf
+06-30 03:59:47.465  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+06-30 03:59:47.468  2353  2824 I Finsky  : [104] ose.run(31): Wrote row to frosting DB: 1095
+06-30 03:59:47.472  2746  3201 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:47.516  1938  2144 I GrowthKit: GrowthKit enabled by flag, registered to Phenotype and schedule jobs.
+06-30 03:59:47.533  1938  3591 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 03:59:47.550  1104  2546 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 03:59:47.552  1938  3591 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:0 and remote module com.google.android.gms.providerinstaller.dynamite:0
+06-30 03:59:47.552  1938  3591 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+06-30 03:59:47.617  2746  3201 D EGL_emulation: eglCreateContext: 0xb400007c413df710: maj 3 min 0 rcv 3
+06-30 03:59:47.648  1938  3591 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 03:59:47.656   312   312 D Zygote  : Forked child process 3868
+06-30 03:59:47.675  1104  2546 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 03:59:47.689  1938  3591 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:0 and remote module com.google.android.gms.providerinstaller.dynamite:0
+06-30 03:59:47.689  1938  3591 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+06-30 03:59:47.698  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 03:59:47.728  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:47.754  3742  3867 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10125; state: ENABLED
+06-30 03:59:47.878  3868  3868 E ndroid.calenda: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:48.025  2746  2762 I id.gms.unstabl: Background concurrent copying GC freed 73499(5271KB) AllocSpace objects, 114(16MB) LOS objects, 49% free, 4793KB/9586KB, paused 58us,26us total 435.646ms
+06-30 03:59:48.045   527  1446 D ConnectivityService: requestNetwork for uid/pid:10125/3742 activeRequest: null callbackRequest: 124 [NetworkRequest [ REQUEST id=125, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:48.053  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413d9a10: maj 3 min 0 rcv 3
+06-30 03:59:48.056   527   646 D ConnectivityService: NetReassign [125 : null → 101]
+06-30 03:59:48.058   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=125, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:48.058   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=125, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:48.058   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=125, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:48.070  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413d9a10: maj 3 min 0 rcv 3
+06-30 03:59:48.082  3868  3868 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10113; state: DISABLED
+06-30 03:59:48.088  1851  2689 I GCM-GMS : Got GMS registration
+06-30 03:59:48.115  1104  3288 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+06-30 03:59:48.119   312   312 D Zygote  : Forked child process 3896
+06-30 03:59:48.145  3896  3896 E .apps.wallpape: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:48.161  3896  3896 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10133; state: DISABLED
+06-30 03:59:48.164  3868  3868 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/CalendarGooglePrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 03:59:48.201  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 03:59:48.202  3339  3563 I TestRunner: finished: subtotal_updates_in_full_order_flow(com.example.lunchtray.OrderFunctionalityTests)

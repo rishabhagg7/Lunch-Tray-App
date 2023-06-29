@@ -1,0 +1,340 @@
+06-30 04:00:09.595  3339  3563 I TestRunner: started: order_reset_after_cancel_from_side_menu(com.example.lunchtray.OrderFunctionalityTests)
+06-30 04:00:09.616   527  1910 W InputManager-JNI: Input channel object '6fe00f1 com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (client)' was disposed without first being removed with the input manager!
+06-30 04:00:09.668  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 04:00:09.689  2746  3201 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 04:00:09.697  2746  3201 D EGL_emulation: eglCreateContext: 0xb400007c413de990: maj 3 min 0 rcv 3
+06-30 04:00:09.705  4575  4575 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10101; state: DISABLED
+06-30 04:00:09.711   527   536 I system_server: NativeAlloc concurrent copying GC freed 242532(11MB) AllocSpace objects, 55(2104KB) LOS objects, 50% free, 21MB/42MB, paused 100us,240us total 738.267ms
+06-30 04:00:09.740  4575  4575 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/AndroidAutoStubPrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:09.770  4575  4575 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.projection.gearhead' set to: 'default'
+06-30 04:00:09.770  4575  4575 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:09.772  4575  4575 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:09.773  4575  4575 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:09.776   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 04:00:09.795  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3dad958 in: PRE_ON_CREATE
+06-30 04:00:09.795  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.796  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 04:00:09.805  4575  4575 I CAR.GH  : onCreate
+06-30 04:00:09.806   527   538 W System  : A resource failed to call close.
+06-30 04:00:09.806   527   538 W System  : A resource failed to call release.
+06-30 04:00:09.807   527   538 W System  : A resource failed to call close.
+06-30 04:00:09.809   527   538 W System  : A resource failed to call release.
+06-30 04:00:09.809   527   538 W System  : A resource failed to call close.
+06-30 04:00:09.847   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 04:00:09.859  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3dad958 in: CREATED
+06-30 04:00:09.859  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.859  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.860  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.875  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3dad958 in: STARTED
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.876  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.877  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3dad958 in: RESUMED
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.878  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3dad958
+06-30 04:00:09.879   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f5e94000 0x1f67fc000]
+06-30 04:00:09.909   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f67fc000 0x1f7164000]
+06-30 04:00:09.966   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1fada8000 0x1fb710000]
+06-30 04:00:09.968   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f93a8000 0x1f9d10000]
+06-30 04:00:09.972   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 04:00:09.987  4575  4575 I GH.FzeroReceiver: Handling intent android.intent.action.BOOT_COMPLETED
+06-30 04:00:09.996   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +286ms
+06-30 04:00:10.022  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 04:00:10.034  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 04:00:10.034  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 04:00:10.034  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 04:00:10.036  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 04:00:10.060  1037  1502 D EGL_emulation: app_time_stats: avg=47.50ms min=9.53ms max=520.90ms count=25
+06-30 04:00:10.063   527   538 W System  : A resource failed to call close.
+06-30 04:00:10.097   527   557 I libprocessgroup: Successfully killed process cgroup uid 10063 pid 1247 in 44ms
+06-30 04:00:10.161   700   930 D EGL_emulation: app_time_stats: avg=689.59ms min=8.10ms max=7563.33ms count=12
+06-30 04:00:10.181   312   312 D Zygote  : Forked child process 4599
+06-30 04:00:10.202   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f3d6c000 0x1f3fc8000]
+06-30 04:00:10.204   527  1614 D HostConnection: createUnique: call
+06-30 04:00:10.205   527  1614 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c41457ad0, tid 1614
+06-30 04:00:10.209   312   312 I Zygote  : Process 1247 exited due to signal 9 (Killed)
+06-30 04:00:10.224  4599  4599 E gs.intelligenc: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:10.230   527  1614 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:10.233  2353  2451 I Finsky  : [39] njh.run(33): Stats for Executor: BlockingExecutor njy@cc66f43[Running, pool size = 7, active threads = 1, queued tasks = 0, completed tasks = 54]
+06-30 04:00:10.269  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 04:00:10.291  2353  2451 I Finsky  : [39] njh.run(33): Stats for Executor: LightweightExecutor njy@735f9c0[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 582]
+06-30 04:00:10.312  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 04:00:10.313  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 04:00:10.333   700   930 D EGL_emulation: app_time_stats: avg=703.05ms min=11.02ms max=7728.39ms count=12
+06-30 04:00:10.352  4599  4599 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10091; state: ENABLED
+06-30 04:00:10.425  4599  4599 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/SettingsIntelligenceGooglePrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:10.426   527  2574 W InputManager-JNI: Input channel object '44fc697 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 04:00:10.464  4599  4599 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.settings.intelligence' set to: 'default'
+06-30 04:00:10.464  4599  4599 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:10.468  4599  4599 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:10.468  4599  4599 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:10.532  4599  4599 W gs.intelligenc: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:10.533  4599  4599 W gs.intelligenc: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:10.533  4599  4599 W gs.intelligenc: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+06-30 04:00:10.570  2353  4616 W android.vendin: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+06-30 04:00:10.638  4599  4599 W AppSearchIndex: Skipping: device index is not enabled
+06-30 04:00:10.684  1542  1542 I SetupWizard: [PostSetupLifecycleBootReceiver] [pre-deferred] in progress before reboot. Restarting lifecycle.
+06-30 04:00:10.727   312   312 D Zygote  : Forked child process 4629
+06-30 04:00:10.753  4629  4629 E gle.android.tt: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:10.771  4599  4623 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10091; state: ENABLED
+06-30 04:00:10.794  4629  4629 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10114; state: ENABLED
+06-30 04:00:10.823  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 04:00:10.871  4629  4629 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/GoogleTTS/lib/arm64:/product/app/GoogleTTS/GoogleTTS.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 04:00:10.875  2353  2451 I Finsky  : [39] njh.run(33): Stats for Executor: bgExecutor njy@407a069[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 3100]
+06-30 04:00:10.897  4629  4629 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.tts' set to: 'default'
+06-30 04:00:10.897  4629  4629 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:10.899  4629  4629 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:10.900  4629  4629 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:10.984  3339  3353 I ample.lunchtra: NativeAlloc concurrent copying GC freed 385518(17MB) AllocSpace objects, 1(20KB) LOS objects, 49% free, 7193KB/14MB, paused 65us,24us total 397.935ms
+06-30 04:00:11.019  3339  3581 D EGL_emulation: app_time_stats: avg=25.54ms min=4.58ms max=238.24ms count=36
+06-30 04:00:11.022  1104  1112 I .gms.persisten: Compiler allocated 4980KB to compile void bxmx.C(java.util.Set, long, doiq, doir, java.util.List, java.util.LinkedHashMap, eaxt, bxmw, boolean)
+06-30 04:00:11.023  4629  4629 I MultiDex: VM with version 2.1.0 has multidex support
+06-30 04:00:11.023  4629  4629 I MultiDex: install
+06-30 04:00:11.023  4629  4629 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+06-30 04:00:11.023  4629  4629 I MultiDex: install
+06-30 04:00:11.023  4629  4629 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+06-30 04:00:11.025  4629  4629 I CarUiInstaller: CarUiInstaller started for com.google.android.tts
+06-30 04:00:11.109  4629  4629 I fbn     : SslGuard completed installation.
+06-30 04:00:11.115  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.117  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.117  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.118  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.118  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.118  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.118  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.119  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.119  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.121  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.121  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.122  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.122  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.122  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.122  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.123  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.125  2353  2506 I Finsky  : [52] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:11.151  2353  2530 I Finsky  : [60] afxi.n(1): [PLUS] Syncing for users with urgency above: HYGIENE
+06-30 04:00:11.181  4629  4629 I GoogleTTSApplication: Beginning load of tts_android...
+06-30 04:00:11.183  2353  2537 I Finsky  : [62] aabd.a(61): [PLUS] Syncing 1 train(s)
+06-30 04:00:11.190  2353  2537 I Finsky  : [62] akwz.a(7): [PLUS] Sending payloads for account: [2fKVkThB4QBVOwc88U06EJ4S6Yyqenathz2XlaLEUMg]
+06-30 04:00:11.221  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 04:00:11.321   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(3)
+06-30 04:00:11.378   312   312 D Zygote  : Forked child process 4654
+06-30 04:00:11.395  4629  4629 I GoogleTTSApplication: tts_android (null) was loaded normally!
+06-30 04:00:11.402  4654  4654 E ndroid.setting: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:11.411  4629  4661 W gle.android.tt: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:11.412  4629  4661 W gle.android.tt: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:11.412  4629  4661 W gle.android.tt: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:11.413  4629  4629 I Analytics: Running on TYPE_PHONE
+06-30 04:00:11.495  4654  4654 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 1000; state: ENABLED
+06-30 04:00:11.503  4629  4629 I VoiceDataDownloader: fetchVoiceInternal en-us
+06-30 04:00:11.507  4629  4673 I VoiceDataDownloader: Not already initialized. Initializing Superpacks.
+06-30 04:00:11.545  4629  4673 I VoiceDataDownloader: Superpack object built.
+06-30 04:00:11.546  4629  4673 I VoiceDataDownloader: Superpack slicing strategy registered
+06-30 04:00:11.547  4629  4673 I VoiceDataDownloader: Superpack quota set for all voices.
+06-30 04:00:11.556  4629  4673 I VoiceDataDownloader: Got bundled voice en-us-x-multi-r33
+06-30 04:00:11.584  4629  4674 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10114; state: ENABLED
+06-30 04:00:11.595  4654  4654 V GraphicsEnvironment: ANGLE Developer option for 'com.android.settings' set to: 'default'
+06-30 04:00:11.595  4654  4654 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:11.596  4654  4654 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:11.596  4654  4654 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:11.596   527  2581 D ConnectivityService: requestNetwork for uid/pid:1000/527 asUid: 10114 activeRequest: null callbackRequest: 138 [NetworkRequest [ REQUEST id=139, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10114 RequestorUid: 1000 RequestorPkg: android] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:11.598   527   646 D ConnectivityService: NetReassign [139 : null → 101]
+06-30 04:00:11.600   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=139, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10114 RequestorUid: 1000 RequestorPkg: android] ]
+06-30 04:00:11.601   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=139, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10114 RequestorUid: 1000 RequestorPkg: android] ]
+06-30 04:00:11.601   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=139, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10114 RequestorUid: 1000 RequestorPkg: android] ]
+06-30 04:00:11.621   312   312 D Zygote  : Forked child process 4678
+06-30 04:00:11.622  4629  4677 I SP      : Registering ttsvoices.1068, url: null, constraints: *:*:*:*, flags: *, requested: 1068, current: 1068
+06-30 04:00:11.633  2353  2353 I Finsky  : [2] izg.a(4): [PLUS] Received response
+06-30 04:00:11.646  2353  2504 I Finsky  : [51] mkw.a(3): [PLUS] Successfully updated PayloadValueStore
+06-30 04:00:11.646  2353  2530 I Finsky  : [60] zzv.a(64): [PLUS] Sync complete, number synced: 1, number failed: 0
+06-30 04:00:11.658  4678  4678 E android.youtub: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:11.663  4629  4673 I VoiceDataDownloader: Initialization success: true
+06-30 04:00:11.663  4629  4673 I GoogleTTSApplication: VoiceDataDownloader initialized success true
+06-30 04:00:11.663  4629  4673 I VoiceDataDownloader: Superpacks created and default voices checked.
+06-30 04:00:11.664   527   557 I libprocessgroup: Successfully killed process cgroup uid 10124 pid 1601 in 45ms
+06-30 04:00:11.669   312   312 I Zygote  : Process 1601 exited due to signal 9 (Killed)
+06-30 04:00:11.674  4629  4673 I VoiceDataDownloader: Download of en-us started.
+06-30 04:00:11.674  4629  4673 I VoiceDataManager: Delete the old data directory successfully.
+06-30 04:00:11.675  4629  4673 I VoiceDataDownloader: Registered slicing strategy for en-us
+06-30 04:00:11.675  4629  4673 I VoiceDataDownloader: Getting pack name en-us-x-multi-r33
+06-30 04:00:11.676  4629  4673 I VoiceDataDownloader: Adding pack en-us-x-multi-r33 to superpack.
+06-30 04:00:11.676  4629  4673 I VoiceDataDownloader: Getting pack name en-us-x-afh-r33
+06-30 04:00:11.676  4629  4673 I VoiceDataDownloader: Adding pack en-us-x-afh-r33 to superpack.
+06-30 04:00:11.676  4629  4673 I VoiceDataDownloader: Getting pack name en-us-x-fis-r33
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Adding pack en-us-x-fis-r33 to superpack.
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Getting pack name en-us-x-multi-wavernn-r33
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Adding pack en-us-x-multi-wavernn-r33 to superpack.
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Getting pack name en-us-x-multi-darwinn-wavernn-r33
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Adding pack en-us-x-multi-darwinn-wavernn-r33 to superpack.
+06-30 04:00:11.677  4629  4673 I VoiceDataDownloader: Syncing superpack en-us
+06-30 04:00:11.678  4629  4677 I SP      : Registering en-us.33, url: null, constraints: *:*:*:*, flags: *, requested: 33, current: 33
+06-30 04:00:11.681  2353  2502 I Finsky  : [50] aaah.apply(14): [PLUS] Hygiene sync job success.
+06-30 04:00:11.684  2353  2502 I Finsky  : [50] yrv.r(4): SCH: jobFinished: 10-87. TimeElapsed: 4894ms.
+06-30 04:00:11.686  4629  4677 I SP      : Syncing en-us (33) with slices: [{en-us-x-multi-r33, m:*:*:*}], metadata: false
+06-30 04:00:11.691  4678  4678 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10115; state: ENABLED
+06-30 04:00:11.691  4654  4654 D SettingsSliceProvider: init
+06-30 04:00:11.692  4654  4654 D SettingsSliceProvider: onCreateSliceProvider
+06-30 04:00:11.694  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231195/com.example.lunchtray:id/soup>
+06-30 04:00:11.706  4654  4672 W UnsafeUtil: platform method missing - proto runtime falling back to safer methods: java.lang.NoSuchMethodException: sun.misc.Unsafe.copyMemory [class java.lang.Object, long, class java.lang.Object, long, long]
+06-30 04:00:11.711  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-4, CT: 1688077789879, Constraints: [{ L: 1200000, D: 86400000, C: 1, I: 1, N: 0 }]
+06-30 04:00:11.711  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-11, CT: 1688077789880, Constraints: [{ L: 600000, D: 86400000, C: 1, I: 1, N: 0 }]
+06-30 04:00:11.711  2353  2506 I Finsky  : [52] xzs.accept(38): SCH: Scheduling phonesky job Id: 26-1414141414, CT: 1688066867825, Constraints: [{ L: 43200000, D: 44100000, C: 1, I: 1, N: 0 }]
+06-30 04:00:11.716  2353  2537 I Finsky  : [62] ybr.apply(42): SCH: Scheduling 1 system job(s)
+06-30 04:00:11.716  2353  2537 I Finsky  : [62] yrt.d(19): SCH: Scheduling system job Id: 9925, L: 578164, D: 33156109, C: false, I: false, N: 0
+06-30 04:00:11.724  2353  4060 I Finsky  : [130] ytj.a(16): SCH: job service finished with id 9860.
+06-30 04:00:11.757  2353  2353 I Finsky  : [2] ytj.onStartJob(4): SCH: job service start with id 9877.
+06-30 04:00:11.765  2353  2621 I Finsky  : [82] ysp.a(111): SCH: Satisfied jobs for 9877 are: 12-1
+06-30 04:00:11.777  2353  4060 I Finsky  : [130] ysh.accept(68): SCH: Job 12-1 starting
+06-30 04:00:11.780  2353  2353 I Finsky  : [2] ContentSyncJob.v(3): [ContentSync] job started
+06-30 04:00:11.782  4599  4647 W System  : ClassLoader referenced unknown path:
+06-30 04:00:11.796  4629  4677 I SP      : Sync for en-us succeeded in 116 ms: no changes
+06-30 04:00:11.796  4629  4677 I SP      : GC for 'en-us' (10) with ttl of 0 ms took 0 ms (0/0/0)
+06-30 04:00:11.797  4629  4673 I VoiceDataDownloader: Superpack download completed.
+06-30 04:00:11.797  4629  4673 I VoiceDataDownloader: Download default Success true
+06-30 04:00:11.879  1851  2646 I FastPair: (REDACTED) FastPair: provider is called with method [%s]
+06-30 04:00:11.914  2353  4696 I Finsky  : [159] jsn.h(1): Completed 0 account content syncs with 0 successful.
+06-30 04:00:11.914  2353  2353 I Finsky  : [2] ContentSyncJob.a(1): [ContentSync] Installation state replication succeeded.
+06-30 04:00:11.915  2353  2353 I Finsky  : [2] yrv.r(4): SCH: jobFinished: 12-1. TimeElapsed: 137ms.
+06-30 04:00:11.941  2353  2530 I Finsky  : [60] xzs.accept(38): SCH: Scheduling phonesky job Id: 1-1337, CT: 1688077791027, Constraints: [{ L: 41882548, D: 85082548, C: 1, I: 1, N: 1 }]
+06-30 04:00:11.942  2353  2530 I Finsky  : [60] xzs.accept(38): SCH: Scheduling phonesky job Id: 10-26, CT: 1688077789880, Constraints: [{ L: 600000, D: 86400000, C: 1, I: 1, N: 1 }]
+06-30 04:00:11.954  2353  2506 I Finsky  : [52] ybr.apply(42): SCH: Scheduling 1 system job(s)
+06-30 04:00:11.955  2353  2506 I Finsky  : [52] yrt.d(19): SCH: Scheduling system job Id: 9928, L: 577926, D: 85061621, C: false, I: false, N: 1
+06-30 04:00:11.988  2353  4060 I Finsky  : [130] ytj.a(16): SCH: job service finished with id 9877.
+06-30 04:00:12.003  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+06-30 04:00:12.024  3339  3581 D EGL_emulation: app_time_stats: avg=19.53ms min=3.86ms max=214.95ms count=45
+06-30 04:00:12.025   312   312 D Zygote  : Forked child process 4698
+06-30 04:00:12.050  4698  4698 E t_app_installe: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:12.188  4698  4698 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10099; state: ENABLED
+06-30 04:00:12.216  4678  4678 W android.youtub: Entry not found
+06-30 04:00:12.219  4678  4678 W android.youtub: Entry not found
+06-30 04:00:12.232  4678  4678 W android.youtub: Entry not found
+06-30 04:00:12.240  4678  4678 W android.youtub: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.240  4678  4678 W android.youtub: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.240  4678  4678 W android.youtub: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.315   527   557 I libprocessgroup: Successfully killed process cgroup uid 10120 pid 3987 in 157ms
+06-30 04:00:12.339   312   312 I Zygote  : Process 3896 exited due to signal 9 (Killed)
+06-30 04:00:12.357  4678  4678 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.youtube' set to: 'default'
+06-30 04:00:12.357  4678  4678 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:12.360  4678  4678 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:12.374   312   312 I Zygote  : Process 939 exited due to signal 9 (Killed)
+06-30 04:00:12.378  4678  4678 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-30 04:00:12.388   527   692 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10120/3987, android.os.BinderProxy@b503c73)
+06-30 04:00:12.388   527   692 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10120/3987, android.os.BinderProxy@786f730)
+06-30 04:00:12.388   527   692 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10120/3987, android.os.BinderProxy@2e80fa9)
+06-30 04:00:12.388   527   692 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10120/3987, android.os.BinderProxy@74a592e)
+06-30 04:00:12.389   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ] (release request)
+06-30 04:00:12.391   312   312 I Zygote  : Process 3987 exited due to signal 9 (Killed)
+06-30 04:00:12.392   312   312 I Zygote  : Process 1938 exited due to signal 9 (Killed)
+06-30 04:00:12.395   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=127, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ] (release request)
+06-30 04:00:12.395   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=129, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ] (release request)
+06-30 04:00:12.411   527   557 I libprocessgroup: Successfully killed process cgroup uid 10103 pid 1938 in 0ms
+06-30 04:00:12.412   527   557 I libprocessgroup: Successfully killed process cgroup uid 10098 pid 939 in 0ms
+06-30 04:00:12.413   527   557 I libprocessgroup: Successfully killed process cgroup uid 10133 pid 3896 in 0ms
+06-30 04:00:12.428   527   557 I libprocessgroup: Successfully killed process cgroup uid 10113 pid 3868 in 0ms
+06-30 04:00:12.436   312   312 I Zygote  : Process 3868 exited due to signal 9 (Killed)
+06-30 04:00:12.437   312   312 I Zygote  : Process 2259 exited due to signal 9 (Killed)
+06-30 04:00:12.441  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 04:00:12.452  4698  4698 W t_app_installe: Entry not found
+06-30 04:00:12.453  4698  4698 W t_app_installe: Entry not found
+06-30 04:00:12.453  4698  4698 W t_app_installe: Entry not found
+06-30 04:00:12.453  4698  4698 W t_app_installe: Entry not found
+06-30 04:00:12.457  4698  4698 W t_app_installe: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.457  4698  4698 W t_app_installe: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.457  4698  4698 W t_app_installe: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.457  4698  4698 W t_app_installe: JIT profile information will not be recorded: profile file does not exist.
+06-30 04:00:12.468  4698  4698 V GraphicsEnvironment: ANGLE Developer option for 'com.android.vending' set to: 'default'
+06-30 04:00:12.468  4698  4698 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:12.469  4698  4698 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:12.470  4698  4698 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:12.471  4678  4678 W android.youtub: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:12.471  4678  4678 W android.youtub: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:12.471  4678  4678 W android.youtub: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:12.472   527   557 I libprocessgroup: Successfully killed process cgroup uid 10071 pid 2259 in 0ms
+06-30 04:00:12.494  4698  4698 I Finsky:instant_app_inst: [2] jpq.i(6): Process created at version: 36.2.11-29 [0] [PR] 539142984
+06-30 04:00:12.523  4678  4724 W GooglePlayServicesUtil: Google Play services out of date for com.google.android.youtube.  Requires 232400000 but found 232216044
+06-30 04:00:12.622  4698  4748 W t_app_installe: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:12.622  4698  4748 W t_app_installe: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:12.622  4698  4748 W t_app_installe: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:12.646  4678  4736 D StrictMode: StrictMode policy violation: android.os.strictmode.NetworkViolation
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1673)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:115)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.InetAddress.getByName(InetAddress.java:1106)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at ainp.bT(PG:4)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at fqd.run(PG:26)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at vsa.run(PG:7)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at agwx.run(PG:3)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plk.run(PG:1)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plo.run(PG:24)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at pqh.run(PG:19)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:12.646  4678  4736 D StrictMode: StrictMode policy violation: android.os.strictmode.NetworkViolation
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1673)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at libcore.io.BlockGuardOs.android_getaddrinfo(BlockGuardOs.java:219)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:136)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:135)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.net.InetAddress.getByName(InetAddress.java:1106)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at ainp.bT(PG:4)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at fqd.run(PG:26)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at vsa.run(PG:7)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at agwx.run(PG:3)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plk.run(PG:1)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plo.run(PG:24)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at pqh.run(PG:19)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:12.646  4678  4736 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:12.649   527  2586 D ConnectivityService: requestNetwork for uid/pid:10115/4678 activeRequest: null callbackRequest: 140 [NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:12.650   527   646 D ConnectivityService: NetReassign [141 : null → 101]
+06-30 04:00:12.653   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.653   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.653   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.657  4698  4759 I Finsky:instant_app_inst: [51] EnabledStatusSyncService.b(1): Running status sync job.
+06-30 04:00:12.677  1104  1104 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.instantapps.START pkg=com.google.android.gms }
+06-30 04:00:12.677  1104  1104 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.instantapps.START pkg=com.google.android.gms }
+06-30 04:00:12.757   527   852 D ConnectivityService: requestNetwork for uid/pid:10115/4678 activeRequest: null callbackRequest: 142 [NetworkRequest [ REQUEST id=143, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:12.758   527   646 D ConnectivityService: NetReassign [143 : null → 101]
+06-30 04:00:12.763   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=143, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.763   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=143, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.764   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=143, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.791   527   557 I libprocessgroup: Successfully killed process cgroup uid 10144 pid 3478 in 46ms
+06-30 04:00:12.795  4678  4727 W YouTube : Invalid playback type; streaming data is not playable
+06-30 04:00:12.841   527   852 D ConnectivityService: requestNetwork for uid/pid:10115/4678 activeRequest: null callbackRequest: 144 [NetworkRequest [ REQUEST id=145, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:12.843   527   646 D ConnectivityService: NetReassign [145 : null → 101]
+06-30 04:00:12.846   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=145, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.847   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=145, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.847   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=145, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:12.849   527   646 D ConnectivityService: NetReassign [no changes]
+06-30 04:00:12.856   312   312 I Zygote  : Process 3478 exited due to signal 9 (Killed)
+06-30 04:00:12.888  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Subtotal: $0.00"
+06-30 04:00:12.889  3339  3563 I TestRunner: finished: order_reset_after_cancel_from_side_menu(com.example.lunchtray.OrderFunctionalityTests)

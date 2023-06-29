@@ -1,0 +1,322 @@
+06-30 04:00:06.460  3339  3563 I TestRunner: started: radio_buttons_update_accompaniment_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+06-30 04:00:06.468  2353  2527 I Finsky  : [58] afbv.run(35): UCtl: For package com.google.android.calendar, first update discovery timestamp is set to 2023-04-03T12:49:12.706243Z
+06-30 04:00:06.469  2353  2527 I Finsky  : [58] afbv.run(42): UCtl: Package com.google.android.calendar client staleness timestamp changed from 2023-04-03T12:49:15.050Z to 2023-04-03T12:49:15.050Z, available version changed from 0 to 2017207022 or in-app update priority changed from 0 to 0, Server update discovery timestamp is changed from 2023-04-03T12:49:12.706243Z to 2023-04-03T12:49:12.706243Z
+06-30 04:00:06.470   527  2581 W InputManager-JNI: Input channel object '838b69a com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+06-30 04:00:06.482  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.inputmethod.latin
+06-30 04:00:06.514  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 04:00:06.541  2353  2353 I Finsky  : [2] kct.c(163): AU2: building with PhoneBasic for com.google.android.calendar
+06-30 04:00:06.558  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.560   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 04:00:06.561  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.finsky.zapp.appupdate.NOTIFY_PENDING_UPDATE pkg=com.google.android.gms }
+06-30 04:00:06.562  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.finsky.zapp.appupdate.NOTIFY_PENDING_UPDATE pkg=com.google.android.gms }
+06-30 04:00:06.565  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.567  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.568  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.568  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.568  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.569  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.569  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.569  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.570  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.570  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.570  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.571  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.571  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.571  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.571  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.571  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.572  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.573  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.573  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.574  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b in: PRE_ON_CREATE
+06-30 04:00:06.575  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 04:00:06.576  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.577  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.578  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.578  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.578  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.579  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 04:00:06.580  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.581  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.581  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.581  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.582  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.582  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.582  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.584  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.584  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.585  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.596  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.598  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.599  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.599  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.599  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.599  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.601  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.601  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.602  2353  2353 E Finsky  : [2] kbt.apply(44): AU2: RequiredInteractivityState is missing.
+06-30 04:00:06.606  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.606  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.606  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.607  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.607  2353  2353 I Finsky  : [2] kbt.apply(32): AU2: No Authentication Constraint, default to ANY.
+06-30 04:00:06.607  2353  2353 E Finsky  : [2] kbt.apply(40): AU2: RequiredVehicleState is missing.
+06-30 04:00:06.607  2353  2353 E Finsky  : [2] kbt.apply(47): AU2: RequiredBatteryLevel is missing.
+06-30 04:00:06.613   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f5e94000 0x1f67fc000]
+06-30 04:00:06.620   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f67fc000 0x1f7164000]
+06-30 04:00:06.621   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4968000]
+06-30 04:00:06.681  1540  1540 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10104; state: ENABLED
+06-30 04:00:06.690  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b in: CREATED
+06-30 04:00:06.692  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.693  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.693  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.693  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.693  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.693  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.694  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.698  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b in: STARTED
+06-30 04:00:06.699  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.699   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f3b10000 0x1f3d6c000]
+06-30 04:00:06.699  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.700  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.700  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.700  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.700  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.700  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.703  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b in: RESUMED
+06-30 04:00:06.703  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.704   527  3601 D HostConnection: createUnique: call
+06-30 04:00:06.705  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.705  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.705  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.706  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.706  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.706  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@5e8e75b
+06-30 04:00:06.708   527  3601 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c4141ba10, tid 3601
+06-30 04:00:06.716  1540  1960 I Notifications: [ChimeExecutorApiImpl-Tiktok] Finished Broadcast execution [71325884].
+06-30 04:00:06.720  2353  2353 I Finsky  : [2] kct.d(254): AU2: Notifying user that 7 applications have outstanding updates.
+06-30 04:00:06.722   527  3601 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:06.722   527  3601 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-30 04:00:06.722   527  3601 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-30 04:00:06.729  1540  1540 I A       : processValidityUpdateForAllData
+06-30 04:00:06.730  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-87 starting
+06-30 04:00:06.731   527  3601 D EGL_emulation: eglCreateContext: 0xb400007c4141b710: maj 3 min 0 rcv 3
+06-30 04:00:06.734   527  3601 D EGL_emulation: eglMakeCurrent: 0xb400007c4141b710: ver 3 0 (tinfo 0x7b9ff8b080) (first time)
+06-30 04:00:06.740   527  3044 D HostConnection: createUnique: call
+06-30 04:00:06.740   527  3044 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c41416cd0, tid 3044
+06-30 04:00:06.761   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 04:00:06.762  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-98 starting
+06-30 04:00:06.766   527  3044 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:06.768   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1fada8000 0x1fb710000]
+06-30 04:00:06.770   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f93a8000 0x1f9d10000]
+06-30 04:00:06.775  2353  2353 I Finsky  : [2] rir.onCreate(2): IPC-SERVER: Starting gRPC host service...
+06-30 04:00:06.791  2353  2353 I Finsky  : [2] UnifiedSyncHygieneJob.a(1): [PLUS] Hygiene sync job starting...
+06-30 04:00:06.794  2353  2461 I Finsky  : [44] qfb.f(17): ICalc: estimated size required for installing com.google.android.gms: 128851181 bytes
+06-30 04:00:06.802  2353  2461 I Finsky  : [44] kcg.call(13): AU2: Notifying GmsCore for update version 232414044, required disk space 440884461
+06-30 04:00:06.825   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity: +282ms
+06-30 04:00:06.825  2353  4496 I Finsky  : [146] yrv.r(4): SCH: jobFinished: 10-98. TimeElapsed: 23ms.
+06-30 04:00:06.869  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 10-113 starting
+06-30 04:00:06.869  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 04:00:06.873  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 04:00:06.874  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 04:00:06.874  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 04:00:06.875  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 04:00:06.913  4411  4497 I Finsky:quick_launch: [52] kec.accept(22): [Counters Flush] Successfully generated counter events
+06-30 04:00:06.947  1851  2633 I GmsDebugLogger: [60] 232414044
+06-30 04:00:06.958  2353  2955 I Finsky  : [107] qnq.<init>(17): IQ: Preprocessor for install holdoff enabled.
+06-30 04:00:06.959  2353  2955 I Finsky  : [107] qnq.<init>(19): IQ: Preprocessor for backup ready constraint enabled.
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.webview, isid:aUbgUVK-SMCqV-X_F196EA]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.apps.wellbeing, isid:vUC6qdFVRo2ho3TaESTDDQ]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.tts, isid:3MqHZ7qgQuWo_KkXyhwoSQ]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.deskclock, isid:RreaX2NjTjqCeXFt7lJ1Aw]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.android.chrome, isid:hLw97YKbRkuHjIlY0nBwQQ]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.inputmethod.latin, isid:SDifnW2RS_2EisQfxbL8IA]
+06-30 04:00:06.964  2353  2955 I Finsky  : [107] pus.accept(3): IQ: Attempting to validate incoming request. [Package:com.google.android.gm, isid:CW6YLoENRg-i55S_FdyFsA]
+06-30 04:00:06.965  2353  2955 I Finsky  : [107] qoe.a(2): IQ::SLP: Process requests [Package:com.google.android.webview, isid:aUbgUVK-SMCqV-X_F196EA], [Package:com.google.android.apps.wellbeing, isid:vUC6qdFVRo2ho3TaESTDDQ], [Package:com.google.android.tts, isid:3MqHZ7qgQuWo_KkXyhwoSQ], [Package:com.google.android.deskclock, isid:RreaX2NjTjqCeXFt7lJ1Aw], [Package:com.android.chrome, isid:hLw97YKbRkuHjIlY0nBwQQ], [Package:com.google.android.inputmethod.latin, isid:SDifnW2RS_2EisQfxbL8IA], [Package:com.google.android.gm, isid:CW6YLoENRg-i55S_FdyFsA].
+06-30 04:00:07.114  4411  4491 I Finsky:quick_launch: [48] llm.g(2): Subscription detail: DataSubscriptionInfo{groupIdLevel1=null, serviceProviderName=[Zr1R7g28S8p7iucp_gnNJJtsRl-pgO3Y6eIkCh24Iy0], simCarrierId=1}
+06-30 04:00:07.123  4411  4411 I Finsky:quick_launch: [2] lll.onSubscriptionsChanged(1): onSubscriptionsChanged
+06-30 04:00:07.140  2353  2506 I Finsky  : [52] qod.apply(10): IQ::SLP: Requesting libraries [Name: com.google.android.trichromelibrary, version 573513033, type: 1] for package [Package:com.google.android.webview, isid:aUbgUVK-SMCqV-X_F196EA].
+06-30 04:00:07.149  2353  2537 I Finsky  : [62] yrv.r(4): SCH: jobFinished: 10-113. TimeElapsed: 278ms.
+06-30 04:00:07.157   312   312 D Zygote  : Forked child process 4502
+06-30 04:00:07.167  2353  3254 I Finsky  : [122] yrv.r(4): SCH: jobFinished: 10-76. TimeElapsed: 3789ms.
+06-30 04:00:07.193  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 04:00:07.220  4502  4502 E timeinitialize: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:07.238  2353  2353 I Finsky  : [2] ysh.accept(68): SCH: Job 37-53 starting
+06-30 04:00:07.241  2353  2506 I Finsky  : [52] qod.apply(10): IQ::SLP: Requesting libraries [Name: com.google.android.trichromelibrary, version 573519633, type: 1] for package [Package:com.android.chrome, isid:hLw97YKbRkuHjIlY0nBwQQ].
+06-30 04:00:07.289  1312  1752 I LauncherIconVisibilityInitializerBase: LauncherIconVisibilityInitializerBase.lambda$doUpdate$1():69 doUpdate() : Visible = false
+06-30 04:00:07.298  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413de150: maj 1 min 0 rcv 1
+06-30 04:00:07.320  2353  2537 D HostConnection: createUnique: call
+06-30 04:00:07.320  2353  2537 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413de150, tid 2537
+06-30 04:00:07.321  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.326   527  3044 W InputManager-JNI: Input channel object '6681e5a Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 04:00:07.326  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 1 min 0 rcv 1
+06-30 04:00:07.334  4502  4502 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10095; state: ENABLED
+06-30 04:00:07.345  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.391  1540  1540 V ClearcutMetricXmitter: Transmission is done.
+06-30 04:00:07.392  4502  4502 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/GoogleOneTimeInitializer/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:07.417  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 1 min 0 rcv 1
+06-30 04:00:07.419   870  1413 E DatabaseUtils: Writing exception to parcel
+06-30 04:00:07.419   870  1413 E DatabaseUtils: java.lang.SecurityException: No permission to access APN settings
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:4788)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:4805)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:3678)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:07.419   870  1413 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:07.422  4502  4502 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.onetimeinitializer' set to: 'default'
+06-30 04:00:07.422  4502  4502 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:07.424  4502  4502 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.424  4502  4502 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.428  4502  4502 V OneTimeInitializerReceiver: OneTimeInitializerReceiver.onReceive
+06-30 04:00:07.432  4502  4521 V OneTimeInitializer: OneTimeInitializer.initialize
+06-30 04:00:07.438  4502  4521 V OneTimeInitializer: Already run, doing nothing.
+06-30 04:00:07.445  2353  2353 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.448  2353  2527 W Finsky  : [58] llm.a(24): Failed to read APN: java.lang.SecurityException: No permission to access APN settings
+06-30 04:00:07.454   312   312 D Zygote  : Forked child process 4523
+06-30 04:00:07.490  4523  4523 E ackageinstalle: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:07.505   527   557 I libprocessgroup: Successfully killed process cgroup uid 10058 pid 3544 in 46ms
+06-30 04:00:07.508   312   312 I Zygote  : Process 3544 exited due to signal 9 (Killed)
+06-30 04:00:07.509  1851  2633 I SnapshotHandler: Unable to retrieve flag snapshot for com.google.android.gms.phenotype, using defaults.
+06-30 04:00:07.535  2353  2537 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:07.540  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 1 min 0 rcv 1
+06-30 04:00:07.548  4523  4523 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10072; state: ENABLED
+06-30 04:00:07.558  2353  2537 D EGL_emulation: eglMakeCurrent: 0xb400007c413e0490: ver 1 0 (tinfo 0x7e567ae100) (first time)
+06-30 04:00:07.567  2353  3277 I Finsky  : [126] yrv.r(4): SCH: jobFinished: 10-12. TimeElapsed: 11698ms.
+06-30 04:00:07.575  2353  2537 D EGL_emulation: eglMakeCurrent: 0xb400007c413e0490: ver 1 0 (tinfo 0x7e567ae100) (first time)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: Writing exception to parcel
+06-30 04:00:07.578   870  1135 E DatabaseUtils: java.lang.SecurityException: No permission to access APN settings
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:4788)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:4805)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:3678)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:07.578   870  1135 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:07.579  2353  2527 W Finsky  : [58] llm.a(24): Failed to read APN: java.lang.SecurityException: No permission to access APN settings
+06-30 04:00:07.582  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.596  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 1 min 0 rcv 1
+06-30 04:00:07.619  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $0.50"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:07.622  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230825/com.example.lunchtray:id/berries>
+06-30 04:00:07.625  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.631  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 1 min 0 rcv 1
+06-30 04:00:07.656  1104  1169 I HeterodyneSyncer: (REDACTED) Removed %d invalid users
+06-30 04:00:07.664  2353  2537 D EGL_emulation: eglCreateContext: 0xb400007c413e0490: maj 3 min 0 rcv 3
+06-30 04:00:07.670  4523  4523 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.packageinstaller' set to: 'default'
+06-30 04:00:07.670  4523  4523 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:07.676  4523  4523 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.686  4523  4523 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.727  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.728  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.728  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.729  2353  2537 I Finsky  : [62] uvs.accept(85): Outstanding updates status: [Pair{rlj@c2701b8 4}, Pair{rlj@d547af6 4}, Pair{rlj@ab37ef7 4}, Pair{rlj@9268164 4}, Pair{rlj@829bfcd 4}, Pair{rlj@7c55082 4}, Pair{rlj@4171393 4}]
+06-30 04:00:07.729  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.730  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.730  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.730  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.731  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.731  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.732  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.732  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.732  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.733  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.733  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.733  2353  2527 I Finsky  : [58] aevm.apply(8): [PLUS] Adding payload
+06-30 04:00:07.734  2353  2527 I Finsky  : [58] ajon.j(10): [PLUS] Triggering sync due to NOW urgency payload
+06-30 04:00:07.736  2353  2527 I Finsky  : [58] afxi.n(1): [PLUS] Syncing for users with urgency above: NOW
+06-30 04:00:07.743  2353  2537 I Finsky  : [62] aabd.a(61): [PLUS] Syncing 0 train(s)
+06-30 04:00:07.752  2353  2537 I Finsky  : [62] zzv.a(64): [PLUS] Sync complete, number synced: 0, number failed: 0
+06-30 04:00:07.752  2353  2537 I Finsky  : [62] yrv.r(4): SCH: jobFinished: 37-53. TimeElapsed: 514ms.
+06-30 04:00:07.764   312   312 D Zygote  : Forked child process 4539
+06-30 04:00:07.807   527   557 I libprocessgroup: Successfully killed process cgroup uid 10116 pid 3686 in 50ms
+06-30 04:00:07.808  4539  4539 E id.partnersetu: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:07.816   312   312 I Zygote  : Process 3686 exited due to signal 9 (Killed)
+06-30 04:00:07.820   527  3124 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10116/3686, android.os.BinderProxy@5398a0f)
+06-30 04:00:07.820   527  3124 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10116/3686, android.os.BinderProxy@82a8a9c)
+06-30 04:00:07.851   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=120, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ] (release request)
+06-30 04:00:07.857  4539  4539 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10093; state: DISABLED
+06-30 04:00:07.887  4539  4539 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/PartnerSetupPrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:07.897  4539  4539 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.partnersetup' set to: 'default'
+06-30 04:00:07.897  4539  4539 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:07.898  4539  4539 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.898  4539  4539 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:07.943  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.webview, pm_package_name=com.google.android.webview, version=573513033, priority=3, reason=auto_update, account_name=, type=0, isid=aUbgUVK-SMCqV-X_F196EA, group_info=com.google.android.webview:573513033:899195093, package_install_infos=com.google.android.webview:573513033,com.google.android.trichromelibrary:573513033, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.951  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.apps.wellbeing, pm_package_name=com.google.android.apps.wellbeing, version=495937, priority=3, reason=auto_update, account_name=, type=0, isid=vUC6qdFVRo2ho3TaESTDDQ, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.952  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.tts, pm_package_name=com.google.android.tts, version=210421205, priority=3, reason=auto_update, account_name=, type=0, isid=3MqHZ7qgQuWo_KkXyhwoSQ, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.952  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.deskclock, pm_package_name=com.google.android.deskclock, version=75001398, priority=3, reason=auto_update, account_name=, type=0, isid=RreaX2NjTjqCeXFt7lJ1Aw, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.952  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.android.chrome, pm_package_name=com.android.chrome, version=573519633, priority=3, reason=auto_update, account_name=, type=0, isid=hLw97YKbRkuHjIlY0nBwQQ, group_info=com.android.chrome:573519633:1467224245, package_install_infos=com.android.chrome:573519633,com.google.android.trichromelibrary:573519633, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.952  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.inputmethod.latin, pm_package_name=com.google.android.inputmethod.latin, version=114763994, priority=3, reason=auto_update, account_name=, type=0, isid=SDifnW2RS_2EisQfxbL8IA, constraints=((REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.953  2353  2506 I Finsky  : [52] qml.m(2): IQ: Scheduling install request package_name=com.google.android.gm, pm_package_name=com.google.android.gm, version=63927733, priority=3, reason=auto_update, account_name=, type=0, isid=CW6YLoENRg-i55S_FdyFsA, constraints=((REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125),(REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),)
+06-30 04:00:07.981  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.android.chrome, isid:hLw97YKbRkuHjIlY0nBwQQ]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:07.998  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.apps.wellbeing, isid:vUC6qdFVRo2ho3TaESTDDQ]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.000  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.deskclock, isid:RreaX2NjTjqCeXFt7lJ1Aw]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.002  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.gm, isid:CW6YLoENRg-i55S_FdyFsA]. oldConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.004  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $1.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:08.005  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.inputmethod.latin, isid:SDifnW2RS_2EisQfxbL8IA]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, PROCESS_IMPORTANCE_THRESHOLD=125), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.009  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231106/com.example.lunchtray:id/pickles>
+06-30 04:00:08.025  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.tts, isid:3MqHZ7qgQuWo_KkXyhwoSQ]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.056  2353  4556 W Finsky  : [149] qlz.a(95): IQ: Resolved conflict: [Package:com.google.android.webview, isid:aUbgUVK-SMCqV-X_F196EA]. oldConstraints=[(REQ_CHARGING, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)], newConstraints=[(REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY), (REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY)]
+06-30 04:00:08.067  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.deskclock, isid:RreaX2NjTjqCeXFt7lJ1Aw], status=SCHEDULED, tsc=PT3.069S
+06-30 04:00:08.135  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.gm, isid:CW6YLoENRg-i55S_FdyFsA], status=SCHEDULED, tsc=PT1.933S
+06-30 04:00:08.156  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.apps.wellbeing, isid:vUC6qdFVRo2ho3TaESTDDQ], status=SCHEDULED, tsc=PT3.283S
+06-30 04:00:08.188  3339  3581 D EGL_emulation: app_time_stats: avg=25.06ms min=5.32ms max=391.81ms count=50
+06-30 04:00:08.198  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.deskclock
+06-30 04:00:08.250  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.deskclock, isid: RreaX2NjTjqCeXFt7lJ1Aw
+06-30 04:00:08.253  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:08.258  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.deskclock]
+06-30 04:00:08.261  2353  2506 I Finsky  : [52] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:08.265  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.gm
+06-30 04:00:08.265  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.gm, isid: CW6YLoENRg-i55S_FdyFsA
+06-30 04:00:08.265  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:08.267  2353  2527 I Finsky  : [58] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.gm]
+06-30 04:00:08.273  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.apps.wellbeing
+06-30 04:00:08.275  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.apps.wellbeing, isid: vUC6qdFVRo2ho3TaESTDDQ
+06-30 04:00:08.275  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:08.278  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.webview, isid:aUbgUVK-SMCqV-X_F196EA], status=SCHEDULED, tsc=PT2.769S
+06-30 04:00:08.280  2353  2527 I Finsky  : [58] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:08.280  2353  2527 I Finsky  : [58] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.apps.wellbeing]
+06-30 04:00:08.281  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:08.281  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:08.283  2353  2353 I Finsky  : [2] ysp.a(60): IQ::HLD: previousAllInstallsDone is Optional.empty, allInstallationsDone is Optional[true]
+06-30 04:00:08.283  2353  2353 I Finsky  : [2] ysp.a(62): IQ::HLD: Updating installations status false cross profiles
+06-30 04:00:08.283  2353  2353 I Finsky  : [2] leg.b(1): XPF:Binding for 222382944
+06-30 04:00:08.285  2353  2506 I Finsky  : [52] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:08.304  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:08.305  2353  2353 I Finsky  : [2] ProfileStateService.onCreate(5): XPF:creating profileStateService
+06-30 04:00:08.309  2353  2353 I Finsky  : [2] led.a(3): XPF:Registering listener 6274444 for user UserHandle{0}.
+06-30 04:00:08.309  2353  2353 I Finsky  : [2] led.b(4): XPF:User UserHandle{0} finished enterprise setup, removing profile.
+06-30 04:00:08.309  2353  2353 I Finsky  : [2] led.c(3): XPF:User UserHandle{0} is not in installation anymore, removing profile.
+06-30 04:00:08.309  2353  2353 I Finsky  : [2] led.c(5): XPF:Notifying user UserHandle{0} that all installs are finished
+06-30 04:00:08.309  2353  2353 I Finsky  : [2] leg.d(1): XPF:unbinding for 222382944
+06-30 04:00:08.312  2353  2629 I Finsky  : [83] led.e(3): XPF:Removing listener for user UserHandle{0} and listener 6274444
+06-30 04:00:08.340  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.google.android.webview
+06-30 04:00:08.340  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.google.android.webview, isid: aUbgUVK-SMCqV-X_F196EA
+06-30 04:00:08.341  2353  2353 I Finsky  : [2] jjo.g(1): AIM: AppInfoManager-Perf > getApps > called for 1 apps
+06-30 04:00:08.343  2353  2506 I Finsky  : [52] jku.a(5): AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.webview]
+06-30 04:00:08.349  2353  2527 I Finsky  : [58] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.deskclock]
+06-30 04:00:08.350  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.android.chrome, isid:hLw97YKbRkuHjIlY0nBwQQ], status=SCHEDULED, tsc=PT2.729S
+06-30 04:00:08.352   939   948 W .apps.wellbein: Suspending all threads took: 7.303ms
+06-30 04:00:08.356  2353  2353 I Finsky  : [2] zlt.apply(80): IQ::HLD: Ongoing hold off applicable installs: []
+06-30 04:00:08.359  2353  2506 I Finsky  : [52] jik.apply(105): AIM: Got app ownership map. App counts: . Unique apps: 0
+06-30 04:00:08.365  2353  2506 I Finsky  : [52] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.apps.wellbeing]
+06-30 04:00:08.366  2353  2506 I Finsky  : [52] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:08.366  2353  2506 I Finsky  : [52] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:08.373  2353  2527 I Finsky  : [58] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:08.375  2353  2527 I Finsky  : [58] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:08.378  2353  2506 I Finsky  : [52] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.gm]
+06-30 04:00:08.378  2353  2506 I Finsky  : [52] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:08.379  2353  2506 I Finsky  : [52] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:08.387  2353  2537 I Finsky  : [62] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:08.388  2353  2537 I Finsky  : [62] jkr.a(11): AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.webview]
+06-30 04:00:08.389  2353  2537 I Finsky  : [62] jkt.n(3): AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = REFRESH_LOCAL_CACHE
+06-30 04:00:08.389  2353  2506 I Finsky  : [52] iqr.accept(30): AIM: AppInfoManager-Perf > getApps > data collection finished
+06-30 04:00:08.389  2353  2537 I Finsky  : [62] jkr.a(98): AIM: ItemModel fetch - unauth(1), auth()
+06-30 04:00:08.394  2353  4556 I Finsky  : [149] qml.Q(2): IQ: Notifying installation update. [Package:com.google.android.tts, isid:3MqHZ7qgQuWo_KkXyhwoSQ], status=SCHEDULED, tsc=PT3.457S
+06-30 04:00:08.395  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $0.50"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:08.396  2353  2353 I Finsky  : [2] zls.M(12): IT: DL session turned off due to Incremental install not requested: com.android.chrome
+06-30 04:00:08.396  2353  2353 I Finsky  : [2] xfp.adr(4): PIM: Ignore install package event for: com.android.chrome, isid: hLw97YKbRkuHjIlY0nBwQQ
+06-30 04:00:08.397  3339  3563 I TestRunner: finished: radio_buttons_update_accompaniment_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)

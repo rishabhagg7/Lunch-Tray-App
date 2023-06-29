@@ -1,0 +1,358 @@
+06-30 03:59:34.273  3339  3563 I TestRunner: started: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)
+06-30 03:59:34.299  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 583243]
+06-30 03:59:34.323  1851  2142 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-Enpromo.integ_214106000100000.apk: [1] 232216000
+06-30 03:59:34.337  1601  3589 W GnpSdk  : [PhenotypeManagerImpl] Phenotype registration timed out [com.google.android.libraries.notifications#com.google.android.apps.docs].
+06-30 03:59:34.355  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 583299]
+06-30 03:59:34.431   312   312 D Zygote  : Forked child process 3686
+06-30 03:59:34.479  3339  3339 W ample.lunchtra: Verification of java.lang.String androidx.loader.app.LoaderManagerImpl.toString() took 108.731ms (404.67 bytecodes/s) (2024B approximate peak alloc)
+06-30 03:59:34.485  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@47dfdeb in: DESTROYED
+06-30 03:59:34.485  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:34.502   527  1870 W InputManager-JNI: Input channel object '18f78df com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (client)' was disposed without first being removed with the input manager!
+06-30 03:59:34.540  1851  2142 I ChimeraCfgMgr: Invalid module set config ModuleSetConfig for [ads_fdr:2317101005100000,container:2322169190400+brella_dynamite+maps_core+mlkit.ocr.common+play_cloud_search+vision.ocr,enpromo:2141060005190000,tflite_dynamite:2314062025100400+tflite_dynamite] with APKs {0=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003e/dl-BrellaDynamite.optional_232216100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003c/dl-MapsCoreDynamite.integ_231710102100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003d/dl-MlkitOcrCommon.optional_232216100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003b/dl-PlayCloudSearch.optional_232216100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003f/dl-VisionOcr.optional_232216100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000001e/dl-AdsFdrDynamite.integ_231004600100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000040/CronetDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000041/DynamiteLoader.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000042/DynamiteModulesA.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000043/DynamiteModulesC.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000044/GoogleCertificates.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000045/MapsDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000046/MeasurementDynamite.apk), ContainerApk(com.google.android.gms)], 1=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003a/dl-AdsFdrDynamite.integ_231710100100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-Enpromo.integ_214106000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000039/dl-TfliteDynamiteDynamite.integ_231406202100400.apk)], 2=[]}: com.google.android.chimera.config.InvalidConfigException: Modules from required APKs are discarded
+06-30 03:59:34.540  1851  2142 W GmsModuleFndr: excluding moduleset: enpromo:2141060005190000 reason: [1] 232216000
+06-30 03:59:34.546  3686  3686 E droid.apps.map: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:34.560  1851  2689 I GmscoreIpa: (REDACTED) Using %s flags by method %d
+06-30 03:59:34.605  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 03:59:34.631  1851  2142 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:231004600100000], [AdsFdrDynamite.integ:231710100100000], [BrellaDynamite.optional:232216100400], [Enpromo.integ:214106000100000], [MapsCoreDynamite.integ:231710102100400], [MlkitOcrCommon.optional:232216100400], [PlayCloudSearch.optional:232216100000], [TfliteDynamiteDynamite.integ:224210505100400], [TfliteDynamiteDynamite.integ:231406200100400], [TfliteDynamiteDynamite.integ:231406202100400], [VisionOcr.optional:232216100000], [VisionOcrDynamite.integ:231000400100000], [VisionOcrDynamite.integ:231602400100000], [Cronetdynamite:232216190400], [Dynamiteloader:232216190000], [Dynamitemodulesa:232216190000], [Dynamitemodulesc:232216190000], [Googlecertificates:232216190000], [Mapsdynamite:232216190000], [Measurementdynamite:232216190000]]
+06-30 03:59:34.655  3686  3686 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10116; state: ENABLED
+06-30 03:59:34.728  1851  3111 E ProtoLiteUtils: Corrupt protobuf data, expected CRC: 3316902303040237421 computed CRC: 0
+06-30 03:59:34.729  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+06-30 03:59:34.729  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+06-30 03:59:34.731  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+06-30 03:59:34.731  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+06-30 03:59:34.732  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+06-30 03:59:34.732  2746  3688 W id.gms.unstabl: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+06-30 03:59:34.760   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 03:59:34.792  3686  3686 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/Maps/lib/arm64:/product/app/Maps/Maps.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 03:59:34.819  3686  3686 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.maps' set to: 'default'
+06-30 03:59:34.819  3686  3686 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 03:59:34.821  1851  2142 I ModuleSetMgr: Pending container module APKs: [[BrellaDynamite.optional:232216100400], [MapsCoreDynamite.integ:231710102100400], [MlkitOcrCommon.optional:232216100400], [PlayCloudSearch.optional:232216100000], [VisionOcr.optional:232216100000]]
+06-30 03:59:34.821  1851  2142 I ModuleSetMgr: Pending non-container module APKs: [[TfliteDynamiteDynamite.integ:231406202100400], [AdsFdrDynamite.integ:231710100100000]]
+06-30 03:59:34.821  3686  3686 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:34.822  3686  3686 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:34.824   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 03:59:34.830   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f552c000 0x1f5e94000]
+06-30 03:59:34.831   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f5e94000 0x1f67fc000]
+06-30 03:59:34.879  3339  3339 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+06-30 03:59:34.891  2746  3688 W id.gms.unstabl: Verification of java.util.function.Function j$.util.function.Function$$ExternalSyntheticLambda2.andThen(java.util.function.Function) took 110.172ms (45.38 bytecodes/s) (1360B approximate peak alloc)
+06-30 03:59:34.901  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@4ac0146 in: PRE_ON_CREATE
+06-30 03:59:34.903  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:34.904  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 03:59:35.020  1851  3679 I Auth    : [SupervisedAccountIntentOperation] onHandleIntent(): android.intent.action.PACKAGE_ADDED
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: DiscoveryNearbyMessagesManager failed to background subscribe [CONTEXT service_id=265 ]
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at cgzj.o(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at bbsw.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):23)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at bbsq.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at dvbt.handleMessage(:com.google.android.gms@232216044@23.22.16 (190400-540586286):5)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at awfv.ly(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at awfv.dispatchMessage(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at android.os.Looper.loop(Looper.java:288)
+06-30 03:59:35.259  1104  3253 I NearbyDiscovery: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+06-30 03:59:35.382  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:35.382  1540  1540 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=83, right=0, bottom=132}
+06-30 03:59:35.415  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+06-30 03:59:35.432  3339  3339 W ample.lunchtra: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+06-30 03:59:35.433  3339  3339 W ample.lunchtra: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+06-30 03:59:35.458  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@4ac0146 in: CREATED
+06-30 03:59:35.459  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.459  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.468  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 03:59:35.468  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 03:59:35.472   700   930 D EGL_emulation: app_time_stats: avg=2202.63ms min=4.74ms max=21734.63ms count=10
+06-30 03:59:35.482   700   930 D EGL_emulation: app_time_stats: avg=37539.92ms min=37539.92ms max=37539.92ms count=1
+06-30 03:59:35.509   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f7768000 0x1f79c4000]
+06-30 03:59:35.511  1938  2250 D PhFileGroupPop: Added file groups webref-model-local-index
+06-30 03:59:35.513  1938  2250 D PhFileGroupPop: Added file groups smart_actions_grammars
+06-30 03:59:35.515  1938  2250 D PhFileGroupPop: Added file groups smart_actions_ml_models
+06-30 03:59:35.516  1938  2250 D PhFileGroupPop: Added file groups text_classifier
+06-30 03:59:35.519  1938  2250 D PhFileGroupPop: Added file groups smart_actions_emotive_models
+06-30 03:59:35.533  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@4ac0146 in: STARTED
+06-30 03:59:35.533  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.533  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.534  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@4ac0146 in: RESUMED
+06-30 03:59:35.535  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.535  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@4ac0146
+06-30 03:59:35.550  1851  2957 W SQLiteLog: (28) double-quoted string literal: "com.example.lunchtray.test"
+06-30 03:59:35.561   527  3105 D HostConnection: createUnique: call
+06-30 03:59:35.570  2746  2780 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-30 03:59:35.572   527  3105 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c41452610, tid 3105
+06-30 03:59:35.575  2746  3201 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:35.585  1938  2250 D PhFileGroupPop: Added file groups smarts_expressive_content_scoped_v1
+06-30 03:59:35.586  1938  2250 D PhFileGroupPop: Added file groups smart_actions_sensitive_classifier_models
+06-30 03:59:35.591  1938  2250 D PhFileGroupPop: Added file groups scripted_reply
+06-30 03:59:35.592  1938  2250 D PhFileGroupPop: Added file groups multitask_experiment
+06-30 03:59:35.592  1938  2250 D PhFileGroupPop: Added file groups spam_verdict_enforcement_policy_config
+06-30 03:59:35.599   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4968000]
+06-30 03:59:35.604  1938  2250 D PhFileGroupPop: Added file groups smart_suggestion_reranker_models
+06-30 03:59:35.604  1938  2250 D PhFileGroupPop: Added file groups calendar_appointment_grammar
+06-30 03:59:35.605  1938  2250 D ManifestConfigHelper: Added file groups en_us
+06-30 03:59:35.606  2746  2780 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-30 03:59:35.607   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f6e00000 0x1f7768000]
+06-30 03:59:35.608  2746  2780 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-30 03:59:35.609   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 03:59:35.616   527  3105 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:35.637  1938  2144 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=3a11c025-c840-48c3-9e47-6fce3bb8d3e5, tags={ MDD.CELLULAR.CHARGING.PERIODIC.TASK, com.google.android.libraries.mdi.download.workmanager.workers.PeriodicWorker } ]
+06-30 03:59:35.660   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +995ms
+06-30 03:59:35.708  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 03:59:35.713  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 03:59:35.713  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 03:59:35.713  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 03:59:35.714  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 03:59:35.732  1851  2957 W SQLiteLog: (28) double-quoted string literal: "com.example.lunchtray"
+06-30 03:59:35.741  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:35.800  3686  3686 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10116; state: ENABLED
+06-30 03:59:35.975   527   557 I libprocessgroup: Successfully killed process cgroup uid 10115 pid 1687 in 89ms
+06-30 03:59:36.067  1851  2690 E native  : E0000 00:00:1688077776.058642    2690 document-store.cc:1358] Failed to update per-doc-data with usage report
+06-30 03:59:36.153  1851  2690 I Icing   : Usage reports ok 1, Failed Usage reports 1, indexed 0, rejected 0
+06-30 03:59:36.164  1851  1859 I gle.android.gm: Compiler allocated 5348KB to compile java.util.List azpa.b(java.lang.String, java.util.List, java.util.List, java.lang.Long)
+06-30 03:59:36.176  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+06-30 03:59:36.177  2746  2780 D HostConnection: createUnique: call
+06-30 03:59:36.181  2746  2780 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413dbe10, tid 2780
+06-30 03:59:36.265  2746  2780 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:36.304   178   178 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+06-30 03:59:36.307  2746  2780 D EGL_emulation: eglCreateContext: 0xb400007c413dc1d0: maj 3 min 0 rcv 3
+06-30 03:59:36.324   527  1446 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@53ec0b8)
+06-30 03:59:36.325   527  1446 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@c04e91)
+06-30 03:59:36.325   527  1446 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@bc189f7)
+06-30 03:59:36.325   527  1885 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@57b3064)
+06-30 03:59:36.326   527  1614 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@f8a42cd)
+06-30 03:59:36.333  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.potokens.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+06-30 03:59:36.334   527  2574 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10115/1687, android.os.BinderProxy@ef7d1f6)
+06-30 03:59:36.336  2746  2780 D EGL_emulation: eglMakeCurrent: 0xb400007c413dc1d0: ver 3 0 (tinfo 0x7e580e1080) (first time)
+06-30 03:59:36.349   312   312 I Zygote  : Process 1687 exited due to signal 9 (Killed)
+06-30 03:59:36.358   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ] (release request)
+06-30 03:59:36.374   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=70, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ] (release request)
+06-30 03:59:36.380  1104  3253 W NearbyDiscovery: Runnable[processBackgroundSubscribeQueue] was delayed for 30:03.358 [CONTEXT service_id=265 ]
+06-30 03:59:36.381  1104  3253 W NearbyDiscovery: Runnable[processBackgroundSubscribeQueue] was delayed for 30:04.419 [CONTEXT service_id=265 ]
+06-30 03:59:36.382  1104  3253 W NearbyDiscovery: Runnable[updateUi] was delayed for 30:03.511 [CONTEXT service_id=265 ]
+06-30 03:59:36.388  3686  3725 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-30 03:59:36.388   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=72, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ] (release request)
+06-30 03:59:36.388   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=77, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ] (release request)
+06-30 03:59:36.388   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=68, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ] (release request)
+06-30 03:59:36.394  3686  3725 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-30 03:59:36.403  3686  3725 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-30 03:59:36.490   527  2597 W InputManager-JNI: Input channel object 'bc92fab Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 03:59:36.540  3686  3725 D HostConnection: createUnique: call
+06-30 03:59:36.541  3686  3725 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413dd190, tid 3725
+06-30 03:59:36.606   699   699 V MediaPlayerList: onActiveSessionsChanged: number of controllers: 0
+06-30 03:59:36.623  3686  3725 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:36.629   178   178 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+06-30 03:59:36.634  3686  3725 D EGL_emulation: eglCreateContext: 0xb400007c413dcad0: maj 3 min 0 rcv 3
+06-30 03:59:36.641  3686  3725 D EGL_emulation: eglMakeCurrent: 0xb400007c413dcad0: ver 3 0 (tinfo 0x7e58472080) (first time)
+06-30 03:59:36.708  3339  3581 D EGL_emulation: app_time_stats: avg=31.73ms min=4.97ms max=154.06ms count=31
+06-30 03:59:36.720  1851  2690 W Icing   : Failed to get Lockbox signed-in status: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 03:59:36.720  1851  2690 W Icing   : getSignedInAccountName: Falling back to default value
+06-30 03:59:36.745   312   312 D Zygote  : Forked child process 3742
+06-30 03:59:36.824  3742  3742 E oid.apps.photo: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:36.837   700   930 D EGL_emulation: app_time_stats: avg=340.96ms min=50.04ms max=1042.94ms count=4
+06-30 03:59:36.841   700   930 D EGL_emulation: app_time_stats: avg=339.73ms min=50.74ms max=985.43ms count=4
+06-30 03:59:36.951  1104  3253 I Nearby  : (REDACTED) is blocked device type %s, isAuto=%s, isIot=%s, isLatchsky=%s, isChinaWearable=%s, isTv=%s, isWearable=%s (supportWearOs=%s), isChromeOsDevice=%s (supportChromeOs=%s)
+06-30 03:59:36.962  1104  1104 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.nearby.exposurenotification.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps }
+06-30 03:59:36.962  1104  1104 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.nearby.exposurenotification.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps }
+06-30 03:59:37.016  3742  3742 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10125; state: ENABLED
+06-30 03:59:37.074  1104  1104 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START pkg=com.google.android.gms }
+06-30 03:59:37.082  2746  2780 D EGL_emulation: eglCreateContext: 0xb400007c413da0d0: maj 3 min 0 rcv 3
+06-30 03:59:37.111  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 03:59:37.124  2746  3201 D HostConnection: createUnique: call
+06-30 03:59:37.125  2746  3201 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413db8d0, tid 3201
+06-30 03:59:37.130  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 586075]
+06-30 03:59:37.132  1104  3253 I NearbyDiscovery: (REDACTED) DiscoveryController, showNotification, itemSize=%s
+06-30 03:59:37.134  2746  3201 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:37.137  2746  3201 D EGL_emulation: eglCreateContext: 0xb400007c413dbbd0: maj 3 min 0 rcv 3
+06-30 03:59:37.138  2746  3201 D EGL_emulation: eglMakeCurrent: 0xb400007c413dbbd0: ver 3 0 (tinfo 0x7e580e1100) (first time)
+06-30 03:59:37.147  1851  2647 I PeopleChimeraService: onService. callbacks = awaq@f908528, request = com.google.android.gms.common.internal.GetServiceRequest@e0b1241
+06-30 03:59:37.173  3742  3742 W oid.apps.photo: Entry not found
+06-30 03:59:37.174  3742  3742 W oid.apps.photo: Entry not found
+06-30 03:59:37.197  3742  3742 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+06-30 03:59:37.198  3742  3742 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+06-30 03:59:37.198  3686  3727 W System  : ClassLoader referenced unknown path:
+06-30 03:59:37.241  3742  3742 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.photos' set to: 'default'
+06-30 03:59:37.241  3742  3742 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 03:59:37.241  3742  3742 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:37.248  1851  1860 I gle.android.gm: Background concurrent copying GC freed 211230(9736KB) AllocSpace objects, 24(1396KB) LOS objects, 49% free, 10MB/20MB, paused 105.041ms,85us total 1.832s
+06-30 03:59:37.260  1851  2690 W Icing   : Failed to get Lockbox signed-in status: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 03:59:37.260  1851  2690 W Icing   : getSignedInTimestampMs: Falling back to default value
+06-30 03:59:37.262  3742  3742 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:37.273  1104  3253 I NearbyDiscovery: (REDACTED) Show notifications: %d total, no changes since last shown, no-op.
+06-30 03:59:37.274  1851  2690 W Icing   : No valid account for uploading user actions
+06-30 03:59:37.274  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 586085]
+06-30 03:59:37.274  1104  2670 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:37.280  1104  2670 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:37.281  1104  2670 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:37.285  2746  2780 D EGL_emulation: eglCreateContext: 0xb400007c413da0d0: maj 3 min 0 rcv 3
+06-30 03:59:37.346  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.contextmanager.service.ContextManagerService.START pkg=com.google.android.gms }
+06-30 03:59:37.347  1104  3021 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:37.379  1104  3187 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:37.396  3742  3742 W oid.apps.photo: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 03:59:37.396  3742  3742 W oid.apps.photo: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:37.396  3742  3742 W oid.apps.photo: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 03:59:37.418  2746  2767 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:37.455  1104  2547 W OptedInLoggerCreator: Could not retrieve Usage & Diagnostics setting. Giving up.
+06-30 03:59:37.515  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:37.546  1104  3253 W NearbyDiscovery: Runnable[FastPairScannerDowngrade] was delayed for 30:03.445 [CONTEXT service_id=265 ]
+06-30 03:59:37.550  2746  2767 D HostConnection: createUnique: call
+06-30 03:59:37.551  2746  2767 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413df650, tid 2767
+06-30 03:59:37.564  2746  2767 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:37.586  2746  2767 D EGL_emulation: eglCreateContext: 0xb400007c413da0d0: maj 3 min 0 rcv 3
+06-30 03:59:37.605  2746  2767 D EGL_emulation: eglMakeCurrent: 0xb400007c413da0d0: ver 3 0 (tinfo 0x7e580e1180) (first time)
+06-30 03:59:37.613  1104  3187 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:37.624  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 586568]
+06-30 03:59:37.626   527  1614 D ConnectivityService: requestNetwork for uid/pid:10116/3686 activeRequest: null callbackRequest: 119 [NetworkRequest [ REQUEST id=120, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:37.631   527   646 D ConnectivityService: NetReassign [120 : null → 101]
+06-30 03:59:37.633   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=120, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 03:59:37.633   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=120, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 03:59:37.634   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=120, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 03:59:37.635   527   646 D ConnectivityService: NetReassign [no changes]
+06-30 03:59:37.723  3339  3581 D EGL_emulation: app_time_stats: avg=35.76ms min=8.06ms max=270.95ms count=28
+06-30 03:59:37.734  3686  3727 I cr_CronetLibraryLoader: Cronet version: 114.0.5735.33, arch: aarch64
+06-30 03:59:37.746  1851  2690 E native  : E0000 00:00:1688077777.746187    2690 document-store.cc:1358] Failed to update per-doc-data with usage report
+06-30 03:59:37.798  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+06-30 03:59:37.810  1104  3253 I NearbyDiscovery: (REDACTED) FastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s
+06-30 03:59:37.810  1104  3253 D BluetoothAdapter: isLeEnabled(): ON
+06-30 03:59:37.819   527  2577 D ConnectivityService: requestNetwork for uid/pid:10125/3742 activeRequest: null callbackRequest: 122 [NetworkRequest [ REQUEST id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:37.823   527   646 D ConnectivityService: NetReassign [123 : null → 101]
+06-30 03:59:37.829   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:37.830   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:37.830   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ]
+06-30 03:59:37.840  1104  3025 W ctxmgr  : [PendingIntentCompat] Timed out delivering to pendingIntent=PendingIntent{8f38a2e: android.os.BinderProxy@3d9aeaf}, package=com.google.android.settings.intelligence, permission=null [CONTEXT service_id=47 ]
+06-30 03:59:37.850  1104  3253 I NearbyDiscovery: (REDACTED) FastPairScanner: eventType=%s, intReq=%s, scanning=%s, scanAllowed=%s, bleEnabled=%s, bleScanAvailable=%s, lockScanRate=%s, startScanningByLowPowerMode=%s
+06-30 03:59:37.869  1104  3025 W ctxmgr  : [WorkManager] Long workInfo: pkg=com.google.android.gms, lbl=DispatcherDeliver, start=2023-06-30 03:59:27.611+0530, stop=2023-06-30 03:59:37.843+0530, durtn=10232ms [CONTEXT service_id=47 ]
+06-30 03:59:37.899  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 586813]
+06-30 03:59:37.927  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.checkin.START pkg=com.google.android.gms }
+06-30 03:59:37.981   527   952 D WifiNl80211Manager: Scan result ready event
+06-30 03:59:37.981   527   952 D WifiNative: Scan result ready event
+06-30 03:59:38.000  1104  1169 W DroidguardProvider: droidguard took a lot of time : 21960 millis [CONTEXT service_id=257 ]
+06-30 03:59:38.058  1851  2690 I Icing   : Usage reports ok 0, Failed Usage reports 1, indexed 0, rejected 0
+06-30 03:59:38.121  1104  3253 I NearbyDiscovery: FastPairScanner: Stopping scan [CONTEXT service_id=265 ]
+06-30 03:59:38.121  1104  3253 D BluetoothAdapter: isLeEnabled(): ON
+06-30 03:59:38.133  1104  3025 W ctxmgr  : [NetworkStateProducer] No state change for network connection context [CONTEXT service_id=47 ]
+06-30 03:59:38.302  1104  3025 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:38.382  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231195/com.example.lunchtray:id/soup>
+06-30 03:59:38.404   527  1885 W ServiceManager: Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10116 pid=3686
+06-30 03:59:38.538   527   557 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 1478 in 0ms
+06-30 03:59:38.547   312   312 I Zygote  : Process 1478 exited due to signal 9 (Killed)
+06-30 03:59:38.601  1851  2690 W Icing   : Failed to get Lockbox signed-in status: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 03:59:38.601  1851  2690 W Icing   : getSignedInAccountName: Falling back to default value
+06-30 03:59:38.692  1104  3021 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:38.728  3339  3581 D EGL_emulation: app_time_stats: avg=26.42ms min=5.24ms max=220.69ms count=28
+06-30 03:59:38.816  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231074/com.example.lunchtray:id/next_button>
+06-30 03:59:38.837  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 587779]
+06-30 03:59:38.855   699   986 I bt_stack: [INFO:gatt_api.cc(1042)] GATT_Deregister gatt_if=5
+06-30 03:59:38.991  1104  3021 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:39.068  1104  3253 I NearbyDiscovery: (REDACTED) FastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s
+06-30 03:59:39.068  1104  3253 I NearbyDiscovery: (REDACTED) FastPairScanner: Start scanning internally in %s
+06-30 03:59:39.071  1104  3187 W ChimeraUtils: Module com.google.android.gms.gcm missing resource null(0)
+06-30 03:59:39.143  1851  2690 W Icing   : Failed to get Lockbox signed-in status: java.util.concurrent.TimeoutException: Timed out waiting for Task
+06-30 03:59:39.165  1104  3253 D BluetoothAdapter: isLeEnabled(): ON
+06-30 03:59:39.176  1104  3025 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:39.185  2746  3201 D EGL_emulation: eglCreateContext: 0xb400007c413dd0d0: maj 3 min 0 rcv 3
+06-30 03:59:39.223  1851  2690 W Icing   : getSignedInTimestampMs: Falling back to default value
+06-30 03:59:39.224  1851  2690 W Icing   : No valid account for uploading user actions
+06-30 03:59:39.258  1601  2907 W GnpSdk  : [PhenotypeManagerImpl] Phenotype registration timed out [com.google.android.libraries.notifications.platform#com.google.android.apps.docs].
+06-30 03:59:39.288   527   646 D ConnectivityService: handleLingerComplete for [100 CELLULAR]
+06-30 03:59:39.296  2746  3201 D EGL_emulation: eglCreateContext: 0xb400007c413dd0d0: maj 3 min 0 rcv 3
+06-30 03:59:39.350  1104  3025 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:39.488  1104  3025 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:39.522   699   986 I bluetooth: system/bt/stack/gatt/gatt_api.cc:1019 GATT_Register: Allocated name:GattClient uuid:2b5bcec8-ce78-f168-35bd-94df424ed323 gatt_if:5 eatt_support:0
+06-30 03:59:39.533  1104  2199 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=5 mScannerId=0
+06-30 03:59:39.648  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+06-30 03:59:39.679  1104  3025 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:39.702  1601  2906 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+06-30 03:59:39.760  3339  3581 D EGL_emulation: app_time_stats: avg=29.14ms min=4.98ms max=272.70ms count=33
+06-30 03:59:39.889   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(2)
+06-30 03:59:39.890  1104  3253 I NearbyDiscovery: (REDACTED) FastPairScanner: Starting %s scanning
+06-30 03:59:39.910  1104  3100 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 03:59:39.934  1104  3112 W GCM     : Force release of GOOGLE_C2DM lock
+06-30 03:59:39.942  1601  2906 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+06-30 03:59:39.958  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 588903]
+06-30 03:59:40.061  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+06-30 03:59:40.168  2746  3052 D HostConnection: createUnique: call
+06-30 03:59:40.169  2746  3052 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413dacd0, tid 3052
+06-30 03:59:40.174  1851  1851 I GCM     : Message from 745476177629
+06-30 03:59:40.183  1851  2690 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+06-30 03:59:40.267  2746  3052 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 03:59:40.292  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413df950: maj 3 min 0 rcv 3
+06-30 03:59:40.298  2746  3052 D EGL_emulation: eglMakeCurrent: 0xb400007c413df950: ver 3 0 (tinfo 0x7e580e1200) (first time)
+06-30 03:59:40.340  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413df950: maj 3 min 0 rcv 3
+06-30 03:59:40.445  1851  2689 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+06-30 03:59:40.480  2353  2381 I android.vendin: oneway function results for code 2 on binder at 0xb400007bd1430e30 will be dropped but finished with status UNKNOWN_TRANSACTION
+06-30 03:59:40.505   527   557 I libprocessgroup: Successfully killed process cgroup uid 10118 pid 3267 in 44ms
+06-30 03:59:40.519  1851  2689 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:1 and remote module com.google.android.gms.providerinstaller.dynamite:0
+06-30 03:59:40.519  1851  2689 I DynamiteModule: Selected local version of com.google.android.gms.providerinstaller.dynamite
+06-30 03:59:40.533  1851  2689 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+06-30 03:59:40.541  1851  2689 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 03:59:40.541  1851  2689 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:40.640  2787  2787 I Finsky:background: [2] rir.onDestroy(8): IPC-SERVER: Stopping gRPC host service...
+06-30 03:59:40.644  1851  2690 W Icing   : No valid account for uploading user actions
+06-30 03:59:40.647   312   312 I Zygote  : Process 3267 exited due to signal 9 (Killed)
+06-30 03:59:40.666  2746  3052 D EGL_emulation: eglCreateContext: 0xb400007c413df950: maj 3 min 0 rcv 3
+06-30 03:59:40.676  1851  3710 I GMS_MM_Logger: Memory Metric Logging not allowed. Stopping.
+06-30 03:59:40.718   527   557 I libprocessgroup: Successfully killed process cgroup uid 10091 pid 2975 in 1ms
+06-30 03:59:40.750   312   312 I Zygote  : Process 2975 exited due to signal 9 (Killed)
+06-30 03:59:40.762  1851  2690 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+06-30 03:59:40.769  1851  2689 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+06-30 03:59:40.769  1851  2689 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 03:59:40.769  1851  2689 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:40.783  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:40.789  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 589734]
+06-30 03:59:40.844  3339  3581 D EGL_emulation: app_time_stats: avg=27.72ms min=5.10ms max=204.43ms count=35
+06-30 03:59:40.865  1851  2690 W Icing   : No valid account for uploading user actions
+06-30 03:59:40.867  1104  1104 I WakefulBroadcastRcvr: Processing wakeful broadcast: com.google.android.gms.notifications.intents.HANDLE_GCM_PUSH
+06-30 03:59:40.959  1104  3831 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:40.972  1396  1396 V ClearcutMetricXmitter: Transmission is done.
+06-30 03:59:41.030  1396  1396 V ClearcutMetricXmitter: Transmission is done.
+06-30 03:59:41.036  1396  1396 V ClearcutMetricXmitter: Transmission is done.
+06-30 03:59:41.052  1104  3025 W ChimeraUtils: Module com.google.android.gms.gcm missing resource null(0)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: RegistrationProvider: Failed to register with Tachyon
+06-30 03:59:41.172  1938  3031 W BugleNetwork: bjod: PERMISSION_DENIED: The caller does not have permission
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at io.grpc.Status.i(PG:1)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bkds.a(PG:6)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjru.run(PG:1)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjrw.e(PG:4)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjrw.a(PG:1)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjql.a(PG:3)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjrh.run(PG:2)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at bjze.run(PG:2)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:41.172  1938  3031 W BugleNetwork: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: RegistrationProvider: Got error in StatusRuntimeException. Notifying tachyon registration error listeners, error: 1, status: PERMISSION_DENIED
+06-30 03:59:41.175  1938  3031 W BugleNetwork: bjod: PERMISSION_DENIED: The caller does not have permission
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at io.grpc.Status.i(PG:1)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bkds.a(PG:6)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjru.run(PG:1)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjrw.e(PG:4)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjrw.a(PG:1)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjql.a(PG:3)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjrh.run(PG:2)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at bjze.run(PG:2)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:41.175  1938  3031 W BugleNetwork: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:41.176  1851  1851 I GCM     : Message from 745476177629
+06-30 03:59:41.203  1104  3112 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+06-30 03:59:41.205  1104  3112 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 03:59:41.205  1104  3112 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:41.215  1938  2146 I Bugle   : VerifiedSmsEnabledCheckerImpl: VSMS is disabled via Phenotype flag.
+06-30 03:59:41.261  1938  1938 V ClearcutMetricXmitter: Transmission is done.
+06-30 03:59:41.263  1938  1938 V ClearcutMetricXmitter: Transmission is done.
+06-30 03:59:41.266  1104  1104 I WakefulBroadcastRcvr: Processing wakeful broadcast: com.google.android.gms.notifications.intents.HANDLE_GCM_PUSH
+06-30 03:59:41.294  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 590238]
+06-30 03:59:41.295  1851  2690 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+06-30 03:59:41.314  1104  3832 W WakefulBroadcastReceiv.: No active wake lock id #1
+06-30 03:59:41.326  1104  3833 W WakefulBroadcastReceiv.: No active wake lock id #2
+06-30 03:59:41.375  1938  2144 I Bugle   : VerifiedSmsStartupTask: Checking if Verified SMS tasks should be enqueued. feature supported: false, feature enabled: false, eligible / has registered key: false, C11N: false
+06-30 03:59:41.375  1938  2144 I Bugle   : VerifiedSmsStartupTask: Not enqueuing VSMS periodic task, VSMS is disabled or not supported.
+06-30 03:59:41.378  1938  3031 I Bugle   : VerifiedSmsStartupTask: Not calling C11N to get phone numbers.
+06-30 03:59:41.397  1851  1851 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-30 03:59:41.479  2746  3052 W SystemServiceRegistry: No service published for: persistent_data_block
+06-30 03:59:41.502  1104  3831 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:41.518  1104  3831 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:41.562  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 590505]
+06-30 03:59:41.569  1851  2690 W Icing   : No valid account for uploading user actions
+06-30 03:59:41.655  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Subtotal: $0.00"
+06-30 03:59:41.659  1104  3188 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 590604]
+06-30 03:59:41.662  3339  3563 I TestRunner: finished: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)

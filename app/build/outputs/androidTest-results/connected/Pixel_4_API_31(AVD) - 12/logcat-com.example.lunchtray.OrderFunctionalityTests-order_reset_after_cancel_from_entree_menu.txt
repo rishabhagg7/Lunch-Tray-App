@@ -1,0 +1,201 @@
+06-30 03:59:57.428  3339  3563 I TestRunner: started: order_reset_after_cancel_from_entree_menu(com.example.lunchtray.OrderFunctionalityTests)
+06-30 03:59:57.428  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@2054233 in: DESTROYED
+06-30 03:59:57.428  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@2054233
+06-30 03:59:57.428  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:57.428  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:57.429  3339  3339 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-30 03:59:57.445   527  3038 W InputManager-JNI: Input channel object '5deaf4 com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+06-30 03:59:57.473  3987  4047 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:231710100
+06-30 03:59:57.493  3987  4047 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 231710100
+06-30 03:59:57.508  3987  4054 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+06-30 03:59:57.522  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-30 03:59:57.522  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-30 03:59:57.542  3868  3868 W GrowthKit: Failed to get GrowthKitJobScheduler in GrowthKitBootCompletedBroadcastReceiver So GrowthKit failed to schedule jobs after package replaced / boot completed.
+06-30 03:59:57.542  3868  3868 W GrowthKit: java.lang.NullPointerException: Unable to get GrowthKit Component from host app: com.google.android.calendar
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at cal.rll.a(PG:6)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.inject.GrowthKitBootCompletedBroadcastReceiver.onReceive(PG:1)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4308)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.app.ActivityThread.access$1600(ActivityThread.java:247)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2064)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.os.Looper.loop(Looper.java:288)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at java.lang.reflect.Method.invoke(Native Method)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+06-30 03:59:57.542  3868  3868 W GrowthKit: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+06-30 03:59:57.575  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 03:59:57.642  1104  1167 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:57.664  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+06-30 03:59:57.665  1273  4076 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+06-30 03:59:57.673  1104  1167 W ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+06-30 03:59:57.704  3987  3995 W s.youtube.musi: Suspending all threads took: 13.570ms
+06-30 03:59:57.710   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 03:59:57.739  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@b2c69c0 in: PRE_ON_CREATE
+06-30 03:59:57.740  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.740  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:57.740  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:57.740  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+06-30 03:59:57.740  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 03:59:57.784   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f8000000 0x1f8968000]
+06-30 03:59:57.788   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f8968000 0x1f92d0000]
+06-30 03:59:57.790   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fdc38000 0x1fe5a0000]
+06-30 03:59:57.828  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@b2c69c0 in: CREATED
+06-30 03:59:57.828  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.828  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.829  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.829  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.829  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.835  3987  4047 I s.youtube.musi: Waiting for a blocking GC ClassLinker
+06-30 03:59:57.859  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@b2c69c0 in: STARTED
+06-30 03:59:57.860  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.860  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.860  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.860  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.860  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.862  3339  3339 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@b2c69c0 in: RESUMED
+06-30 03:59:57.862  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/.MainActivity }, activity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.863  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.863  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.864  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.864  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@b2c69c0
+06-30 03:59:57.881  3987  4025 I s.youtube.musi: WaitForGcToComplete blocked ClassLinker on Background for 1.031s
+06-30 03:59:57.888  3987  4047 I s.youtube.musi: WaitForGcToComplete blocked ClassLinker on ClassLinker for 52.258ms
+06-30 03:59:57.930  3987  4025 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 295 native methods...
+06-30 03:59:57.931  1037  1502 D EGL_emulation: app_time_stats: avg=68.48ms min=4.68ms max=711.95ms count=17
+06-30 03:59:57.932   700   930 D EGL_emulation: app_time_stats: avg=2649.74ms min=99.30ms max=5200.18ms count=2
+06-30 03:59:57.936   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fe5a0000 0x1fef08000]
+06-30 03:59:57.939   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1fef08000 0x1ff870000]
+06-30 03:59:57.940   328   374 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0968000]
+06-30 03:59:57.960   700   930 D EGL_emulation: app_time_stats: avg=1832.97ms min=58.75ms max=5218.07ms count=3
+06-30 03:59:58.036   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +394ms
+06-30 03:59:58.072  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 03:59:58.090  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 03:59:58.090  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 03:59:58.091  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 03:59:58.092  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 03:59:58.166  3987  4047 D DynamitePackage: Instantiated singleton DynamitePackage.
+06-30 03:59:58.166  3987  4047 D DynamitePackage: Instantiating com.google.android.gms.ads.adshield.ChimeraAdShieldCreatorImpl
+06-30 03:59:58.191  3987  4025 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+06-30 03:59:58.196  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: UID for network attribution might be misset for tag 536871943 [CONTEXT service_id=39 ]
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: djhy: FULL
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at d.N(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at aodu.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbo.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbf.d(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbk.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbf.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):5)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbf.execute(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at arbf.execute(:com.google.android.gms@232216044@23.22.16 (190400-540586286):7)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at aplm.h(:com.google.android.gms@232216044@23.22.16 (190400-540586286):51)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at aplh.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):7)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 03:59:58.264  1104  3112 E GmsConnectionFactory: 	at java.lang.Thread.run(Thread.java:920)
+06-30 03:59:58.418   348   502 D AudioFlinger: mixer(0xb40000753f869a70) throttle end: throttle time(4)
+06-30 03:59:58.424  3987  4047 W s.youtube.musi: Verification of void aeh.i(android.view.MotionEvent) took 221.190ms (1265.88 bytecodes/s) (6808B approximate peak alloc)
+06-30 03:59:58.522  3987  4111 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+06-30 03:59:58.557   527  3045 W InputManager-JNI: Input channel object '41efcf4 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 03:59:58.631   527  2597 D ConnectivityService: requestNetwork for uid/pid:10120/3987 activeRequest: null callbackRequest: 133 [NetworkRequest [ REQUEST id=134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+06-30 03:59:58.633   527   646 D ConnectivityService: NetReassign [134 : null → 101]
+06-30 03:59:58.682   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:58.683   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:58.683   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10120 RequestorUid: 10120 RequestorPkg: com.google.android.apps.youtube.music] ]
+06-30 03:59:58.700   527   527 W PackageManagerB: type=1400 audit(0.0:38): avc: denied { ioctl } for path="/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk" dev="dm-2" ino=132 ioctlcmd=0x6686 scontext=u:r:system_server:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=0
+06-30 03:59:58.745  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.gsf
+06-30 03:59:58.769  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.tag
+06-30 03:59:58.777  3868  3868 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10113; state: ENABLED
+06-30 03:59:58.858  3987  3987 E YouTubeMusic: Trying to detachMediaView when it wasn't the most recent MediaView Setter
+06-30 03:59:58.897  3987  4048 E GoogleTagManager: Unsupported Value Escaping: 3
+06-30 03:59:58.929  3987  4048 E GoogleTagManager: Unsupported Value Escaping: 3
+06-30 03:59:58.938  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 03:59:58.972  1851  2633 W SQLiteLog: (28) double-quoted string literal: "1687904998972"
+06-30 03:59:58.972  1851  2633 W SQLiteLog: (28) double-quoted string literal: "1"
+06-30 03:59:58.978  3987  4048 E GoogleTagManager: Unsupported Value Escaping: 3
+06-30 03:59:58.991  3478  3478 D CellBroadcastReceiver: onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.google.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastReceiver (has extras) }
+06-30 03:59:59.032  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.partnersetup
+06-30 03:59:59.041  3339  3581 D EGL_emulation: app_time_stats: avg=29.44ms min=4.10ms max=227.54ms count=32
+06-30 03:59:59.089  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.apps.nexuslauncher
+06-30 03:59:59.094   312   312 D Zygote  : Forked child process 4183
+06-30 03:59:59.110  4183  4183 I libc    : SetHeapTaggingLevel: tag level set to 0
+06-30 03:59:59.129  4183  4183 E d.configupdate: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:59.172  3478  4182 D CellBroadcastContentProvider: database changed: notifying observers...
+06-30 03:59:59.254  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.feedback
+06-30 03:59:59.261  1104  1104 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+06-30 03:59:59.329  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+06-30 03:59:59.341  4183  4183 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10096; state: DISABLED
+06-30 03:59:59.514   527   557 I libprocessgroup: Successfully killed process cgroup uid 10090 pid 3394 in 52ms
+06-30 03:59:59.537  4183  4183 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+06-30 03:59:59.613  4183  4183 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/ConfigUpdater/lib/arm64:/product/lib64:/system/product/lib64
+06-30 03:59:59.623   312   312 I Zygote  : Process 3394 exited due to signal 9 (Killed)
+06-30 03:59:59.714  4183  4183 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.configupdater' set to: 'default'
+06-30 03:59:59.716  4183  4183 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 03:59:59.718  4183  4183 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:59.722  4183  4183 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 03:59:59.810  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.821  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.823   527   557 I libprocessgroup: Successfully killed process cgroup uid 10061 pid 2745 in 44ms
+06-30 03:59:59.824  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.android.settings
+06-30 03:59:59.834   312   312 I Zygote  : Process 2745 exited due to signal 9 (Killed)
+06-30 03:59:59.834  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.838  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/start_order_btn>
+06-30 03:59:59.889  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.898  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.904   527   536 I system_server: Background young concurrent copying GC freed 371940(16MB) AllocSpace objects, 53(5192KB) LOS objects, 47% free, 22MB/43MB, paused 440us,203us total 204.668ms
+06-30 03:59:59.908  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.917  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.926  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.930  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.937  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.apps.wallpaper
+06-30 03:59:59.937  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.938  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.939  4183  4183 E ConfigUpdater: ignoring update request
+06-30 03:59:59.941  4183  4183 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10096; state: DISABLED
+06-30 03:59:59.945  1104  3107 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.android.systemui
+06-30 03:59:59.952   312   312 D Zygote  : Forked child process 4235
+06-30 03:59:59.955   527   538 W System  : A resource failed to call release.
+06-30 03:59:59.956   527   538 W System  : A resource failed to call close.
+06-30 03:59:59.958  4235  4235 I libc    : SetHeapTaggingLevel: tag level set to 0
+06-30 03:59:59.979   312   312 I Zygote  : Process 3143 exited due to signal 9 (Killed)
+06-30 03:59:59.986  4235  4235 E droid.deskcloc: Not starting debugger since process cannot load the jdwp agent.
+06-30 03:59:59.995   527   557 I libprocessgroup: Successfully killed process cgroup uid 10100 pid 3143 in 52ms
+06-30 04:00:00.003   527   538 W System  : A resource failed to call release.
+06-30 04:00:00.003   527   538 W System  : A resource failed to call close.
+06-30 04:00:00.004   527   538 W System  : A resource failed to call release.
+06-30 04:00:00.050  3339  3581 D EGL_emulation: app_time_stats: avg=24.35ms min=8.77ms max=187.90ms count=39
+06-30 04:00:00.062  4235  4235 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10108; state: DISABLED
+06-30 04:00:00.072  4235  4235 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+06-30 04:00:00.105  4235  4235 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/PrebuiltDeskClockGoogle/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:00.140  4235  4235 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.deskclock' set to: 'default'
+06-30 04:00:00.140  4235  4235 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:00.141  4235  4235 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:00.141  4235  4235 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:00.156   700   930 D EGL_emulation: app_time_stats: avg=278.00ms min=17.34ms max=1233.12ms count=8
+06-30 04:00:00.195  4235  4235 W PrimesInit: Primes instant initialization
+06-30 04:00:00.196  4235  4255 W Primes  : background initialization
+06-30 04:00:00.207  4235  4235 W FontsContract: Platform version of downloadable fonts is deprecated. Please use androidx version instead.
+06-30 04:00:00.210  4235  4256 I GAv4    : Google Analytics 19.6.77 is starting up. To enable debug logging on a device run:
+06-30 04:00:00.210  4235  4256 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+06-30 04:00:00.210  4235  4256 I GAv4    :   adb logcat -s GAv4
+06-30 04:00:00.214  1104  3100 I FontLog : (REDACTED) Received query %s, URI %s
+06-30 04:00:00.214  1104  3100 I FontLog : (REDACTED) Query [%s] resolved to %s
+06-30 04:00:00.230  1104  3100 I FontLog : (REDACTED) Font PFD returned from cache for %s
+06-30 04:00:00.230  1104  3100 I FontLog : (REDACTED) Fetch %s end status %s
+06-30 04:00:00.235  4235  4256 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10108; state: DISABLED
+06-30 04:00:00.250  4235  4262 W GAv4    : AnalyticsReceiver is not registered or is disabled. Register the receiver for reliable dispatching on non-Google Play devices. See http://goo.gl/8Rd3yj for instructions.
+06-30 04:00:00.255  4235  4262 W GAv4    : CampaignTrackingReceiver is not registered, not exported or is disabled. Installation campaign tracking is not possible. See http://goo.gl/8Rd3yj for instructions.
+06-30 04:00:00.259  4235  4262 W GAv4    : AnalyticsService not registered in the app manifest. Hits might not be delivered reliably. See http://goo.gl/8Rd3yj for instructions.
+06-30 04:00:00.269  1104  1121 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:00.270  4235  4255 I PrimesTesting: GserviceFlagsSupplier.get()
+06-30 04:00:00.284  4235  4235 W FontsContract: Platform version of downloadable fonts is deprecated. Please use androidx version instead.
+06-30 04:00:00.288  1104  1121 I FontLog : (REDACTED) Received query %s, URI %s
+06-30 04:00:00.289  1104  1121 I FontLog : (REDACTED) Query [%s] resolved to %s
+06-30 04:00:00.290  1104  1121 I FontLog : (REDACTED) Font PFD returned from cache for %s
+06-30 04:00:00.291  1104  1121 I FontLog : (REDACTED) Fetch %s end status %s
+06-30 04:00:00.294  1104  3100 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:00.294  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Subtotal: $0.00"
+06-30 04:00:00.294  3339  3563 I TestRunner: finished: order_reset_after_cancel_from_entree_menu(com.example.lunchtray.OrderFunctionalityTests)

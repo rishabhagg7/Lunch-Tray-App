@@ -1,0 +1,25 @@
+com.example.lunchtray.test.app-navigation-runtime-2.6.0-0 /Users/rishabhaggarwal/.gradle/caches/transforms-3/047bcbe25cfa6b96a9cc003633858457/transformed/navigation-runtime-2.6.0/res
+com.example.lunchtray.test.app-core-1.10.1-1 /Users/rishabhaggarwal/.gradle/caches/transforms-3/0f6ecaba8231f15e5dab5756efdca1a1/transformed/core-1.10.1/res
+com.example.lunchtray.test.app-lifecycle-livedata-core-2.6.1-2 /Users/rishabhaggarwal/.gradle/caches/transforms-3/1652edccfe736601d26163e76ee73083/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.lunchtray.test.app-navigation-common-2.6.0-3 /Users/rishabhaggarwal/.gradle/caches/transforms-3/1f15026230d3265630deb74af2467c9f/transformed/navigation-common-2.6.0/res
+com.example.lunchtray.test.app-navigation-testing-2.6.0-4 /Users/rishabhaggarwal/.gradle/caches/transforms-3/319b57fbde1f106de87c0d755c86d8e2/transformed/navigation-testing-2.6.0/res
+com.example.lunchtray.test.app-lifecycle-runtime-2.6.1-5 /Users/rishabhaggarwal/.gradle/caches/transforms-3/484d2aaee21faed28d2ad541e848af36/transformed/lifecycle-runtime-2.6.1/res
+com.example.lunchtray.test.app-lifecycle-runtime-ktx-2.6.1-6 /Users/rishabhaggarwal/.gradle/caches/transforms-3/5054f34d3212dc08f59bdbf5e8dd05aa/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.lunchtray.test.app-activity-1.6.1-7 /Users/rishabhaggarwal/.gradle/caches/transforms-3/564ded892291f302bf600a600272f89c/transformed/activity-1.6.1/res
+com.example.lunchtray.test.app-startup-runtime-1.1.1-8 /Users/rishabhaggarwal/.gradle/caches/transforms-3/72b98245d32fdbedc79551012cd34306/transformed/startup-runtime-1.1.1/res
+com.example.lunchtray.test.app-lifecycle-viewmodel-ktx-2.6.1-9 /Users/rishabhaggarwal/.gradle/caches/transforms-3/78db687811908943f98f45d9a7833d98/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.lunchtray.test.app-savedstate-1.2.1-10 /Users/rishabhaggarwal/.gradle/caches/transforms-3/85c470226cda440bc10fda63eb5a1886/transformed/savedstate-1.2.1/res
+com.example.lunchtray.test.app-profileinstaller-1.3.0-11 /Users/rishabhaggarwal/.gradle/caches/transforms-3/8e18ef26c65c797a6586ae4c2f62e8d0/transformed/profileinstaller-1.3.0/res
+com.example.lunchtray.test.app-core-runtime-2.2.0-12 /Users/rishabhaggarwal/.gradle/caches/transforms-3/a1b90d44dec3a22eb7e67317117b1059/transformed/core-runtime-2.2.0/res
+com.example.lunchtray.test.app-core-ktx-1.10.1-13 /Users/rishabhaggarwal/.gradle/caches/transforms-3/aa8595d9a73aaac427d81dc88a8e9db0/transformed/core-ktx-1.10.1/res
+com.example.lunchtray.test.app-core-1.5.0-14 /Users/rishabhaggarwal/.gradle/caches/transforms-3/ae3aafff89a397eaf9ca59ddf156c65d/transformed/core-1.5.0/res
+com.example.lunchtray.test.app-lifecycle-viewmodel-savedstate-2.6.1-15 /Users/rishabhaggarwal/.gradle/caches/transforms-3/afec3295be20348803e7444acee69e02/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.lunchtray.test.app-annotation-experimental-1.3.0-16 /Users/rishabhaggarwal/.gradle/caches/transforms-3/b424c4ca0be24a25334a380a2aefdc77/transformed/annotation-experimental-1.3.0/res
+com.example.lunchtray.test.app-activity-ktx-1.6.1-17 /Users/rishabhaggarwal/.gradle/caches/transforms-3/b8cecd91c80160599bfa677e74552dba/transformed/activity-ktx-1.6.1/res
+com.example.lunchtray.test.app-savedstate-ktx-1.2.1-18 /Users/rishabhaggarwal/.gradle/caches/transforms-3/e0a0095d0da38a169f5a071a0eb3cb75/transformed/savedstate-ktx-1.2.1/res
+com.example.lunchtray.test.app-lifecycle-viewmodel-2.6.1-19 /Users/rishabhaggarwal/.gradle/caches/transforms-3/e2a015561410165d188f46fde92e1e6e/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.lunchtray.test.app-lifecycle-runtime-testing-2.6.1-20 /Users/rishabhaggarwal/.gradle/caches/transforms-3/e3f0c37698dadd87a0eea515411514bc/transformed/lifecycle-runtime-testing-2.6.1/res
+com.example.lunchtray.test.app-androidTest-21 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-lunch-tray-app-main/app/build/generated/res/resValues/androidTest/debug
+com.example.lunchtray.test.app-mergeDebugAndroidTestResources-22 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-lunch-tray-app-main/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.lunchtray.test.app-mergeDebugAndroidTestResources-23 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-lunch-tray-app-main/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.lunchtray.test.app-merged_res-24 /Users/rishabhaggarwal/Desktop/coding /Android Development/android-basics-kotlin-lunch-tray-app-main/app/build/intermediates/merged_res/debugAndroidTest

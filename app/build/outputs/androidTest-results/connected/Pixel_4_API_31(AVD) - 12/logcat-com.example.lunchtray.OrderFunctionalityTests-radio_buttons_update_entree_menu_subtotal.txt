@@ -1,0 +1,564 @@
+06-30 04:00:13.834  3339  3563 I TestRunner: started: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+06-30 04:00:13.835  4698  4822 I PlayCommon: [56] alko.j(149): Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+06-30 04:00:13.868  3339  3563 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-30 04:00:13.920   527   852 D ConnectivityService: requestNetwork for uid/pid:10115/4678 activeRequest: null callbackRequest: 149 [NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:13.923  4678  4678 W YT.MDX.zmu: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+06-30 04:00:13.923   527   646 D ConnectivityService: NetReassign [150 : null → 101]
+06-30 04:00:13.940   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:13.942   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:13.942   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10115 RequestorUid: 10115 RequestorPkg: com.google.android.youtube] ]
+06-30 04:00:13.946  4678  4678 W YT.MDX.zmu: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+06-30 04:00:13.952  4678  4678 W YT.MDX.zmu: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+06-30 04:00:13.958  4539  4539 E GooglePartnerSetup: Phenotype client.register: true
+06-30 04:00:14.009  1104  3021 E bxjz    : Phenotype API error. Event # eevz@191f5a26, EventCode: 5 [CONTEXT service_id=51 ]
+06-30 04:00:14.009  1104  3021 E bxjz    : bxir: 29501: Stale snapshot for com.google.android.tts#com.google.android.tts(change count changed - expected 6  but was 5)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at bxkd.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):16)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at bxkc.g(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):4)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.009  1104  3021 E bxjz    : 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29501 [CONTEXT service_id=51 ]
+06-30 04:00:14.015  1104  3021 W AsyncOperation: OperationException[Status{statusCode=Stale snapshot for com.google.android.tts#com.google.android.tts(change count changed - expected 6  but was 5), resolution=null}]
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.015  1104  3021 W AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.027   353   353 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-30 04:00:14.061   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4968000]
+06-30 04:00:14.067   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f4968000 0x1f52d0000]
+06-30 04:00:14.069   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1fada8000 0x1fb710000]
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: Failed to commit due to stale snapshot for com.google.android.tts#com.google.android.tts, triggering flag update.
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: eea: 29501: 29501: Stale snapshot for com.google.android.tts#com.google.android.tts(change count changed - expected 6  but was 5)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cze.a(PG:17)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gwt.c(PG:2)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gwv.run(PG:11)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gyo.execute(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gxj.q(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gxj.j(PG:12)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gxj.m(PG:3)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cuy.a(PG:5)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at coq.run(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at gyo.execute(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cor.a(PG:3)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cpf.b(PG:5)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cpk.o(PG:4)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cpg.a(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at aks.f(PG:3)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at aks.e(PG:1)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at cnq.w(PG:31)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at ayt.onTransact(PG:3)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: Caused by: chh: 29501: Stale snapshot for com.google.android.tts#com.google.android.tts(change count changed - expected 6  but was 5)
+06-30 04:00:14.108  4629  4668 W ProtoDataStoreFlagStore: 	... 6 more
+06-30 04:00:14.188  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b in: PRE_ON_CREATE
+06-30 04:00:14.191  3339  3339 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-30 04:00:14.249  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b in: CREATED
+06-30 04:00:14.250  3339  3339 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b
+06-30 04:00:14.254  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b in: STARTED
+06-30 04:00:14.264  3339  3339 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b
+06-30 04:00:14.264  3339  3339 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b in: RESUMED
+06-30 04:00:14.265  3339  3339 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.EmptyFragmentActivity@4f7a98b
+06-30 04:00:14.292  1037  1502 D EGL_emulation: app_time_stats: avg=39.03ms min=5.27ms max=579.85ms count=25
+06-30 04:00:14.331   312   312 D Zygote  : Forked child process 4849
+06-30 04:00:14.333  4698  4828 I Finsky:instant_app_inst: [57] qts.c(16): No eligible accounts. Bail out.
+06-30 04:00:14.333  4698  4759 I Finsky:instant_app_inst: [51] ArchivePrefetchService.b(79): InstantApps account missing, skip sync.
+06-30 04:00:14.340   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f93a8000 0x1f9d10000]
+06-30 04:00:14.349   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f9d10000 0x1fa678000]
+06-30 04:00:14.353   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f8000000 0x1f8968000]
+06-30 04:00:14.371  4849  4849 E oogle.pixel.ex: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:14.384   527   557 I libprocessgroup: Successfully killed process cgroup uid 10125 pid 3742 in 44ms
+06-30 04:00:14.405   312   312 I Zygote  : Process 3742 exited due to signal 9 (Killed)
+06-30 04:00:14.408   527  1884 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(uid/pid:10125/3742, android.os.BinderProxy@88beaed)
+06-30 04:00:14.408   527   646 D ConnectivityService: releasing NetworkRequest [ REQUEST id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10125 RequestorUid: 10125 RequestorPkg: com.google.android.apps.photos] ] (release request)
+06-30 04:00:14.417  4698  4698 D PhenotypeUpdateService: onCreate called
+06-30 04:00:14.422   527   544 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.EmptyFragmentActivity: +468ms
+06-30 04:00:14.423  4698  4759 D PhenotypeUpdateService: Registering with Phenotype
+06-30 04:00:14.432  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3306
+06-30 04:00:14.450  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 0, locked = false
+06-30 04:00:14.451  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1909 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null hintLocales=[]}, false)
+06-30 04:00:14.451  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1990 ShouldHideHeaderOnInitialState = false
+06-30 04:00:14.452  1312  1312 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2127 repeatCheckTimes = 1, locked = false
+06-30 04:00:14.453  4849  4849 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10136; state: ENABLED
+06-30 04:00:14.525  4698  4822 W PlayCommon: [56] alko.l(1): No account for auth token provided
+06-30 04:00:14.526  4698  4822 I PlayCommon: [56] alko.j(183): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+06-30 04:00:14.548   328   328 D goldfish-address-space: claimShared: Ask to claim region [0x1f2178000 0x1f23d4000]
+06-30 04:00:14.552   527   829 D HostConnection: createUnique: call
+06-30 04:00:14.553   527   829 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c41429a50, tid 829
+06-30 04:00:14.557  4849  4849 V GraphicsEnvironment: ANGLE Developer option for 'com.google.pixel.exo' set to: 'default'
+06-30 04:00:14.558  4849  4849 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:14.559  4849  4849 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:14.560  4849  4849 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:14.566   527   829 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+06-30 04:00:14.618  1104  3021 E bxjz    : Phenotype API error. Event # eevz@c2d62b07, EventCode: 5 [CONTEXT service_id=51 ]
+06-30 04:00:14.618  1104  3021 E bxjz    : bxir: 29501: Stale snapshot for com.google.android.libraries.notifications.platform#com.google.android.youtube(change count changed - expected 2  but was 1)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at bxkd.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):16)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at bxkc.g(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):4)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.618  1104  3021 E bxjz    : 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29501 [CONTEXT service_id=51 ]
+06-30 04:00:14.639  1104  3021 W AsyncOperation: OperationException[Status{statusCode=Stale snapshot for com.google.android.libraries.notifications.platform#com.google.android.youtube(change count changed - expected 2  but was 1), resolution=null}]
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.639  1104  3021 W AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.646  4678  4757 W MobStoreFlagStore: Failed to commit due to stale snapshot for com.google.android.libraries.notifications.platform#com.google.android.youtube, triggering flag update. Experiments may be delayed til next app start.
+06-30 04:00:14.653  4849  4849 W Exo     : PersistentService: Unable to bind to wirecutter
+06-30 04:00:14.668  1104  3021 E bxjz    : Phenotype API error. Event # eevz@2eedb7c, EventCode: 5 [CONTEXT service_id=51 ]
+06-30 04:00:14.668  1104  3021 E bxjz    : bxir: 29501: Stale snapshot for com.google.android.libraries.performance.primes#com.google.android.youtube(change count changed - expected 12  but was 11)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at bxkd.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):16)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at bxkc.g(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):4)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.668  1104  3021 E bxjz    : 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29501 [CONTEXT service_id=51 ]
+06-30 04:00:14.668  1104  3021 W AsyncOperation: OperationException[Status{statusCode=Stale snapshot for com.google.android.libraries.performance.primes#com.google.android.youtube(change count changed - expected 12  but was 11), resolution=null}]
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):8)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:14.668  1104  3021 W AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:14.671  4678  4757 W MobStoreFlagStore: Failed to commit due to stale snapshot for com.google.android.libraries.performance.primes#com.google.android.youtube, triggering flag update. Experiments may be delayed til next app start.
+06-30 04:00:14.730  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+06-30 04:00:14.736  2353  2676 I android.vendin: oneway function results for code 2 on binder at 0xb400007bd144aba0 will be dropped but finished with status UNKNOWN_TRANSACTION
+06-30 04:00:14.749   527   584 W InputManager-JNI: Input channel object 'ac8dd55 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+06-30 04:00:14.753  4698  4822 I PlayCommon: [56] alko.j(220): Successfully uploaded logs.
+06-30 04:00:14.780   312   312 D Zygote  : Forked child process 4870
+06-30 04:00:14.786  2787  2787 I Finsky:background: [2] rir.onDestroy(8): IPC-SERVER: Stopping gRPC host service...
+06-30 04:00:14.829  4870  4870 E droid.apps.map: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:14.901  1104  4888 I WakefulBroadcastRcvr: Processing wakeful broadcast: BootOrGmsUpdated
+06-30 04:00:15.033   312   312 D Zygote  : Forked child process 4898
+06-30 04:00:15.044  4870  4870 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10116; state: ENABLED
+06-30 04:00:15.057  4898  4898 E .apps.wellbein: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:15.057  1104  2278 I FontLog : (REDACTED) Received query %s, URI %s
+06-30 04:00:15.058  1104  2278 I FontLog : (REDACTED) Query [%s] resolved to %s
+06-30 04:00:15.065  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+06-30 04:00:15.073  1104  1112 I .gms.persisten: Compiler allocated 5814KB to compile void bxmx.D(java.util.Set, java.util.List, doif, java.lang.String, boolean, eaxt, bxmw, java.util.LinkedHashMap, diwz, boolean, eevo)
+06-30 04:00:15.113  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.maps#com.google.android.gms [CONTEXT service_id=231 ]
+06-30 04:00:15.122  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:15.124  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+06-30 04:00:15.129  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230858/com.example.lunchtray:id/chili>
+06-30 04:00:15.134  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+06-30 04:00:15.146  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.libraries.spot#com.google.android.gms [CONTEXT service_id=231 ]
+06-30 04:00:15.150  1851  4874 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+06-30 04:00:15.152  1104  4889 I NearbyConnections: Runtime state initialization complete. Nearby connections setting is enabled. [CONTEXT service_id=54 ]
+06-30 04:00:15.173  4870  4870 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/Maps/lib/arm64:/product/app/Maps/Maps.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 04:00:15.177  1104  2278 I FontLog : (REDACTED) Fetch %s end status %s
+06-30 04:00:15.250  1104  1167 I NearbyMediums: BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore default scan mode. [CONTEXT service_id=54 ]
+06-30 04:00:15.256  4870  4870 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.maps' set to: 'default'
+06-30 04:00:15.256  4870  4870 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:15.257  4870  4870 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:15.257  4870  4870 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:15.268  1104  1167 I NearbyMediums: BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore device name [CONTEXT service_id=54 ]
+06-30 04:00:15.276  1104  2278 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:15.349  1104  2278 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+06-30 04:00:15.373  4898  4898 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10098; state: DISABLED
+06-30 04:00:15.376  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.376  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.384  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.410  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.413  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.413  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.413  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.414  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.414  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.414  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.415  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.415  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.416  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.416  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.420  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.421  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.432  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.439  1851  1862 W System  : A resource failed to call close.
+06-30 04:00:15.440  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.441  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.441  1104  4872 I NamespaceManager: (REDACTED) Package %s name not found! Using module version.
+06-30 04:00:15.452  4898  4898 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/WellbeingPrebuilt/lib/arm64:/product/lib64:/system/product/lib64
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: Sync failed [CONTEXT service_id=51 ]
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: bxir: 29504: Null server response, http status code 500: 6
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxmx.D(:com.google.android.gms@232216044@23.22.16 (190400-540586286):202)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxmx.p(:com.google.android.gms@232216044@23.22.16 (190400-540586286):59)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxmx.w(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxmx.o(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxlk.g(:com.google.android.gms@232216044@23.22.16 (190400-540586286):13)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxjz.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):4)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at bxjz.f(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at awap.eL(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at awaw.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):14)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at dgsr.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at achn.c(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at achn.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):7)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at acmt.run(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:15.462  1104  1169 W HeterodyneSyncer: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.541  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $4.00"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:15.548  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231099/com.example.lunchtray:id/pasta>
+06-30 04:00:15.575  4678  4905 I FA      : App measurement initialized, version: 79017
+06-30 04:00:15.575  4678  4905 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+06-30 04:00:15.576  4678  4905 I FA      : To enable faster debug mode event logging run:
+06-30 04:00:15.576  4678  4905 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.youtube
+06-30 04:00:15.578  4898  4898 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.wellbeing' set to: 'default'
+06-30 04:00:15.578  4898  4898 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:15.585  4898  4898 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:15.586  4898  4898 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:15.605  4678  4799 D StrictMode: StrictMode policy violation; ~duration=516 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at libcore.io.BlockGuardOs.access(BlockGuardOs.java:74)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at libcore.io.ForwardingOs.access(ForwardingOs.java:131)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.app.ActivityThread$AndroidOs.access(ActivityThread.java:7716)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at java.io.UnixFileSystem.checkAccess(UnixFileSystem.java:281)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at java.io.File.exists(File.java:813)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at aobe.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at aoch.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):19)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at aoch.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at aock.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):11)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):9)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at hhq.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:15.605  4678  4799 D StrictMode: # via Binder call with stack:
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:2497)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:2370)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:139)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentProviderProxy.query(ContentProviderNative.java:481)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1219)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1151)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at azn.a(PG:1)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at azo.a(PG:30)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at big.a(PG:1)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.605  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.606  4678  4799 D StrictMode: StrictMode policy violation; ~duration=516 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.io.UnixFileSystem.getBooleanAttributes(UnixFileSystem.java:250)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.io.File.isDirectory(File.java:843)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aobe.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoch.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):19)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoch.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aock.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):11)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):9)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:15.606  4678  4799 D StrictMode: # via Binder call with stack:
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:2497)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:2370)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:139)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProviderProxy.query(ContentProviderNative.java:481)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1219)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1151)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at azn.a(PG:1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at azo.a(PG:30)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at big.a(PG:1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.606  4678  4799 D StrictMode: StrictMode policy violation; ~duration=438 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at libcore.io.BlockGuardOs.stat(BlockGuardOs.java:418)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at libcore.io.ForwardingOs.stat(ForwardingOs.java:853)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.app.ActivityThread$AndroidOs.stat(ActivityThread.java:7739)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.io.UnixFileSystem.getLength(UnixFileSystem.java:298)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.io.File.length(File.java:968)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aobe.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoch.e(:com.google.android.gms@232216044@23.22.16 (190400-540586286):19)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoch.b(:com.google.android.gms@232216044@23.22.16 (190400-540586286):6)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aock.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):11)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):9)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at hhq.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:15.606  4678  4799 D StrictMode: # via Binder call with stack:
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:2497)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:2370)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:139)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentProviderProxy.query(ContentProviderNative.java:481)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1219)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1151)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at azn.a(PG:1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at azo.a(PG:30)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at big.a(PG:1)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.606  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.610  4678  4799 D StrictMode: StrictMode policy violation; ~duration=275 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileDispatcherImpl.size(FileDispatcherImpl.java:106)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.size(FileChannelImpl.java:359)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:167)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:153)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axx.a(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axt.c(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ayc.f(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at big.a(PG:14)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.610  4678  4799 D StrictMode: StrictMode policy violation; ~duration=275 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileDispatcherImpl.size(FileDispatcherImpl.java:106)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.map(FileChannelImpl.java:945)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:168)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:153)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axx.a(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axt.c(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ayc.f(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at big.a(PG:14)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.610  4678  4799 D StrictMode: StrictMode policy violation; ~duration=275 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.map(FileChannelImpl.java:982)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:168)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.graphics.fonts.Font$Builder.<init>(Font.java:153)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axx.a(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axt.c(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ayc.f(PG:1)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at big.a(PG:14)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.610  4678  4799 D StrictMode: StrictMode policy violation; ~duration=252 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileDispatcherImpl.size(FileDispatcherImpl.java:106)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.size(FileChannelImpl.java:359)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at axd.c(PG:5)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at big.a(PG:15)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.610  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.611  4678  4799 D StrictMode: StrictMode policy violation; ~duration=252 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at sun.nio.ch.FileDispatcherImpl.size(FileDispatcherImpl.java:106)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.map(FileChannelImpl.java:945)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at axd.c(PG:6)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at big.a(PG:15)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.611  4678  4799 D StrictMode: StrictMode policy violation; ~duration=252 ms: android.os.strictmode.DiskReadViolation
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1659)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at sun.nio.ch.FileChannelImpl.map(FileChannelImpl.java:982)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at axd.c(PG:6)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at big.a(PG:15)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at aoz.run(PG:25)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Handler.handleCallback(Handler.java:938)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Looper.loopOnce(Looper.java:201)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at android.os.Looper.loop(Looper.java:288)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at pku.run(PG:4)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at ouc.run(PG:27)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:15.611  4678  4799 D StrictMode: 	at plt.run(PG:5)
+06-30 04:00:15.612  4898  4898 I MultiDex: VM with version 2.1.0 has multidex support
+06-30 04:00:15.613  4898  4898 I MultiDex: install
+06-30 04:00:15.613  4898  4898 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+06-30 04:00:15.654  1851  1851 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-30 04:00:15.655  1851  1851 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-30 04:00:15.700  3339  3581 D EGL_emulation: app_time_stats: avg=23.03ms min=3.90ms max=325.54ms count=52
+06-30 04:00:15.870  4898  4942 W .apps.wellbein: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+06-30 04:00:15.870  4898  4942 W .apps.wellbein: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:15.870  4898  4942 W .apps.wellbein: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+06-30 04:00:15.889  4898  4898 I jsr     : SslGuard completed installation.
+06-30 04:00:15.916  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:15.920  3339  3339 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231183/com.example.lunchtray:id/skillet>
+06-30 04:00:16.104   527   557 I libprocessgroup: Successfully killed process cgroup uid 10096 pid 4183 in 0ms
+06-30 04:00:16.121   312   312 I Zygote  : Process 4183 exited due to signal 9 (Killed)
+06-30 04:00:16.142  4870  4948 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10116; state: ENABLED
+06-30 04:00:16.254  4870  4950 W System  : ClassLoader referenced unknown path:
+06-30 04:00:16.274  4898  4967 W DynamiteModule: Local module descriptor class for com.google.android.gms.googlecertificates not found.
+06-30 04:00:16.290  4898  4967 D StrictMode: StrictMode policy violation: android.os.strictmode.CustomViolation: gcore.dynamite
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onCustomSlowCall(StrictMode.java:1626)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.StrictMode.noteSlowCall(StrictMode.java:2694)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at acme.a(:com.google.android.gms@232216044@23.22.16 (190400-540586286):0)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at com.google.android.gms.chimera.container.GmsModuleChimeraProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):10)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):3)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1408)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at zgm.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):9)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentProvider.query(ContentProvider.java:1504)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hhq.superQuery(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):1)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hhq.query(:com.google.android.gms@232216044@23.22.16 (190400-540586286):2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:272)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:107)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-30 04:00:16.290  4898  4967 D StrictMode: # via Binder call with stack:
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:2497)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:2370)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:139)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentProviderProxy.query(ContentProviderNative.java:481)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1219)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1151)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at android.content.ContentResolver.query(ContentResolver.java:1107)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hzi.e(PG:10)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hzi.b(PG:10)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hza.b(PG:1)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hzb.a(PG:4)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hzi.c(PG:5)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hpm.f(PG:4)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hpm.b(PG:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at hpu.b(PG:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at boj.a(Unknown Source:11)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at lsl.a(PG:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at mjz.f(PG:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at mka.run(PG:9)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at ita.run(PG:5)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at ism.run(Unknown Source:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at ise.run(Unknown Source:2)
+06-30 04:00:16.290  4898  4967 D StrictMode: 	at java.lang.Thread.run(Thread.java:920)
+06-30 04:00:16.298  4898  4967 I DynamiteModule: Considering local module com.google.android.gms.googlecertificates:0 and remote module com.google.android.gms.googlecertificates:7
+06-30 04:00:16.298  4898  4967 I DynamiteModule: Selected remote version of com.google.android.gms.googlecertificates, version >= 7
+06-30 04:00:16.314   312   312 D Zygote  : Forked child process 4969
+06-30 04:00:16.315  4870  4951 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-30 04:00:16.349   312   312 I Zygote  : Process 4235 exited due to signal 9 (Killed)
+06-30 04:00:16.353  4898  4967 W System  : ClassLoader referenced unknown path:
+06-30 04:00:16.368   527   557 I libprocessgroup: Successfully killed process cgroup uid 10108 pid 4235 in 47ms
+06-30 04:00:16.371  4969  4969 E ecovery_proces: Not starting debugger since process cannot load the jdwp agent.
+06-30 04:00:16.385  4870  4951 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-30 04:00:16.389  4870  4951 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-30 04:00:16.400  4969  4969 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10116; state: ENABLED
+06-30 04:00:16.404   527  2576 D ConnectivityService: requestNetwork for uid/pid:10116/4870 activeRequest: null callbackRequest: 151 [NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]] callback flags: 0 priority: 2147483647
+06-30 04:00:16.406   527   646 D ConnectivityService: NetReassign [152 : null → 101]
+06-30 04:00:16.412   527   639 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 04:00:16.412   527   639 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 04:00:16.413   527   639 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10116 RequestorUid: 10116 RequestorPkg: com.google.android.apps.maps] ]
+06-30 04:00:16.420   527   646 D ConnectivityService: NetReassign [no changes]
+06-30 04:00:16.430  4969  4969 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/Maps/lib/arm64:/product/app/Maps/Maps.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+06-30 04:00:16.452  4969  4969 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.maps' set to: 'default'
+06-30 04:00:16.452  4969  4969 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-30 04:00:16.455  4969  4969 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:16.455  4969  4969 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-30 04:00:16.460  4870  4950 I cr_CronetLibraryLoader: Cronet version: 114.0.5735.33, arch: aarch64
+06-30 04:00:16.466  4870  4951 D HostConnection: createUnique: call
+06-30 04:00:16.467  4870  4951 D HostConnection: HostConnection::get() New Host Connection established 0xb400007c413dcc50, tid 4951
+06-30 04:00:16.480  3339  3339 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231225/com.example.lunchtray:id/subtotal>
+06-30 04:00:16.481  3339  3563 I TestRunner: finished: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
